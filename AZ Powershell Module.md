@@ -17,7 +17,15 @@ Clear-AZContext to remove all stored credentials
 Save-AZContext -Path .local/schwarzie2478_context.json to save context to a file  
 Import-AZContext to load context back in the session  
 
-Autosaving:   Enable-AZContextAutoSave / Disable-AZContextAutoSave  
+Autosaving:   Enable-AZContextAutoSave / Disable-AZContextAutoSave 
+
+## Looking up an command
+
+Neat little trick to find the comman you are looking for
+
+  get-command *WebApp*
+
+
 
 ## AZureRM deprecated!
 [Back to Index](Index.md)
