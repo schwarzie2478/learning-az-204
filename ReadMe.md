@@ -10,6 +10,15 @@ Demo resource group: Regroup_2sCSVyw
 
 ## Day 1 Notes:
 
+Azure CLI [link](https://learn.microsoft.com/en-us/cli/azure/)
+
+Azure Cloud shell
+
+
+### [Lab 01](Labs/Lab%2001/ReadMe.md)
+
+
+
 
 ## Side Notes
 
@@ -36,3 +45,11 @@ az upgrade
 az extension update --name azure-devops --verbose
 
 
+## Generate index.md
+
+$list = gci '*.md' -Recurse | ?{ $_.Name -ne "ReadMe.md"}| Resolve-Path -Relative 
+$list | set-content index.md 
+
+TODO: Add step to provide back reference to index.md 
+
+[Back to Index](Index.md)
