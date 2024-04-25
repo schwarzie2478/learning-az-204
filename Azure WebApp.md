@@ -8,11 +8,19 @@ You need an Subscription, ResourceGroup and an App Service Plan
 
 ## Creation Options
 
+Instead of going through the wizard to create all the difference things
+you can also use the Azure CLI with one do it all command
+
+az webapp up --location xxx --name xxx
+
+
 ### Deployment options
 
 Code (Github Actions)
 Docker
 Static Web App
+
+Attention: You cannot deploy an pre-compiled exe binary to an App Service
 
 ### App Service Plan
 
@@ -71,6 +79,8 @@ use publish wizard
 Every App Service has a site extension to allow for software configuration management ( SCM)
 
 if your site is configured as  mysite.azurewebsites.net,  the scm is reachable at  mysite.scm.azurewebsites.net
+
+This is powered by the Kudu Service: [link](https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)
 
 ### Deployment slots
 
