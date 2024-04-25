@@ -2,6 +2,9 @@
 
 Not required for Certicate
 
+## Azure CLI 
+
+az vm list
 
 VM are Infrastructure as a service (IAAS)
     * must have network access configured

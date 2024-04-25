@@ -1,5 +1,8 @@
 # Azure Subscriptions
 
+Current Subscription:
+$sub = Get-AzContext | %{ $_.Subscription} 
+
 Organise your subscriptions by assign access with roles
 
 RBAC + policies
