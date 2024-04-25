@@ -2,8 +2,10 @@
 
 
 ##  Install
-
+Get-Module -Name Az -ListAvailable
 Install-Module -Name Az -Repository PSGallery -Force
+
+Update-Module Az
 
 Connect-AZAccount
 

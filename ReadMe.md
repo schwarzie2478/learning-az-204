@@ -4,7 +4,7 @@
 
 Udemy learning path with  workspaces to try out stuff
 
-Login: [Credentials](Credentials.md)
+Login: [Credentials](.local/Credentials.md)
 
 Demo resource group: Regroup_2sCSVyw
 
