@@ -4,8 +4,16 @@
 
 ### Login info ###
 Credentials.md
+.local/
 
+    
+ 
+
+## Command Dumbp
+
+https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0#save-azure-contexts-across-powershell-sessions
 ### AzureFunctions ###
+
 # Azure Functions localsettings file
 local.settings.json
 
