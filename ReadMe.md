@@ -2,9 +2,11 @@
 
 ## Starting
 
+Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
+
 Udemy learning path with  workspaces to try out stuff
 
-Login: [Credentials](.local/Credentials.md)
+Login: [Credentials](.local/Credentials.md) (not uploaded)
 
 Demo resource group: Regroup_2sCSVyw
 
