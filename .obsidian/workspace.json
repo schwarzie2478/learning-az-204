@@ -13,13 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Service Environment.md",
+                "file": "Azure/App Service Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c047bb6449b8f9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Web Account Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcb34ed33a323c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Device Code Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21bba29fdfa50395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Infrastructure As A Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b826ad5456c3651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Kudu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d8a747b8d5b73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Kusto Query Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d269bac323c8bdb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Microsoft.Compute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cdd7034c9172a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Cloud Shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application Service Environment.md",
+                "file": "Azure/Azure Cloud Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Service Environment.md",
+                "file": "Azure/Azure Cloud Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Service Environment.md"
+                "file": "Azure/Azure Cloud Shell.md"
               }
             }
           }
@@ -146,10 +231,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9427b584d1996005",
+  "active": "7cdd7034c9172a68",
   "lastOpenFiles": [
-    "App Service Plan.md",
-    "Azure App Service.md",
-    "ReadMe.md"
+    "Study Recaps/Day 01.md",
+    "Azure/Azure Cloud Shell.md",
+    "Azure/AZ Powershell Module.md",
+    "ReadMe.md",
+    "Study Recaps/Day 02.md",
+    "Bookmarks.md",
+    "Azure/Azure CLI.md",
+    "Azure/Platform As A Service.md",
+    "Azure/Microsoft.Compute.md",
+    "Azure/Kusto Query Language.md",
+    "Azure/Kudu.md",
+    "Azure/Infrastructure As A Service.md",
+    "Azure/Device Code Flow.md",
+    "Azure/App Service Plan.md",
+    "Azure",
+    "Azure/Application Service Environment.md",
+    "Azure/Web Account Manager.md",
+    "index.md",
+    "Azure/Resource Groups.md",
+    "Labs/Lab 01/ReadMe.md",
+    "Azure/Azure WebApp.md",
+    "Azure/Azure App Service.md"
   ]
 }

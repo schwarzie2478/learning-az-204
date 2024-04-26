@@ -13,20 +13,17 @@ Login: [Credentials](.local/Credentials.md) (not uploaded)
 
 Demo resource group: Regroup_2sCSVyw
 
-## Day 1 Notes:
 
-Azure CLI [link](https://learn.microsoft.com/en-us/cli/azure/)
 
-Azure Cloud shell
+Explore Certificate requirement:[[Bookmarks]]
 
-[Azure%20App%20Service](Azure%20App%20Service.md)
 
+
+
+Day 2
 ### [Lab 01](Labs/Lab%2001/ReadMe.md)
 
 
-
-
-## Side Notes
 
 
 
