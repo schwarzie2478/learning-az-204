@@ -4,100 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb76a6484be3d82e",
+        "id": "deb94baa959b1620",
         "type": "tabs",
         "children": [
           {
-            "id": "9427b584d1996005",
+            "id": "0b50a388dd5f5221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DataViews/Azure Lexicon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c047bb6449b8f9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Web Account Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcb34ed33a323c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Device Code Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21bba29fdfa50395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Infrastructure As A Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b826ad5456c3651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Kudu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0d8a747b8d5b73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Kusto Query Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d269bac323c8bdb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Microsoft.Compute.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cdd7034c9172a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/App Service Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,13 +128,21 @@
                 "file": "DataViews/Azure Lexicon.md"
               }
             }
+          },
+          {
+            "id": "fcec0c8cd19ae313",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +155,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9427b584d1996005",
+  "active": "0b50a388dd5f5221",
   "lastOpenFiles": [
     "Azure/App Service Plan.md",
     "DataViews/Azure Lexicon.md",
+    "Azure/Application Service Environment.md",
+    "Azure/Microsoft.Compute.md",
+    "Azure/Kusto Query Language.md",
+    "Azure/Kudu.md",
+    "Azure/Infrastructure As A Service.md",
+    "Azure/Device Code Flow.md",
+    "Azure/Web Account Manager.md",
+    "ReadMe.md",
     "DataViews",
     "Untitled",
     "index.md",
@@ -242,19 +174,11 @@
     "Azure/Azure Cloud Shell.md",
     "Study Recaps/Day 01.md",
     "Azure/AZ Powershell Module.md",
-    "ReadMe.md",
     "Study Recaps/Day 02.md",
     "Bookmarks.md",
     "Azure/Azure CLI.md",
     "Azure/Platform As A Service.md",
-    "Azure/Microsoft.Compute.md",
-    "Azure/Kusto Query Language.md",
-    "Azure/Kudu.md",
-    "Azure/Infrastructure As A Service.md",
-    "Azure/Device Code Flow.md",
     "Azure",
-    "Azure/Application Service Environment.md",
-    "Azure/Web Account Manager.md",
     "Azure/Resource Groups.md",
     "Labs/Lab 01/ReadMe.md",
     "Azure/Azure WebApp.md",

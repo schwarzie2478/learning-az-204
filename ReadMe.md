@@ -1,27 +1,22 @@
 # Study Notes AZ-204
 
-## Table of Contents
-[toc]
-
 ## Starting
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 
-Udemy learning path with  workspaces to try out stuff
-
-Login: [Credentials](.local/Credentials.md) (not uploaded)
-
-Demo resource group: Regroup_2sCSVyw
+Udemy learning path with  workspaces to try out stuff 
+(don't forget to use the workspaces and save the credentials!)
 
 
 
-Explore Certificate requirement:[[Bookmarks]]
+Best view documentation from [Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian) client with following plugins installed:
+- Auto Note Mover
+- Auto Table Of Contents
+- Admonition
+- Dataviews
+- Advanced Tables
 
 
-
-
-Day 2
-### [Lab 01](Labs/Lab%2001/ReadMe.md)
 
 
 
