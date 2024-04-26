@@ -1,4 +1,9 @@
-# Azure Key Vault
+---
+tags:
+  - azure
+type: term
+definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+---
 
 Storage of secrets and certificates to be used by your resources
 

@@ -1,3 +1,3 @@
 Practice with App Service Labs and examples
 
-[[Labs/Lab 01/ReadMe]]
+[[AZ-204 Lab 01 Notes]]

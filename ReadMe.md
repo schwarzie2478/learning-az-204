@@ -7,9 +7,16 @@ Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.c
 Udemy learning path with  workspaces to try out stuff 
 (don't forget to use the workspaces and save the credentials!)
 
+Reference material
+[[Glossary]]
+[[Bookmarks]]
+
+Follow along:
+[[Day 01]]
+[[Day 02]]
 
 
-Best view documentation from [Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian) client with following plugins installed:
+Best viewed from [Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian) client using following plugins:
 - Auto Note Mover
 - Auto Table Of Contents
 - Admonition

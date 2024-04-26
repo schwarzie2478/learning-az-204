@@ -1,4 +1,9 @@
-# Azure Subscriptions
+---
+tags:
+  - azure
+type: term
+definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+---
 
 Current Subscription:
 $sub = Get-AzContext | %{ $_.Subscription} 

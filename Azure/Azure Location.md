@@ -1,9 +1,15 @@
-# Azure Location
+---
+tags:
+  - azure
+type: term
+definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+---
 
 ## How to get all possible locations for your subscription
 
-REST call for an specific type of resource
+Powershell
+```powershell
+Get-AzLocation | select Location
+```
 
-GET https://management.azure.com/subscriptions/{subscriptionId}/providers/{resourceProviderNamespace}?api-version=2021-04-01
-
-ResourceProviderNamespace F.e.: Microsoft.Storage
+[[Azure Resource Provider]] Namespace : Microsoft.Storage

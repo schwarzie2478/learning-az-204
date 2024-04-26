@@ -1,5 +1,7 @@
-# Azure Resource Groups
-
+---
+tags:
+  - azure
+---
 ## Create Resoure group
 
 ### Via Portal

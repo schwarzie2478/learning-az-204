@@ -1,4 +1,9 @@
-# Azure Stack
+---
+tags:
+  - azure
+type: term
+definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+---
 
 Azure Stack allows for on-premise hardware to be managed with the same tools as cloud-infrastructure
 

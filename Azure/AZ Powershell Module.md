@@ -1,6 +1,9 @@
-# Az Posershell Module
-
-
+---
+tags:
+  - azure
+type: term
+definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+---
 ##  Install
 Get-Module -Name Az -ListAvailable
 Install-Module -Name Az -Repository PSGallery -Force
