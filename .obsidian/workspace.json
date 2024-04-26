@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/App Service Plan.md",
+                "file": "DataViews/Azure Lexicon.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Cloud Shell.md",
+                "file": "Azure/App Service Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure Cloud Shell.md",
+                "file": "DataViews/Azure Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Azure Cloud Shell.md",
+                "file": "DataViews/Azure Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Cloud Shell.md"
+                "file": "DataViews/Azure Lexicon.md"
               }
             }
           }
@@ -228,13 +227,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cdd7034c9172a68",
+  "active": "9427b584d1996005",
   "lastOpenFiles": [
-    "Study Recaps/Day 01.md",
+    "Azure/App Service Plan.md",
+    "DataViews/Azure Lexicon.md",
+    "DataViews",
+    "Untitled",
+    "index.md",
+    "Azure/Azure ExpressRoute.md",
     "Azure/Azure Cloud Shell.md",
+    "Study Recaps/Day 01.md",
     "Azure/AZ Powershell Module.md",
     "ReadMe.md",
     "Study Recaps/Day 02.md",
@@ -246,11 +252,9 @@
     "Azure/Kudu.md",
     "Azure/Infrastructure As A Service.md",
     "Azure/Device Code Flow.md",
-    "Azure/App Service Plan.md",
     "Azure",
     "Azure/Application Service Environment.md",
     "Azure/Web Account Manager.md",
-    "index.md",
     "Azure/Resource Groups.md",
     "Labs/Lab 01/ReadMe.md",
     "Azure/Azure WebApp.md",
