@@ -1,5 +1,7 @@
-# Azure Web App
+---
+tags:
+  - azure
+definition: Azure WebApp allow you to build and host your websites and web back-ends
+---
 
-Also known as App Service  
-See [Azure App Service](Azure%20App%20Sercvice.md)
-[[Azure App Service]]
+Part of  [[Azure App Service]]

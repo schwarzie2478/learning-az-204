@@ -6,4 +6,6 @@ definition: "An Azure storage account contains all of your Azure Storage data ob
 ---
 [MS Learn](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 
-Create Storage Account
+Move data between storage accounts
+
+[[AzCopy]]
