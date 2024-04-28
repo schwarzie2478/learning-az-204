@@ -80,13 +80,25 @@
             }
           },
           {
-            "id": "98a0e133c2008d99",
+            "id": "cf91a847bc1f63f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/AzCopy.md",
-                "mode": "source",
+                "file": "Azure/Azure Developer CLI.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07b8da9228bcbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/AzCopy.md",
+                "file": "Azure/Azure Developer CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/AzCopy.md",
+                "file": "Azure/Azure Developer CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/AzCopy.md"
+                "file": "Azure/Azure Developer CLI.md"
               }
             }
           },
@@ -228,20 +240,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98a0e133c2008d99",
+  "active": "cf91a847bc1f63f1",
   "lastOpenFiles": [
-    "Azure/Source Control Manager.md",
+    "ReadMe.md",
+    "DataViews/Review.md",
+    "DataViews/Glossary.md",
+    "Azure/Azure Developer CLI.md",
     "Azure/App Service Plan.md",
+    "Azure/AzCopy.md",
+    "Azure/Probabilistically Bounded Staleness.md",
+    "DataViews/Acronyms Aliases.md",
+    "Azure/Microsoft Authentication Library.md",
+    "Azure/Source Control Manager.md",
     "Azure/Azure WebApp.md",
     "Azure App Sercvice.md",
     "Azure/Azure App Service.md",
     "Azure/Azure Storage Account.md",
-    "Azure/AzCopy.md",
     "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
     "Samples/SimpleWebApp/obj/Debug/net8.0/project.razor.vscode.bin.temp",
     "$null",
-    "DataViews/Glossary.md",
-    "DataViews/Acronyms Aliases.md",
     "Azure/Azure Container Instance.md",
     "Azure/Data collection rules.md",
     "Azure/Azure Monitor agent.md",
@@ -255,11 +272,6 @@
     "Azure/Azure Resource Provider.md",
     "Azure/Azure Location.md",
     "Study Recaps/Day 02.md",
-    "ReadMe.md",
-    "Azure/Application Service Environment.md",
-    "Azure/Microsoft.Compute.md",
-    "Azure/Kusto Query Language.md",
-    "Azure/Kudu.md",
     "DataViews",
     "Untitled",
     "Azure"
