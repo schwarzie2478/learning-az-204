@@ -3,9 +3,8 @@ tags:
   - azure
 type: term
 definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+-url: (https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
 ---
-
-Ref: [link](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
 
 Azure Cache for Redis provides an in-memory data store
 

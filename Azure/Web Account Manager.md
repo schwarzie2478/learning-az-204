@@ -7,7 +7,10 @@ definition: Defines the SKU on which the apps will be running, each plan belongs
 
 Using to handle azure logins for ... ( TODO)
 
-Ref: [link](https://learn.microsoft.com/nl-nl/windows/uwp/security/web-account-manager)
+
+---
+ms-learn-url: (https://learn.microsoft.com/nl-nl/windows/uwp/security/web-account-manager)
+---
 
 ChatGPT explanation:
 ## What is the Web Account Manager for Azure?

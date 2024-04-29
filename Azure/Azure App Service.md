@@ -1,5 +1,8 @@
-# Azure App Service
-Ref: [link](https://learn.microsoft.com/nl-nl/azure/app-service/)  
+---
+ms-learn-url: (https://learn.microsoft.com/nl-nl/azure/app-service/)
+---
+
+
 
 ## Table of contens:
 [TOC]  
@@ -113,7 +116,8 @@ Every App Service has a site extension to allow for software configuration manag
 
 if your site is configured as  mysite.azurewebsites.net,  the scm is reachable at  mysite.scm.azurewebsites.net
 
-This is powered by the Kudu Service: [link](https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)
+This is powered by the Kudu Service: [[Kudu]]
+
 
 ### Deployment slots
 

@@ -1,4 +1,7 @@
-Ref: [link](https://learn.microsoft.com/en-us/cli/azure/)
+---
+ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/)
+---
+
 
 ## Login
 
@@ -25,6 +28,8 @@ Account info
 
 
 ## Extra notes
+
+### [[Azure CLI Extentions]]
 
 ### Azure CLI uses python packages for extentions
 

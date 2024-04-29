@@ -2,4 +2,7 @@
 
 Allow Applications to run on isolated and dedicated environment at high scale.
 
-Ref: [link](https://learn.microsoft.com/en-us/azure/app-service/environment/overview)
+
+---
+ms-learn-url: (https://learn.microsoft.com/en-us/azure/app-service/environment/overview)
+---

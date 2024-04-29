@@ -17,7 +17,10 @@ VM are Infrastructure as a service (IAAS)
 
 ### Availibilty Options
 
-Ref: [link](https://learn.microsoft.com/en-us/azure/virtual-machines/availability)
+
+---
+ms-learn-url: (https://learn.microsoft.com/en-us/azure/virtual-machines/availability)
+---
 
 How much redundancy do you need?
 

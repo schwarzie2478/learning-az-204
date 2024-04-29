@@ -92,6 +92,54 @@
             }
           },
           {
+            "id": "ed34ea8fb5ceaf46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74fd9d0593bb4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Workspace transformation data collection rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fee301e3483f3921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d80f11af394347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure CLI Extentions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f07b8da9228bcbe7",
             "type": "leaf",
             "state": {
@@ -104,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure Developer CLI.md",
+                "file": "Azure/Workspace transformation data collection rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Azure Developer CLI.md",
+                "file": "Azure/Workspace transformation data collection rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Developer CLI.md"
+                "file": "Azure/Workspace transformation data collection rule.md"
               }
             }
           },
@@ -240,40 +288,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf91a847bc1f63f1",
+  "active": "c74fd9d0593bb4fd",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "DataViews/Review.md",
-    "DataViews/Glossary.md",
-    "Azure/Azure Developer CLI.md",
-    "Azure/App Service Plan.md",
-    "Azure/AzCopy.md",
-    "Azure/Probabilistically Bounded Staleness.md",
-    "DataViews/Acronyms Aliases.md",
-    "Azure/Microsoft Authentication Library.md",
-    "Azure/Source Control Manager.md",
-    "Azure/Azure WebApp.md",
-    "Azure App Sercvice.md",
-    "Azure/Azure App Service.md",
-    "Azure/Azure Storage Account.md",
-    "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
-    "Samples/SimpleWebApp/obj/Debug/net8.0/project.razor.vscode.bin.temp",
-    "$null",
-    "Azure/Azure Container Instance.md",
+    "images/transformation-workspace.png",
+    "images/transformation-workspace.png.crdownload",
     "Azure/Data collection rules.md",
-    "Azure/Azure Monitor agent.md",
-    "Azure/Azure Role Based Access Control.md",
-    "Azure/Shared Access Signature.md",
-    "Index.md",
-    "Azure/Resource Groups.md",
-    "Azure/Azure Cloud Shell.md",
-    "pdfs/AzureNetworking-ExRCheatSheet-v1-2.pdf",
-    "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
+    "Azure/Workspace transformation data collection rule.md",
+    "DataViews/Acronyms Aliases.md",
+    "Obsidian learning.md",
+    "Azure/Azure Developer CLI.md",
+    "Azure/Azure Architecture Center.md",
+    "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+    "Azure/Azure CLI.md",
+    "Azure/Kudu.md",
+    "Azure/Azure Functions.md",
+    "Azure/Azure CLI Extentions.md",
+    "DataViews/Microsoft Learn Reference.md",
     "Azure/Azure Resource Provider.md",
-    "Azure/Azure Location.md",
-    "Study Recaps/Day 02.md",
-    "DataViews",
-    "Untitled",
-    "Azure"
+    "Azure/Azure App Service.md",
+    "Azure/App Service Plan.md",
+    "DataViews/Glossary.md",
+    "Azure/Data Collection Transformation.md",
+    "Azure/Kusto Query Language.md",
+    "ReadMe.md",
+    "Azure/Application Service Environment.md",
+    "Azure/AutoRest.md",
+    "Azure/Azure App Service Environment.md",
+    "pdfs/CMU-PDL-14-102.pdf",
+    "pdfs/CMU-PDL-14-102.pdf.crdownload",
+    "Azure/Azure Monitor OpenTelemetry.md",
+    "pdfs/original.pdf",
+    "pdfs/original.pdf.crdownload",
+    "images/reliable-web-app-dotnet-1.1.vsdx",
+    "images/reliable-web-app-dotnet-1.1.vsdx.crdownload",
+    "images/reliable-web-app-dotnet.svg",
+    "images/reliable-web-app-dotnet.svg.crdownload",
+    "images/eap-overview.svg",
+    "images/eap-overview.svg.crdownload",
+    "DataViews/Review.md",
+    "Azure/AzCopy.md",
+    "Samples/SimpleWebApp/obj/Debug/net8.0/project.razor.vscode.bin.temp"
   ]
 }
