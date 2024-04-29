@@ -1,5 +1,8 @@
 ---
 ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/)
+tags:
+  - azure
+  - tool
 ---
 
 

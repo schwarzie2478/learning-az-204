@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b50a388dd5f5221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4384865718c70e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3068e5a742db0051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19ab9d332111565c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9ac1f452e84ac70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Data collection rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59ef79d8f3a1f8de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/App Service Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf91a847bc1f63f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Developer CLI.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed34ea8fb5ceaf46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74fd9d0593bb4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Workspace transformation data collection rule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee301e3483f3921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92d80f11af394347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure CLI Extentions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07b8da9228bcbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ReadMe.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Workspace transformation data collection rule.md",
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Workspace transformation data collection rule.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Workspace transformation data collection rule.md"
+                "file": "ReadMe.md"
               }
             }
           },
@@ -288,45 +155,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c74fd9d0593bb4fd",
+  "active": "cf91a847bc1f63f1",
   "lastOpenFiles": [
+    "2024-04-29.md",
+    "ReadMe.md",
+    "Azure/Application Service Environment.md",
+    "Azure/AutoRest.md",
+    "Azure/Azure Cloud Shell.md",
+    "Azure/Azure CLI.md",
+    "Azure/AzCopy.md",
+    "Azure/Azure Developer CLI.md",
+    "Obsidian learning.md",
+    "Azure/Workspace transformation data collection rule.md",
+    "Azure/Log Analytics workspace.md",
+    "Azure/Azure Monitor Cost Optimisation Best Practices.md",
+    "Bookmarks.md",
+    "Azure/Azure Bandwitdh Pricing.md",
+    "Azure/Azure FrontDoor.md",
+    "Azure/Azure Front Door POP locations.md",
+    "images/front-door-overview.png",
+    "images/front-door-overview.png.crdownload",
+    "Azure/Azure Monitor cost and usage.md",
+    "scripts/add backrefence.md",
+    "images/logs-structure.png",
+    "images/logs-structure.png.crdownload",
     "images/transformation-workspace.png",
     "images/transformation-workspace.png.crdownload",
     "Azure/Data collection rules.md",
-    "Azure/Workspace transformation data collection rule.md",
     "DataViews/Acronyms Aliases.md",
-    "Obsidian learning.md",
-    "Azure/Azure Developer CLI.md",
     "Azure/Azure Architecture Center.md",
     "Azure/Microsoft Cloud Adoption Framework for Azure.md",
-    "Azure/Azure CLI.md",
     "Azure/Kudu.md",
     "Azure/Azure Functions.md",
     "Azure/Azure CLI Extentions.md",
     "DataViews/Microsoft Learn Reference.md",
-    "Azure/Azure Resource Provider.md",
-    "Azure/Azure App Service.md",
-    "Azure/App Service Plan.md",
-    "DataViews/Glossary.md",
-    "Azure/Data Collection Transformation.md",
-    "Azure/Kusto Query Language.md",
-    "ReadMe.md",
-    "Azure/Application Service Environment.md",
-    "Azure/AutoRest.md",
-    "Azure/Azure App Service Environment.md",
     "pdfs/CMU-PDL-14-102.pdf",
     "pdfs/CMU-PDL-14-102.pdf.crdownload",
-    "Azure/Azure Monitor OpenTelemetry.md",
     "pdfs/original.pdf",
     "pdfs/original.pdf.crdownload",
     "images/reliable-web-app-dotnet-1.1.vsdx",
     "images/reliable-web-app-dotnet-1.1.vsdx.crdownload",
     "images/reliable-web-app-dotnet.svg",
     "images/reliable-web-app-dotnet.svg.crdownload",
-    "images/eap-overview.svg",
-    "images/eap-overview.svg.crdownload",
-    "DataViews/Review.md",
-    "Azure/AzCopy.md",
-    "Samples/SimpleWebApp/obj/Debug/net8.0/project.razor.vscode.bin.temp"
+    "images/eap-overview.svg"
   ]
 }

@@ -4,10 +4,27 @@
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 
-Udemy learning path with  workspaces to try out stuff 
-(don't forget to use the workspaces and save the credentials!)
+### Requirements:
 
-Reference material
+You should be proficient in Azure:
+
+- SDK
+- Data storage options
+- Data connections
+- APIs
+- App authentication and authorisation
+- Compute and container deployment
+- Debugging
+### Skills measured
+
+- Develop Azure compute solutions
+- Develop for Azure storage
+- Implement Azure security
+- Monitor, troubleshoot, and optimize Azure solutions
+- Connect to and consume Azure services and third-party services
+
+Additional reference material:
+[[Acronyms Aliases]]
 [[Glossary]]
 [[Bookmarks]]
 

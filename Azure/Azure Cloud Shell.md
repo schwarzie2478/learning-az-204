@@ -4,6 +4,7 @@ aliases:
   - console
 tags:
   - azure
+  - tool
 type: term
 ---
 
