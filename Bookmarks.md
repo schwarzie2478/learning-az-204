@@ -14,10 +14,10 @@ https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure
 https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
 https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_01.html
-https://learn.microsoft.com/nl-nl/cli/azure/
-https://learn.microsoft.com/nl-nl/windows/uwp/security/web-account-manager
+https://learn.microsoft.com/en-us/cli/azure/
+https://learn.microsoft.com/en-us/windows/uwp/security/web-account-manager
 https://github.com/Microsoft/Windows-universal-samples/tree/main/Samples/WebAccountManagement
-https://learn.microsoft.com/nl-nl/azure/active-directory-b2c/tutorial-create-tenant
+https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant
 https://learn.microsoft.com/en-us/cli/azure/reference-docs-index
 https://az-vm-image.info/
 https://github.com/projectkudu/kudu/wiki/Azure-Site-Extensions

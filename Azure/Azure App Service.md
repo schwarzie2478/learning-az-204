@@ -1,5 +1,5 @@
 ---
-ms-learn-url: (https://learn.microsoft.com/nl-nl/azure/app-service/)
+ms-learn-url: (https://learn.microsoft.com/en-us/azure/app-service/)
 ---
 
 

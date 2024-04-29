@@ -8,7 +8,7 @@ Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.c
 
 You should be proficient in Azure:
 
-- SDK
+- SDK : [[Azure SDK for .NET]]
 - Data storage options
 - Data connections
 - APIs
@@ -22,6 +22,8 @@ You should be proficient in Azure:
 - Implement Azure security
 - Monitor, troubleshoot, and optimize Azure solutions
 - Connect to and consume Azure services and third-party services
+
+TODO: [[Review]]
 
 Additional reference material:
 [[Acronyms Aliases]]

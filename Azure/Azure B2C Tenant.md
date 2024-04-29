@@ -2,7 +2,7 @@
 tags:
   - azure
 type: term
-definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+definition: undefined
 ---
 
 StackOverflow answer: [link](https://stackoverflow.com/a/51628754/1157051)

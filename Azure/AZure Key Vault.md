@@ -1,8 +1,8 @@
 ---
 tags:
   - azure
-type: term
-definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+definition: Safeguard cryptographic keys and other secrets used by cloud apps and services.
+ms-learn-url: https://azure.microsoft.com/en-us/products/key-vault
 ---
 
 Storage of secrets and certificates to be used by your resources

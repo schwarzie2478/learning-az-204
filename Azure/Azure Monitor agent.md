@@ -4,7 +4,7 @@ tags:
 definition: Azure Monitor agentis a comprehensive monitoring solution for collecting, analyzing, and responding to monitoring data from your cloud and on-premises environments.
 aliases:
   - AMA
--url: (https://learn.microsoft.com/nl-nl/azure/azure-monitor/overview)
+-url: (https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
 ---
 
   

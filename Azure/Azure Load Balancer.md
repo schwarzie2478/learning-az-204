@@ -8,6 +8,6 @@ definition: Defines the SKU on which the apps will be running, each plan belongs
 To be used before VM 
 
 ---
-ms-learn-url: (https://learn.microsoft.com/nl-nl/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
+ms-learn-url: (https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
 ---
 

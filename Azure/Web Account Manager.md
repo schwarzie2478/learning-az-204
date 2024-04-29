@@ -1,17 +1,11 @@
 ---
 tags:
   - azure
+  - review
 type: term
-definition: Defines the SKU on which the apps will be running, each plan belongs to one region
+definition: How to request a user's permission to use their Microsoft account, obtain an access token, and use it to perform basic operations
+ms-learn-url: https://learn.microsoft.com/en-us/windows/uwp/security/web-account-manager
 ---
-
-Using to handle azure logins for ... ( TODO)
-
-
----
-ms-learn-url: (https://learn.microsoft.com/nl-nl/windows/uwp/security/web-account-manager)
----
-
 ChatGPT explanation:
 ## What is the Web Account Manager for Azure?
 

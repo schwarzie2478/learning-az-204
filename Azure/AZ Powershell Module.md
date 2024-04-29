@@ -2,8 +2,8 @@
 tags:
   - azure
 type: term
-definition: Defines the SKU on which the apps will be running, each plan belongs to one region
-ms-learn-url: (https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0)
+definition: Azure Powershell
+ms-learn-url: https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0
 ---
 ##  Install
 Get-Module -Name Az -ListAvailable

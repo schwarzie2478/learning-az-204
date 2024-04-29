@@ -5,6 +5,6 @@ definition: An App Service Environment (ASE) is a single-tenant deployment of th
 type: term
 aliases:
   - ASE
-ms-learn-url: https://learn.microsoft.com/nl-nl/azure/app-service/networking-features#app-service-environment
+ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/networking-features#app-service-environment
 ---
 
