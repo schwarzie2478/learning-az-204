@@ -1,5 +1,14 @@
 # Bookmarks
 
+https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure.git
+https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet.git
+https://github.com/Azure-Samples/active-directory-dotnet-desktop-msgraph-v2.git
+https://github.com/Azure-Samples/storage-blob-dotnet-getting-started.git
+https://github.com/Azure-Samples/todo-csharp-cosmos-sql.git
+https://github.com/rustd/RedisSamples.git
+https://github.com/schwarzie2478/vanilla-basic.git
+
+
 https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification
 https://cbtw.udemy.com/course/70532-azure/learn/lecture/25928212#labs
 https://learn.microsoft.com/en-us/cli/azure/
