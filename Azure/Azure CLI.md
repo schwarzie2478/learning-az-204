@@ -3,6 +3,9 @@ ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/)
 tags:
   - azure
   - tool
+definition: Azure commanline tool to manage Azure resources
+aliases:
+  - az
 ---
 
 

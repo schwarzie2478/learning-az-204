@@ -4,35 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "deb94baa959b1620",
+        "id": "1d2298fcc6f0aec2",
         "type": "tabs",
         "children": [
           {
-            "id": "cf91a847bc1f63f1",
+            "id": "cce1f9d14f7b7b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Azure Role Based Access Control.md",
+                "file": "Azure/SDK/Code sample Reliable WebApp.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3ba603a70155d9c5",
+            "id": "254562bbccaf9a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/AZ Powershell Module.md",
+                "file": "Azure/Azure Architecture Center.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af674ef85e341eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Microsoft Azure Well-Architected Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "555fd365bef082d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Adviser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "001df57dd2877048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/SDK/Microsoft Azure Monitor Application Insights JavaScript SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "419189ba647fc586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Cloud Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0921ca4ed184bc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/New Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b59d5f206c09e782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Cloud Shell.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38e50e78226382e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure mobile app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6a3026853d028db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Service Level Agreements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7320b7208c8675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Geo-Zone Redundant Storage.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e39d92be551bf40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Point-In-Time Restore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -98,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/AZ Powershell Module.md",
+                "file": "Azure/Point-In-Time Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/AZ Powershell Module.md",
+                "file": "Azure/Point-In-Time Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/AZ Powershell Module.md"
+                "file": "Azure/Point-In-Time Restore.md"
               }
             }
           },
@@ -149,13 +269,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9ad01dc032fa9710",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,52 +294,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3ba603a70155d9c5",
+  "active": "e39d92be551bf40f",
   "lastOpenFiles": [
-    "Azure/Microsoft Entra Id Privileged Role.md",
-    "Azure/Service Principle.md",
-    "Azure/AZ Powershell Module.md",
-    "Azure/Microsoft Entra Id.md",
-    "Azure/Azure Role Based Access Control.md",
-    "ReadMe.md",
-    "Azure/Azure Front Door Point of Presence locations.md",
-    "Azure/SDK/Azure Samples.md",
-    "Azure/Web Account Manager.md",
-    "DataViews/Review.md",
-    "Azure/App Service Plan.md",
-    "Azure/Application Service Environment.md",
-    "Azure/Azure Load Balancer.md",
-    "Azure/Azure FrontDoor.md",
-    "Azure/Azure Functions.md",
-    "Azure/Azure Key Vault.md",
-    "Azure/SDK/Azure SDK Packages.md",
-    "Azure/Study guide.md",
-    "Azure/SDK/Azure SDK for .NET.md",
-    "images/azure-sdk-for-dotnet-overview.png",
-    "images/azure-sdk-for-dotnet-overview.png.crdownload",
-    "DataViews/Glossary.md",
-    "Azure/SDK",
-    "2024-04-29.md",
-    "Azure/AutoRest.md",
+    "Azure/Geo-Zone Redundant Storage.md",
+    "Azure/Point-In-Time Restore.md",
+    "images/GZRS.png",
+    "images/GZRS.png.crdownload",
+    "Azure/Service Level Agreements.md",
+    "pdfs/OnlineSvcsConsolidatedSLA(WW)(English)(April2024)(CR).pdf",
+    "pdfs/msoB838.tmp",
+    "pdfs/mso7504.tmp",
+    "pdfs/~$lineSvcsConsolidatedSLA(WW)(English)(April2024)(CR).docx",
+    "pdfs/OnlineSvcsConsolidatedSLA(WW)(English)(April2024)(CR).docx",
+    "Azure/Service level objectives.md",
+    "Azure/Azure mobile app.md",
     "Azure/Azure Cloud Shell.md",
+    "DataViews/Acronyms Aliases.md",
     "Azure/Azure CLI.md",
-    "Azure/AzCopy.md",
-    "Azure/Azure Developer CLI.md",
-    "images/front-door-overview.png",
-    "images/front-door-overview.png.crdownload",
-    "images/logs-structure.png",
-    "images/logs-structure.png.crdownload",
-    "images/transformation-workspace.png",
-    "images/transformation-workspace.png.crdownload",
-    "pdfs/CMU-PDL-14-102.pdf",
-    "pdfs/CMU-PDL-14-102.pdf.crdownload",
-    "pdfs/original.pdf",
-    "pdfs/original.pdf.crdownload",
-    "images/reliable-web-app-dotnet-1.1.vsdx",
+    "DataViews/Learn Reference.md",
+    "Azure/Mission-critical workloads.md",
+    "templates/New Note.md",
+    "Backlog.md",
+    "Azure/Azure Status.md",
+    "ReadMe.md",
+    "templates",
+    "Azure/Failure Mode and Effects Analysis.md",
+    "images/fmea_8_step_process-f.png",
+    "images/fmea_8_step_process-f.png.crdownload",
+    "Azure/Azure Cloud Services.md",
+    "pdfs/firstrun.pdf",
+    "images/cloud-rolename.png",
+    "images/cloud-rolename.png.crdownload",
+    "Azure/SDK/Microsoft Azure Monitor Application Insights JavaScript SDK.md",
+    "Azure/Azure Adviser.md",
+    "Azure/Microsoft Azure Well-Architected Framework.md",
+    "Azure/Azure Architecture Center.md",
+    "Azure/Azure Bastion.md",
+    "Azure/SDK/Code sample Reliable WebApp.md",
     "images/reliable-web-app-dotnet.svg",
+    "Azure/SDK/Reliable web app pattern.md",
+    "Azure/Azure WebApp.md",
+    "Azure/SDK/Azure Samples.md",
+    "Azure/Azure Functions.md",
+    "images/github-security-checks.png",
+    "images/azure-sdk-for-dotnet-overview.png",
+    "images/front-door-overview.png",
+    "images/logs-structure.png",
+    "images/transformation-workspace.png",
     "images/eap-overview.svg"
   ]
 }

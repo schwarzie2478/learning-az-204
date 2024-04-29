@@ -5,3 +5,5 @@ definition: Azure WebApp allow you to build and host your websites and web back-
 ---
 
 Part of  [[Azure App Service]]
+
+Reference Implementation: [[Code sample Reliable WebApp]]

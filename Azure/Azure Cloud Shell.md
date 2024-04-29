@@ -1,11 +1,9 @@
 ---
-definition: online console to manage your resource group
-aliases:
-  - console
+definition: Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources.
 tags:
   - azure
   - tool
-type: term
+ms-learn-url: https://learn.microsoft.com/en-us/azure/cloud-shell/overview
 ---
 
 > [!attention] 

@@ -10,3 +10,5 @@ ms-learn-url: (https://learn.microsoft.com/en-us/azure/storage/common/storage-ac
 Move data between storage accounts
 
 [[AzCopy]]
+
+## Blob storage

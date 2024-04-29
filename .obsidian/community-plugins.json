@@ -3,5 +3,14 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-admonition",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "obsidian-banners",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "note-refactor-obsidian",
+  "obsidian-footnotes",
+  "obsidian-advanced-slides",
+  "obsidian-icon-folder",
+  "obsidian-mind-map"
 ]

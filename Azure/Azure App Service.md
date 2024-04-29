@@ -4,25 +4,25 @@ ms-learn-url: (https://learn.microsoft.com/en-us/azure/app-service/)
 
 
 
-## Table of contens:
-[TOC]  
+
 
 
 
 ## Requirements
 
-To be able to deploy an WebApp,
-You need an Subscription, ResourceGroup and an App Service Plan
-
+To be able to deploy an [[Azure WebApp]],
+You need an Subscription, ResourceGroup and an [[App Service Plan]]
 ## Creation Options
 
 Instead of going through the wizard to create all the difference things
-you can also use the Azure CLI with one do it all command
+you can also use the [[Azure CLI]] with one do it all command
 
-az webapp up --location xxx --name xxx
+> [!example] 
+> az webapp up --location xxx --name xxx
 
-Attention: this will create a lot of things with default settings, like resource groups and app service plan
-
+> [!attention] 
+> This will create a lot of things with default settings, like resource groups and app service plan
+> 
 
 ### Deployment options
 
@@ -32,29 +32,10 @@ Static Web App
 
 Attention: You cannot deploy an pre-compiled exe binary to an App Service
 
-### App Service Plan
-
-service level agreements around the hosting of your applications
-
-A.k.a server farm
-
-#### SKU and Size
+### [[App Service Plan]]
 
 
-F: Free 
-B: Basic/Baseline
-D: development
-S: Standard
-P: Premium
 
-P0 1 Core
-P1 2 Core
-
-P3  4-1 Memory-to-Core resulting in 8 core to 32Gb
-P3m 8-1 Memory-to-Core resulting in 8 core to 64Gb
-
-v3: currently most modern machine configuration
-You must migrate to App Service Environment v3 before August 31, 2024 
 
 ### Recommended Service
 
