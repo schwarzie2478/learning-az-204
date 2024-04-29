@@ -3,7 +3,7 @@ tags:
   - azure
 type: term
 definition: undefined
--url: (https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
+ms-learn-url: (https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
 ---
 
 Azure Cache for Redis provides an in-memory data store

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Azure/Azure Role Based Access Control.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Azure/Azure Role Based Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Azure/Azure Role Based Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "Azure/Azure Role Based Access Control.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "cf91a847bc1f63f1",
   "lastOpenFiles": [
-    "Azure/Azure Front Door Point of Presence locations.md",
+    "Azure/AZ Powershell Module.md",
+    "Azure/Service Principle.md",
     "ReadMe.md",
+    "Azure/Azure Front Door Point of Presence locations.md",
     "Azure/SDK/Azure Samples.md",
     "Azure/Web Account Manager.md",
     "DataViews/Review.md",
-    "Azure/AZ Powershell Module.md",
     "Azure/App Service Plan.md",
     "Azure/Application Service Environment.md",
     "Azure/Azure Load Balancer.md",
@@ -185,7 +186,6 @@
     "Obsidian learning.md",
     "Azure/Workspace transformation data collection rule.md",
     "Azure/Log Analytics workspace.md",
-    "Azure/Azure Monitor Cost Optimisation Best Practices.md",
     "images/front-door-overview.png",
     "images/front-door-overview.png.crdownload",
     "images/logs-structure.png",
