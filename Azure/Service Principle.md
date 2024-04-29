@@ -9,8 +9,10 @@ ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/azure-cli-sp-tutorial
 An functional account credential to provide non-interactive access to resources
 Often used in scripts
 
-[[AZ Powershell Module#^325307]]
+[[AZ Powershell Module]]:
+> [!important] 
+> [[AZ Powershell Module#^325307| About creating Service Credentials with Powershell]]
 
-
+[[Azure CLI]]
 > [!example] 
 > az login --service-principal -u <app-id> -p <password-or-cert> --tenant <tenant>

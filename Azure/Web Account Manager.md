@@ -34,4 +34,4 @@ Overall, the Web Account Manager simplifies the management of multiple accounts 
 Please note that the Web Account Manager is primarily designed for Windows-based systems and may not be available or fully supported on other platforms.
 
     
-[Back to Index](Index.md)
+

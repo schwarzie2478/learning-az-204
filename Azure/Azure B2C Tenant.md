@@ -13,4 +13,4 @@ StackOverflow answer: [link](https://stackoverflow.com/a/51628754/1157051)
 * Users come from other tenants (AAD) or social platforms.
 
 
-[Back to Index](Index.md)
+

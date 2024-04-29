@@ -60,4 +60,4 @@ tags:
 Ref: [Manage Resouces](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resources-powershell)
 
 
-[Back to Index](Index.md)
+

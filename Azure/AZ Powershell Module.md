@@ -37,4 +37,4 @@ Neat little trick to find the comman you are looking for
 
 
 ## AZureRM deprecated!
-[Back to Index](Index.md)
+
