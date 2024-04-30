@@ -4,177 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2298fcc6f0aec2",
+        "id": "ee0fe0c274612088",
         "type": "tabs",
         "children": [
           {
-            "id": "cce1f9d14f7b7b76",
+            "id": "4562aa0977c96532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/SDK/Code sample Reliable WebApp.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254562bbccaf9a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Architecture Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1af674ef85e341eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Microsoft Azure Well-Architected Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555fd365bef082d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Adviser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "001df57dd2877048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/SDK/Microsoft Azure Monitor Application Insights JavaScript SDK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "419189ba647fc586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Cloud Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0921ca4ed184bc9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59d5f206c09e782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Cloud Shell.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d38e50e78226382e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure mobile app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6a3026853d028db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Service Level Agreements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7320b7208c8675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Geo-Zone Redundant Storage.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e39d92be551bf40f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf"
-              }
-            }
-          },
-          {
-            "id": "9fa36b889df23b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd634845c1884780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205.5
   },
   "right": {
     "id": "42bac6edc8c1cc80",
@@ -240,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -304,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,10 +156,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cd634845c1884780",
+  "active": "4562aa0977c96532",
   "lastOpenFiles": [
-    "Azure/Azure Chaos Studio.md",
     "Untitled.md",
+    "Azure/Azure Chaos Studio.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Azure/Service Level Agreements.md",
     "pdfs/OnlineSvcsConsolidatedSLA(WW)(English)(April2024)(CR).pdf",
