@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0fe0c274612088",
+        "id": "ecea6ac0f6749db4",
         "type": "tabs",
         "children": [
           {
-            "id": "4562aa0977c96532",
+            "id": "7337ec78c6bc6caa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,9 +156,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4562aa0977c96532",
+  "active": "7337ec78c6bc6caa",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ReadMe.md",
+    "Testing Page.md",
+    "Test.md",
+    "Azure/Microsoft Dataverse.md",
     "Azure/Azure Chaos Studio.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Azure/Service Level Agreements.md",
@@ -186,7 +189,6 @@
     "templates/New Note.md",
     "Backlog.md",
     "Azure/Azure Status.md",
-    "ReadMe.md",
     "templates",
     "Azure/Failure Mode and Effects Analysis.md",
     "images/fmea_8_step_process-f.png",
@@ -196,8 +198,6 @@
     "Azure/SDK/Microsoft Azure Monitor Application Insights JavaScript SDK.md",
     "Azure/Azure Adviser.md",
     "Azure/Microsoft Azure Well-Architected Framework.md",
-    "Azure/Azure Architecture Center.md",
-    "Azure/Azure Bastion.md",
     "images/reliable-web-app-dotnet.svg",
     "images/github-security-checks.png",
     "images/azure-sdk-for-dotnet-overview.png",
