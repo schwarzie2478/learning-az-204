@@ -1,4 +1,8 @@
 I don't know if these vaults meet your needs, but these are the best vaults/digital gardens I've found so far:
+https://excalidraw.com/
+https://excalidraw.com/#json=6bjuGFTg5O7LF69Cs6Luo,ws7U8EUZNiMffyl4wlMKng
+
+https://youtu.be/nJ660t5ku9A?si=UKTSNIOGwC74K2fe
 
 - [Petrichor by Bryan Jenks](https://publish.obsidian.md/bryan-jenks/Z/INDEX).
     
