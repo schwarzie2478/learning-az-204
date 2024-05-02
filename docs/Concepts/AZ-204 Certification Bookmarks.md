@@ -1,4 +1,9 @@
-# Bookmarks
+---
+tags:
+  - AZ-204
+  - concept/SRE/cloud/azure
+---
+
 
 https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure.git
 https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet.git

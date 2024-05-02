@@ -1,5 +1,5 @@
  ```dataviewjs
-    let p = dv.pages('"Azure"') // Retrieve pages with title "path/to/your/notes"
+    let p = dv.pages('"Concepts"') // Retrieve pages with title "path/to/your/notes"
           .where(p => p.file.name != dv.current().file.name) // Filter out the current page
           .sort(p => p.file.ctime) //sort pages by creation time
           .forEach(p => { //for each page

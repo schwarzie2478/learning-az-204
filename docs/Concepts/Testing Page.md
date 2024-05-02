@@ -1,6 +1,7 @@
 ---
 tags:
   - review
+  - concept/obsidian
 definition: Page to test things for this vault
 ---
 ```mermaid

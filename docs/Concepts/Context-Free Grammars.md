@@ -3,6 +3,8 @@ definition: In formal language theory, a context-free grammar (CFG) is a formal 
 aliases:
   - CFG
 url: https://en.wikipedia.org/wiki/Context-free_grammar
+tags:
+  - concept/SRE
 ---
 Concepts:
 - [[nonterminal]]
