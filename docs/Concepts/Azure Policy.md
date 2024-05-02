@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: Azure Policy helps to enforce organizational standards and to assess compliance at-scale.Azure Policy evaluates resources and actions in Azure by comparing the properties of those resources to business rules.

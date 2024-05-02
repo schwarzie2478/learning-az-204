@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - DSS
 url: https://en.wikipedia.org/wiki/Decision_support_system

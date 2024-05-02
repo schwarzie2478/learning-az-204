@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure
 definition: The concept of the Azure Compute Unit provides a way of comparing compute (CPU) performance across Azure SKUs.

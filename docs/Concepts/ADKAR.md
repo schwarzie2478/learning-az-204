@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/general
 definition: ADKAR Model focuses on individual change—guiding individuals through a particular change and addressing any roadblocks or barrier points along the way.

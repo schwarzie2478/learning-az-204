@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: Management groups provide a governance scope above subscriptions.

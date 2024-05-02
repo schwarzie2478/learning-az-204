@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 url: https://insomnia.rest/
 tags:
   - concept/SRE/cloud

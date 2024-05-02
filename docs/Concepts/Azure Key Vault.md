@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: Safeguard cryptographic keys and other secrets used by cloud apps and services.

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: Site Extensions are management endpoints allows extending your site management tools.

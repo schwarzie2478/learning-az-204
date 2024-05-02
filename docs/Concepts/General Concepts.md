@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - landingpage
 definition: Landing page for all collected concepts and knowledge

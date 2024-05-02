@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - AZ-204
   - concept/SRE/cloud/azure

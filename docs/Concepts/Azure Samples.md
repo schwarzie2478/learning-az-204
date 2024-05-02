@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure /sdk
 github-url: https://github.com/Azure-Samples

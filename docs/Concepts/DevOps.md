@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE
 definition: A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.

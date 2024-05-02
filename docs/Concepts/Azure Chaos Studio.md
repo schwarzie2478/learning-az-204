@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 ms-learn-url: https://azure.microsoft.com/en-us/products/chaos-studio/
 tags:
   - concept/SRE/cloud/azure 

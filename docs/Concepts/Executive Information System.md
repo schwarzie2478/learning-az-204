@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - EIS
 url: https://en.wikipedia.org/wiki/Executive_information_system#:~:text=An%20executive%20information%20system%20(EIS,information%20relevant%20to%20organizational%20goals.

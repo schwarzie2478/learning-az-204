@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE
   - concept/SRE/cloud

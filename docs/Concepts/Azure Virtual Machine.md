@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: Azure virtual machines are one of several types of on-demand, scalable computing resources that Azure offers.

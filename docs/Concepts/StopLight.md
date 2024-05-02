@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 definition: Editor for swagger documents
 tags:
   - concept/SRE/cloud

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE
 definition: Set of policy defitions

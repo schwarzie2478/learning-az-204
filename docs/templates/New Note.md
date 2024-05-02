@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 parent: "[[Index]]"
 tags:
 - unsorted

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: An App Service Environment (ASE) is a single-tenant deployment of the Azure App Service that runs in your virtual network.

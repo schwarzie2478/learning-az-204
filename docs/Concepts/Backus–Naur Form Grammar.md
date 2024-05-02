@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE
 definition: The Backus–Naur form or Backus normal form (BNF) is a metasyntax notation for context-free grammars.

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - best-practices
   - concept/general

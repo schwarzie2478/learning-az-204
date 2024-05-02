@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud
 definition: Alternatve way of autherizing access to an resource.Through an Device code generated on the device

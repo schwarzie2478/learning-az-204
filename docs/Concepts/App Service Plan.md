@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - Server Farm
 tags:

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE
 url: https://en.wikipedia.org/wiki/Formal_grammar

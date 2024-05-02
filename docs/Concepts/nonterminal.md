@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 url: https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols
 tags:
   - concept/SRE

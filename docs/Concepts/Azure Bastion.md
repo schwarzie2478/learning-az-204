@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 ms-learn-url: https://azure.microsoft.com/nl-nl/products/azure-bastion

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - ESS
 definition: An Executive Support System (ESS) is software that allows users to transform enterprise data into quickly accessible and executive-level reports, such as those used by billing, accounting and staffing departments. An ESS enhances decision making for executives.

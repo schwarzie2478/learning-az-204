@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 definition: Api defintion standard
 tags:
   - concept/SRE/cloud

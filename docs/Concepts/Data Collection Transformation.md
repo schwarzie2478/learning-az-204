@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud/azure 
 definition: With transformations in Azure Monitor, you can filter or modify incoming data before it's sent to a Log Analytics workspace.

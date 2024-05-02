@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/)
 tags:
   - concept/SRE/cloud/azure 

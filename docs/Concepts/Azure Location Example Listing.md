@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 definition: An extracted list from the commandline tools for reference
 tags:
   - concept/SRE/cloud/azure 

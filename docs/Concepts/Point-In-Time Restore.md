@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - PITR
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/point-in-time-restore?view=azuresql&tabs=azure-portal

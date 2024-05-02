@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - concept/SRE/cloud
 definition: Redis is an in-memory data store used by millions of developers as a cache, vector database, document database, streaming engine, and message broker.
