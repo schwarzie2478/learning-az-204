@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Obsidian learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:best-practices",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "dabaf9aea0dbe7d2",
@@ -84,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ReadMe.md",
+            "file": "Obsidian learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ReadMe.md",
+            "file": "Obsidian learning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ReadMe.md"
+            "file": "Obsidian learning.md"
           }
+        }
+      },
+      {
+        "id": "5b81ba1b69965ff2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -133,11 +142,37 @@
   },
   "active": "2dbd34783d841dce",
   "lastOpenFiles": [
-    "Azure App Sercvice.md",
-    "DataViews/Acronyms Aliases.md",
-    "DataViews/Glossary.md",
     "ReadMe.md",
-    "Study Recaps/Day 02.md",
-    "Study Recaps/Day 01.md"
+    "Backlog.md",
+    "Obsidian learning.md",
+    "DataViews/Review.md",
+    "DataViews/Learn Reference.md",
+    "DataViews/Glossary.md",
+    "Azure/Service Principle.md",
+    "DataViews/Acronyms Aliases.md",
+    "Azure/Service level objectives.md",
+    "Azure/SDK/Azure SDK for .NET.md",
+    "Azure/Study guide.md",
+    "Azure/SDK/Reliable web app pattern.md",
+    "Bookmarks.md",
+    "Azure/Data Collection Transformation.md",
+    "Azure/Data collection rules.md",
+    "Azure/Workspace transformation data collection rule.md",
+    "DataViews/Microsoft Learn Reference.md",
+    "Azure/Shared Access Signature.md",
+    "pdfs/original.pdf",
+    "pdfs/CMU-PDL-14-102.pdf",
+    "images/transformation-workspace.png",
+    "images/reliable-web-app-dotnet.svg",
+    "images/reliable-web-app-dotnet-1.1.vsdx",
+    "images/eap-overview.svg",
+    "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+    "Azure/Azure Monitor OpenTelemetry.md",
+    "Azure/Azure Functions.md",
+    "Azure/Azure CLI Extentions.md",
+    "Azure/Azure Architecture Center.md",
+    "Azure/AutoRest.md",
+    "Azure App Sercvice.md",
+    "Study Recaps/Day 02.md"
   ]
 }
