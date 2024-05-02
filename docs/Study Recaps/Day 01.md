@@ -7,5 +7,5 @@ Test VM with option overview
 
 [[Azure CLI]]
 [[AZ Powershell Module]]
-[[Azure Cloud shell]]
+[[Azure Cloud Shell]]
 [[Azure App Service]]

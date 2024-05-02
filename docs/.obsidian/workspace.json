@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+                "file": "Concepts/Bicep.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+                "file": "Concepts/Domain-specific Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
+                "file": "Concepts/Domain-specific Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md"
+                "file": "Concepts/Domain-specific Language.md"
               }
             }
           },
@@ -176,36 +175,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc14facc7a32ec63",
+  "active": "f6ecd0daf8e372e3",
   "lastOpenFiles": [
+    "Concepts/Bicep.md",
+    "Concepts/Domain-specific Language.md",
+    "Azure/Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023.md",
+    "Concepts/Azure Resource Provider.md",
+    "Concepts/Microsoft.Compute.md",
+    "Concepts/Microsoft Course for AZ-204.md",
+    "Concepts/Kusto Query Language.md",
+    "Concepts/Device Code Flow.md",
+    "Concepts/Azure WebJobs.md",
+    "Concepts/Azure App Service Environment.md",
+    "Concepts/Azure App Service.md",
+    "Concepts/AZ-204 Azure App Service.md",
+    "Concepts/App Service Plan.md",
+    "Start.md",
+    "Concepts/Microsoft Cloud Adoption Framework for Azure.md",
     "Concepts/Reliable web app pattern.md",
-    "Azure/Microsoft Cloud Adoption Framework for Azure.md",
-    "Azure/SDK/Cloud Pattern Components and Best Practices.md",
+    "Concepts/Cloud Pattern Components and Best Practices.md",
     "Concepts/Cloud Engineering Patterns.md",
     "DataViews/Review.md",
-    "Azure/Azure B2C Tenant.md",
+    "Concepts/Azure B2C Tenant.md",
     "Concepts/Azure Cache for Redis.md",
     "Concepts/Redis.md",
-    "Azure/Azure Automation.md",
-    "Azure/Azure Location.md",
+    "Concepts/Azure Automation.md",
+    "Concepts/Azure Location.md",
     "Concepts/Azure Compute Unit.md",
     "Concepts/GitVersion.md",
-    "Concepts/Semantic Versioning.md",
-    "Concepts/Backus–Naur Form Grammar.md",
-    "MetaSyntax.md",
-    "Context-Free Grammars.md",
-    "Concepts/nonterminal.md",
-    "Terminal.md",
-    "Concepts/Formal Grammar.md",
-    "Concepts/Formal Language.md",
-    "Concepts/Git.md",
-    "Concepts/Source Control.md",
-    "Concepts/Application Interface Operations.md",
-    "Concepts/API Guidelines.md",
     "images/ApiOps.gif",
     "images/ApiOps.gif.crdownload",
-    "Concepts/Insomnia.md",
-    "Concepts/Postman.md",
     "images/what-is-devops_lifecycle.avif",
     "images/what-is-devops_lifecycle.avif.crdownload",
     "images/ApiOps-flow.webp",
