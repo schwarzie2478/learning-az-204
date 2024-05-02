@@ -5,6 +5,6 @@ tags:
 ---
 ```dataview
 List
-From #concept/cloud
+From #concept/SRE/cloud
 ```
 Part of [[Software Engineering Patterns]]

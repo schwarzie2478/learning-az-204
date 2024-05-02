@@ -1,7 +1,7 @@
 ---
 tags:
   - best-practices
-  - concept/cloud/azure
+  - concept/SRE/cloud/azure
 ms-learn-url: https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/dotnet/plan-implementation
 ---
 | Reliable Web App pattern principles                                                                                                                                                                                       | Implementation techniques                                                                                                                                                                                                                                                    |

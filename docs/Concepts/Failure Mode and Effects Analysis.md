@@ -1,7 +1,7 @@
 ---
 tags:
-  - azure
   - best-practices
+  - concept/general
 aliases:
   - FMEA
 url: https://www.techtarget.com/searchcio/definition/FMEA-failure-mode-and-effective-analysis

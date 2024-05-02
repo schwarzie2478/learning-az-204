@@ -4,7 +4,7 @@ definition: Azure App Service is an HTTP-based service for hosting web applicati
 ---
 
 Used to deploy  a [[Azure WebApp]],
-You need a  [[Azure Subcription|subscription]], [[Resource Group|resource group]] and an [[App Service Plan|plan]].
+You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[App Service Plan|plan]].
 ### Fast Creation Option
 
 Instead of going through the wizard to create all the difference things

@@ -2,8 +2,8 @@
 tags:
   - azure
   - best-practices
-  - concept/cloud
-  - concept/cloud/azure
+  - concept/SRE/cloud
+  - concept/SRE/cloud/azure
 ms-learn-url: https://learn.microsoft.com/en-us/azure/well-architected
 ---
 ## Pillars

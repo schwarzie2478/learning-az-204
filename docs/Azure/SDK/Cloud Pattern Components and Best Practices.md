@@ -2,7 +2,7 @@
 tags:
   - azure/sdk
   - best-practices
-  - concept/cloud/azure
+  - concept/SRE/cloud/azure
   - review
 ms-learn-url: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/github-velocity/#cloud-pattern-components-and-best-practices
 ---

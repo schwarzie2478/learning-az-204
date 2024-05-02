@@ -4,7 +4,7 @@ tags:
 definition: Resource groups are logical containers where you can deploy and manage Azure resources like virtual machines, web apps, databases, and storage accounts.
 ---
 
-Belongs to an [[Azure Subcription]]
+Belongs to an [[Azure Subscription]]
 
 ### Via Power shell Script
 

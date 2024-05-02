@@ -1,11 +1,11 @@
 ---
 tags:
   - azure
-type: term
-definition: undefined
+definition: ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider.
+ms-learn-url: https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction
 ---
 
-Provide Direct Access to your WAN
+![[expressroute-connection-overview.png]]
 
-peering :  connection between network
-BGP:  Border Gateway Protocol, how network connect to each other for exchanging routing information
+[[Peering]]
+[[Border Gateway Protocol]]

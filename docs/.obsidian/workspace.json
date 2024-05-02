@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Reliability design patterns.md",
+                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:concept/azure",
+                "query": "Ingress secure  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Reliability design patterns.md",
+                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Reliability design patterns.md",
+                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Reliability design patterns.md"
+                "file": "Azure/Microsoft Cloud Adoption Framework for Azure.md"
               }
             }
           },
@@ -153,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -167,48 +169,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "broken-links:View broken links": false
+      "broken-links:View broken links": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "dc14facc7a32ec63",
   "lastOpenFiles": [
-    "Azure/Microsoft Azure Well-Architected Framework.md",
     "Concepts/Reliable web app pattern.md",
+    "Azure/Microsoft Cloud Adoption Framework for Azure.md",
     "Azure/SDK/Cloud Pattern Components and Best Practices.md",
     "Concepts/Cloud Engineering Patterns.md",
-    "Concepts/Software Engineering Patterns.md",
-    "Concepts/General Concepts.md",
-    "Azure/Study guide AZ-204.md",
-    "Concepts/Chaos Engineering.md",
-    "Concepts/Platform As A Service.md",
-    "Concepts/Change Management.md",
-    "Concepts/ADKAR.md",
-    "PROSCI.md",
+    "DataViews/Review.md",
+    "Azure/Azure B2C Tenant.md",
+    "Concepts/Azure Cache for Redis.md",
+    "Concepts/Redis.md",
+    "Azure/Azure Automation.md",
+    "Azure/Azure Location.md",
+    "Concepts/Azure Compute Unit.md",
+    "Concepts/GitVersion.md",
+    "Concepts/Semantic Versioning.md",
+    "Concepts/Backus–Naur Form Grammar.md",
+    "MetaSyntax.md",
+    "Context-Free Grammars.md",
+    "Concepts/nonterminal.md",
+    "Terminal.md",
+    "Concepts/Formal Grammar.md",
+    "Concepts/Formal Language.md",
+    "Concepts/Git.md",
+    "Concepts/Source Control.md",
+    "Concepts/Application Interface Operations.md",
+    "Concepts/API Guidelines.md",
+    "images/ApiOps.gif",
+    "images/ApiOps.gif.crdownload",
+    "Concepts/Insomnia.md",
+    "Concepts/Postman.md",
+    "images/what-is-devops_lifecycle.avif",
+    "images/what-is-devops_lifecycle.avif.crdownload",
+    "images/ApiOps-flow.webp",
+    "images/whMEmL1jSSrOdW3oJTZ2.webp.crdownload",
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
     "images/ADKAR-with-Image_web.webp.crdownload",
-    "Concepts/AKDAR.md",
-    "Concepts/Reliability design patterns.md",
-    "Concepts/Immutable and ephemeral infrastructure.md",
-    "Concepts/Ephemeral.md",
-    "Concepts/Infrastructure As A Service.md",
-    "Concepts/Software As A Service.md",
     "images/change-management-aid.pdf",
     "images/change-management-aid.pdf.crdownload",
-    "Concepts/Immutable.md",
-    "Azure/Resource Group.md",
-    "Azure/Workspace transformation data collection rule.md",
-    "Concepts/Executive Support System.md",
-    "Azure/Azure Arc.md",
-    "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
-    "Concepts/Obsidian learning.md",
     "Pasted Image 20240502112842_426.png",
-    "Concepts/Chaos Monkey.md",
     "images/manamentgroup-organisation.png",
     "Excalidraw",
     "images/scope-levels (1).png",
@@ -217,13 +224,7 @@
     "images/Banner_Azure_1920x500.png",
     "images/Banner_Azure_1920x500.png.crdownload",
     "images/single-vm-diagram.svg",
-    "images/single-vm-diagram.svg.crdownload",
-    "Concepts",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "images/azure-sdk-for-dotnet-overview.png",
-    "images/cloud-rolename.png",
-    "images/consistent-management-layer.png",
-    "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf"
+    "Untitled 1.canvas"
   ]
 }

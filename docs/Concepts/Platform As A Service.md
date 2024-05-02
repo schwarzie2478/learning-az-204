@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept/cloud
+  - concept/SRE/cloud
   - concept/SRE
 aliases:
   - PAAS

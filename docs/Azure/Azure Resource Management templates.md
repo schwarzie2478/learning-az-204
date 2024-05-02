@@ -2,10 +2,9 @@
 tags:
   - azure
 type: term
-definition: undefined
 ---
 
-To learn about Azure Resource Manager templates (ARM templates), see the [ARM template overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview). 
+To learn about [[Azure Resource Manager]] templates (ARM templates), see the [ARM template overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview). 
 
 Deploy something with Powershell
 
