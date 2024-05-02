@@ -1,0 +1,22 @@
+{
+  "version": "1.2.2",
+  "previousVersion": "1.0.0",
+  "groupBy": 0,
+  "expandedFolderItems": [
+    "Labs",
+    "Labs/Lab 01",
+    "Labs/Lab 01/AZ-204 Lab 01 Notes.md",
+    "Azure/Study guide AZ-204.md"
+  ],
+  "expandedFileItems": [],
+  "expandedLinkItems": [],
+  "folderSort": 0,
+  "fileSort": 3,
+  "linkSort": 3,
+  "linkFilter": {
+    "filterString": "",
+    "matchCase": false
+  },
+  "ignoredFolders": [],
+  "consolidateLinks": false
+}

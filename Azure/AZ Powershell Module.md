@@ -6,7 +6,7 @@ definition: Azure Powershell
 ms-learn-url: https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0
 ---
 
-> [!important]
+> [!important] 
 > Beginning with Az PowerShell module version 7.x, [New-AzADServicePrincipal](https://learn.microsoft.com/en-us/powershell/module/Az.Resources/New-AzADServicePrincipal) no longer assigns the [Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#contributor) role to the service principal by default. To assign a specific role to a service principal, see [Steps to add a role assignment](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps).
 
 ^325307

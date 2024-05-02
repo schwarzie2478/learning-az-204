@@ -2,11 +2,11 @@
 tags:
   - azure
 type: term
-definition: undefined
+definition: An functional account credential to provide non-interactive access to resources.
 ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/azure-cli-sp-tutorial-1?tabs=bash)
 ---
 
-An functional account credential to provide non-interactive access to resources
+
 Often used in scripts
 
 [[AZ Powershell Module]]:

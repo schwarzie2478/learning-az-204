@@ -1,18 +1,11 @@
 ---
 ms-learn-url: (https://learn.microsoft.com/en-us/azure/app-service/)
+definition: Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.
 ---
 
-
-
-
-
-
-
-## Requirements
-
-To be able to deploy an [[Azure WebApp]],
-You need an Subscription, ResourceGroup and an [[App Service Plan]]
-## Creation Options
+Used to deploy  a [[Azure WebApp]],
+You need a  [[Azure Subcription|subscription]], [[Resource Group|resource group]] and an [[App Service Plan|plan]].
+### Fast Creation Option
 
 Instead of going through the wizard to create all the difference things
 you can also use the [[Azure CLI]] with one do it all command
@@ -60,32 +53,15 @@ When the App Service is running, you can use quickstarts to start a deployment o
 * GitHub Actions
 * Azure DevOps
 * DropBox
-...
-
-
 ### Scaling my app
 
+Built-in auto scale support
+
+#### Scaling Tiers
 Scale Up:  Go to bigger tier -> no downtime ( different from VM)
 Scale Out: how many instances ( in Basic Tier only manual scaling)
 
-General guidelines
-| Column1  | Column2   | Column3   |
-|-------------- | -------------- | -------------- |
-| Item1    | Item1     | Item1     |
-
-
-| App Service Plan SKU | Max Apps |
-|--------------------- | --------- |
-| B1, S1, P1v2, I1v1   | 8        |
-|B2, S2, P2v2, I2v1	|16|
-|B3, S3, P3v2, I3v1	| 32 |
-|P0v3	| 8|
-|P1v3, I1v2	| 16|
-|P2v3, I2v2, P1mv3 |	32|
-|P3v3, I3v2, P2mv3 |	64|
-|I4v2, I5v2, I6v2 |	Max density bounded by vCPU usage@
-|P3mv3, P4mv3, P5mv3 |	Max density bounded by vCPU usage|
-
+Overview: [[App Service Plan#App Service Plan SKU| SKU]]
 
 ### Publishing from Visual Studio
 

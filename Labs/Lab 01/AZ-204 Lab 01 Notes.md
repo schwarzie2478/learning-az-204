@@ -7,5 +7,3 @@ Changes from Lab
 * AppSettings are not under Configuration but under Environment variables
 
 
-
-[Back to Index](Backlog.md)

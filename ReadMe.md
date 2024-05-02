@@ -1,27 +1,9 @@
+
 # Study Notes AZ-204
 
 ## Starting
 
-Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 
-### Requirements:
-
-You should be proficient in Azure:
-
-- SDK : [[Azure SDK for .NET]]
-- Data storage options
-- Data connections
-- APIs
-- App authentication and authorisation
-- Compute and container deployment
-- Debugging
-### Skills measured
-
-- Develop Azure compute solutions
-- Develop for Azure storage
-- Implement Azure security
-- Monitor, troubleshoot, and optimize Azure solutions
-- Connect to and consume Azure services and third-party services
 
 TODO: [[Review]]
 

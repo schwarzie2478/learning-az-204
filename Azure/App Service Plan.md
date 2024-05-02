@@ -10,8 +10,19 @@ Each service plan has an admin site (F.e. https://mysite.scm.azurewebsites.net).
 powered by [[Kudu]].
 
 
-#### SKU and Size
+#### App Service Plan SKU 
 
+| App Service Plan SKU | Max Apps |
+|--------------------- | --------- |
+| B1, S1, P1v2, I1v1   | 8        |
+|B2, S2, P2v2, I2v1	|16|
+|B3, S3, P3v2, I3v1	| 32 |
+|P0v3	| 8|
+|P1v3, I1v2	| 16|
+|P2v3, I2v2, P1mv3 |	32|
+|P3v3, I3v2, P2mv3 |	64|
+|I4v2, I5v2, I6v2 |	Max density bounded by vCPU usage@
+|P3mv3, P4mv3, P5mv3 |	Max density bounded by vCPU usage|
 
 F: Free 
 B: Basic/Baseline

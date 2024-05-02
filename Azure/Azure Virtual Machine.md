@@ -1,26 +1,24 @@
 ---
 tags:
   - azure
-type: term
-definition: undefined
+definition: Azure virtual machines are one of several types of on-demand, scalable computing resources that Azure offers.
+ms-learn-url: https://learn.microsoft.com/en-us/azure/virtual-machines/overview
 ---
 
-Not required for Certicate
 
-## Azure CLI 
+> [!warning] 
+> Not required for Certificate AZ-204
+
+![[single-vm-diagram.svg]]
+## [[Azure CLI]] 
 
 az vm list
 
 VM are Infrastructure as a service (IAAS)
     * must have network access configured
-## Create VM
-
-### Availibilty Options
 
 
----
-ms-learn-url: (https://learn.microsoft.com/en-us/azure/virtual-machines/availability)
----
+### [Availibilty Options](https://learn.microsoft.com/en-us/azure/virtual-machines/availability)
 
 How much redundancy do you need?
 
