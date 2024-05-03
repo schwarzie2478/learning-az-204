@@ -8,5 +8,5 @@ aliases:
   - RBAC
 ms-learn-url: https://learn.microsoft.com/en-us/azure/role-based-access-control/overview
 creation_date: 2024-05-02 18:40
-modification_date: 2024-05-02 22:05
+
 ---

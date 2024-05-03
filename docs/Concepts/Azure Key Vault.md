@@ -5,7 +5,7 @@ tags:
 definition: Safeguard cryptographic keys and other secrets used by cloud apps and services.
 ms-learn-url: https://azure.microsoft.com/en-us/products/key-vault
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 Storage of secrets and certificates to be used by your resources

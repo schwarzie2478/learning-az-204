@@ -7,7 +7,7 @@ aliases:
 definition: Data collection rules (DCRs) are sets of instructions supporting data collection in Azure Monitor  agent
 ms-learn-url: (https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview?tabs=portal)
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 Configures rules for [[Azure Monitor agent]]

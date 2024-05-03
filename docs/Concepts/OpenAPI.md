@@ -5,7 +5,7 @@ url: https://swagger.io/specification/
 tags:
   - concept/SRE/cloud
 creation_date: 2024-05-02 17:27
-modification_date: 2024-05-02 22:05
+
 ---
 Formerly known as [[Swagger]]
 

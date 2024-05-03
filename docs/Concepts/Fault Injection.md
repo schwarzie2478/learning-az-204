@@ -4,6 +4,6 @@ definition: The act of introducing an error to a system. You can use different f
 tags:
   - concept/SRE
 creation_date: 2024-05-02 12:20
-modification_date: 2024-05-02 22:05
+
 ---
 Part of [[Chaos Engineering]]

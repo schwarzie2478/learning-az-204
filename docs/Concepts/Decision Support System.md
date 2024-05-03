@@ -7,7 +7,7 @@ definition: A decision support system (DSS) is an information system that suppor
 tags:
   - concept/general
 creation_date: 2024-05-02 08:34
-modification_date: 2024-05-02 22:05
+
 ---
 DSS components may be classified as:
 

@@ -5,7 +5,7 @@ tags:
 definition: Site Extensions are management endpoints allows extending your site management tools.
 ms-learn-url: https://azure.microsoft.com/en-us/blog/azure-web-sites-extensions/
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 Each [[Azure App Service|Azure Website]] provides an extensible management end point that allows you to leverage a powerful set of tools deployed as site extensions.

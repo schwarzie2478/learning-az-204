@@ -5,7 +5,7 @@ tags:
 definition: Azure virtual machines are one of several types of on-demand, scalable computing resources that Azure offers.
 ms-learn-url: https://learn.microsoft.com/en-us/azure/virtual-machines/overview
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 

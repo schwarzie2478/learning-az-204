@@ -5,7 +5,7 @@ tags:
 definition: Allow Applications to run on isolated and dedicated environment at high scale.
 ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/environment/overview
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 

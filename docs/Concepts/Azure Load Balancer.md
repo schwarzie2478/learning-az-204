@@ -5,7 +5,7 @@ tags:
 type: term
 definition: Defines the SKU on which the apps will be running, each plan belongs to one region
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 To be used before VM 

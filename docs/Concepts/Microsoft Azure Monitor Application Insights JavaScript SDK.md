@@ -7,6 +7,6 @@ definition: he Microsoft Azure Monitor Application Insights JavaScript SDK colle
 aliases:
   - RUM
 creation_date: 2024-05-02 18:40
-modification_date: 2024-05-02 22:05
+
 ---
 Also known as Real User Monitoring ( RUM)

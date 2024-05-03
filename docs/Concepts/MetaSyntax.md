@@ -5,5 +5,5 @@ url: https://en.wikipedia.org/wiki/Metasyntax
 tags:
   - concept/SRE
 creation_date: 2024-05-02 17:54
-modification_date: 2024-05-02 22:05
+
 ---

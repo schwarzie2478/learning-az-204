@@ -4,7 +4,7 @@ tags:
   - code/markdown
 definition: Page to test things for this vault
 creation_date: 2024-04-30 17:48
-modification_date: 2024-05-03 11:58
+
 ---
 ```mermaid
 classDiagram

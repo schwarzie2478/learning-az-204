@@ -4,7 +4,7 @@ tags:
   - concept/SRE/cloud/azure
 definition: Azure Stack allows for on-premise hardware to be managed with the same tools as cloud-infrastructure.
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 

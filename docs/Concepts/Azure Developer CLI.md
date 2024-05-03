@@ -9,7 +9,7 @@ aliases:
   - azd
 ms-learn-url: (https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 > [!warning] Don't confuse with the tool az

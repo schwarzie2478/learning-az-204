@@ -7,6 +7,6 @@ definition: An executive information system (EIS), also known as an executive su
 tags:
   - concept/general
 creation_date: 2024-05-02 08:32
-modification_date: 2024-05-02 22:05
+
 ---
 It is commonly considered a specialized form of [[Decision Support System]].

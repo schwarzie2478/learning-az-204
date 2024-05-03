@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social/PROSCI.md",
+                "file": "daily/2024-05-03.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social/PROSCI.md",
+                "file": "daily/2024-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social/PROSCI.md",
+                "file": "daily/2024-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social/PROSCI.md"
+                "file": "daily/2024-05-03.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Social/PROSCI.md"
+                "file": "daily/2024-05-03.md"
               }
             }
           }
@@ -202,11 +202,15 @@
   },
   "active": "f089b54c4fefbf3e",
   "lastOpenFiles": [
+    "templates/Daily Note Template.md",
+    "DataViews/Glossary.md",
+    "DataViews/Unsorted Notes.md",
+    "DataViews/Review.md",
+    "DataViews/Missing Creation Date.md",
+    "Social/PROSCI.md",
     "Social/Collaboration Betters The World.md",
     "templates/Add Creation Time and Modification time to file.md",
     "templates/New Note.md",
-    "templates/Daily Note Template.md",
-    "DataViews/Missing Creation Date.md",
     "Code/FluentAssertions.md",
     "Code/Testing in .NET.md",
     "Code/Microsoft.AspNetCore.Mvc.Testing.md",
@@ -215,12 +219,8 @@
     "Study/Microsoft Course for AZ-204.md",
     "Study/Azure AZ-204 Lab 01.md",
     "Study/Publish Obsidian to Azure.md",
-    "Social/PROSCI.md",
     "Start.md",
-    "DataViews/Unsorted Notes.md",
     "DataViews/Full Table Of Contents.md",
-    "DataViews/Review.md",
-    "DataViews/Glossary.md",
     "DataViews/Learn Reference.md",
     "DataViews/Acronyms Aliases.md",
     "daily/2024-05-02.md",

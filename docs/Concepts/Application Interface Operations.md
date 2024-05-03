@@ -8,7 +8,7 @@ definition: APIOps denotes a process that prepares API definitions for deploymen
 ms-learn-url: https://azure.github.io/apiops/apiops/0-labPrerequisites/
 github-url: https://github.com/Azure/apiops
 creation_date: 2024-05-02 16:34
-modification_date: 2024-05-02 22:05
+
 ---
 Additional definition: APIOps creates a standardized process and collaborative culture to accelerate how your organization creates APIs and maintains them throughout their life cycle.
 

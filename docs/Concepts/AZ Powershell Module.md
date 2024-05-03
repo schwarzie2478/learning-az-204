@@ -6,7 +6,7 @@ type: term
 definition: Azure Powershell
 ms-learn-url: https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 > [!important] 

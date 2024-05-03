@@ -5,7 +5,7 @@ tags:
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview
 definition: A Log Analytics workspace is a unique environment for log data from Azure Monitor and other Azure services, such as Microsoft Sentinel and Microsoft Defender for Cloud.
 creation_date: 2024-05-02 18:40
-modification_date: 2024-05-02 22:05
+
 ---
 Related:
 * [[Data collection rules]]

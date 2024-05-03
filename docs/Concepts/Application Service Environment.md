@@ -8,6 +8,6 @@ aliases:
   - ASE
 ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/networking-features#app-service-environment
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 

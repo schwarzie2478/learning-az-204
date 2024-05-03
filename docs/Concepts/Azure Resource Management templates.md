@@ -4,7 +4,7 @@ tags:
   - concept/SRE/cloud/azure
 type: term
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 To learn about [[Azure Resource Manager]] templates (ARM templates), see the [ARM template overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview). 

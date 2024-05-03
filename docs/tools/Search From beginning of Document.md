@@ -3,7 +3,7 @@ dg-publish: true
 tags:
   - tool/vscode/tips
 creation_date: 2024-05-03 11:31
-modification_date: Friday, 3rd May 2024, 11:31:22
+
 ---
 If you need to match the first line of a document the following [[regular expression]] will work:
 ```

@@ -6,7 +6,7 @@ tags:
   - tool
 ms-learn-url: https://learn.microsoft.com/en-us/azure/cloud-shell/overview
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 > [!attention] 

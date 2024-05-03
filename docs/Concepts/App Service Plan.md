@@ -7,7 +7,7 @@ tags:
 definition: This defines the SKU on which the apps will be running, each plan belongs to one region
 ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans
 creation_date: 2024-05-02 18:40
-modification_date: 2024-05-02 22:05
+
 ---
 Each service plan has an admin site (F.e. https://mysite.scm.azurewebsites.net).
 powered by [[Kudu]].

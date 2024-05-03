@@ -7,7 +7,7 @@ type: term
 definition: How to request a user's permission to use their Microsoft account, obtain an access token, and use it to perform basic operations
 ms-learn-url: https://learn.microsoft.com/en-us/windows/uwp/security/web-account-manager
 creation_date: 2024-05-02 18:40
-modification_date: 2024-05-02 22:05
+
 ---
 ChatGPT explanation:
 ## What is the Web Account Manager for Azure?

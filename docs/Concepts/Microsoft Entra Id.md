@@ -7,7 +7,7 @@ aliases:
 definition: Azure Identity Management service, previously known as Azure Active Directory
 ms-learn-url: https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 creation_date: 2024-05-02 22:00
-modification_date: 2024-05-02 22:05
+
 ---
 
 ## General
