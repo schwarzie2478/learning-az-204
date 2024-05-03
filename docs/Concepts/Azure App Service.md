@@ -8,6 +8,13 @@ creation_date: 2024-05-02 22:00
 
 ---
 
+- Built-in [[App Service Auto Scaling|Auto Scale Support]]
+- [[Continuous Integration|CI]]/[[Continuous Deployment|CD]] Support
+- [[Azure Deployment Slots]]
+- [[Azure App Service on Linux]] ( [[Azure App Service on Linux#Limitations|with limitation]])
+
+
+
 Used to deploy  a [[Azure WebApp]],
 You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[App Service Plan|plan]].
 ### Fast Creation Option
@@ -17,6 +24,8 @@ you can also use the [[Azure CLI]] with one do it all command
 
 > [!example] 
 > az webapp up --location xxx --name xxx
+
+For locations: [[Azure Location]]
 
 > [!attention] 
 > This will create a lot of things with default settings, like resource groups and app service plan

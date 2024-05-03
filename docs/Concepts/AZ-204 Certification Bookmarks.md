@@ -45,3 +45,4 @@ https://learn.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment
 https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
 https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 https://github.com/Azure-Samples
+https://github.com/dotnet/ai-samples

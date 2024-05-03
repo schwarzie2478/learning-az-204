@@ -15,6 +15,7 @@ creation_date: 2024-05-02 22:00
 > [!warning] Don't confuse with the tool az
 > This is not the same as [[Azure CLI]]
 
+https://azure.github.io/awesome-azd/
 
 > [!tip] 
 >   azd template list

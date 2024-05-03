@@ -16,7 +16,7 @@ Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2
 
 
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
-[[AZ-204 Azure App Service]]
+[[AZ-204 introduction-to-azure-app-service]]
 
 Microsoft Labs:
 [[Azure AZ-204 Lab 01]]

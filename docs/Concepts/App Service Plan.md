@@ -4,33 +4,60 @@ aliases:
   - Server Farm
 tags:
   - concept/SRE/cloud/azure
-definition: This defines the SKU on which the apps will be running, each plan belongs to one region
+definition: An App Service plan defines a set of compute resources for a web app to run.
 ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans
 creation_date: 2024-05-02 18:40
-
 ---
+
+An [[Azure App Service]] always runs in an _App Service plan_.
+
+
+The plan defines the SKU on which the apps will be running, each plan belongs to one region
+
+Each App Service plan defines:
+
+- Operating System (Windows, Linux)
+- Region (West US, East US, and so on)
+- Number of VM instances
+- Size of VM instances (Small, Medium, Large)
+- Pricing tier (Free, Shared, Basic, Standard, Premium, PremiumV2, PremiumV3, Isolated, IsolatedV2)
+
+Isolated tiers run in a [[Azure App Service Environment]]
+
+> [!note] Shared tier
+> The Shared tier is not availible for Linux
+
+^cb1520
+
+
+> [!summary] 
+> Pricing : P2v3  250 GB 4 Cores/16Gb
+> - Linux : -> Pay As You  €0.334/hour / 3-year commitment  -50%
+> - Windows: -> Pay As You  €0.633/hour / 3-year commitment  -40%
+
+
 Each service plan has an admin site (F.e. https://mysite.scm.azurewebsites.net).
 powered by [[Kudu]].
 
 
 #### App Service Plan SKU 
 
-| App Service Plan SKU | Max Apps |
-|--------------------- | --------- |
-| B1, S1, P1v2, I1v1   | 8        |
-|B2, S2, P2v2, I2v1	|16|
-|B3, S3, P3v2, I3v1	| 32 |
-|P0v3	| 8|
-|P1v3, I1v2	| 16|
-|P2v3, I2v2, P1mv3 |	32|
-|P3v3, I3v2, P2mv3 |	64|
-|I4v2, I5v2, I6v2 |	Max density bounded by vCPU usage@
-|P3mv3, P4mv3, P5mv3 |	Max density bounded by vCPU usage|
+| App Service Plan SKU | Max Apps                           |
+| -------------------- | ---------------------------------- |
+| B1, S1, P1v2, I1v1   | 8                                  |
+| B2, S2, P2v2, I2v1   | 16                                 |
+| B3, S3, P3v2, I3v1   | 32                                 |
+| P0v3                 | 8                                  |
+| P1v3, I1v2           | 16                                 |
+| P2v3, I2v2, P1mv3    | 32                                 |
+| P3v3, I3v2, P2mv3    | 64                                 |
+| I4v2, I5v2, I6v2     | Max density bounded by vCPU usage@ |
+| P3mv3, P4mv3, P5mv3  | Max density bounded by vCPU usage  |
 
 F: Free 
-B: Basic/Baseline
-D: development
-S: Standard
+B: Basic
+D: development (Shared)
+S: Standard(legacy)
 P: Premium
 
 P0 1 Core

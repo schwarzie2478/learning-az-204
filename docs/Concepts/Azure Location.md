@@ -20,7 +20,7 @@ az account list-locations -o table
 Get-AzLocation | select Location
 ```
 
-[[Azure Resource Provider]] Namespace : Microsoft.Storage
+[[Azure Resource Provider]]
 
 Output: [[Azure Location Example Listing]]
 

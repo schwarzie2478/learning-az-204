@@ -3,6 +3,7 @@ dg-publish: true
 tags:
   - AZ-204
   - study
+  - pinned
 ms-learn-url: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/
 creation_date: 2024-05-02 11:00
 ---

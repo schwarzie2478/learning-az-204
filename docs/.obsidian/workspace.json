@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-03.md",
+                "file": "templates/New Note.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modification_date: 2024-05-03 15:15 --- creation_date: 2024-05-03 08:32",
+                "query": "markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +81,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "383931904f9b0aba",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "templates/New Note.md"
+              }
+            }
+          },
+          {
+            "id": "9ad01dc032fa9710",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "cc612232a7550fe8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-03.md",
+                "file": "templates/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-03.md",
+                "file": "templates/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-03.md"
+                "file": "templates/New Note.md"
               }
             }
           },
@@ -135,14 +153,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ad01dc032fa9710",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -165,23 +175,12 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "383931904f9b0aba",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "daily/2024-05-03.md"
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,32 +201,32 @@
   },
   "active": "f089b54c4fefbf3e",
   "lastOpenFiles": [
-    "templates/Daily Note Template.md",
-    "DataViews/Glossary.md",
+    "Concepts/App Service Auto Scaling.md",
+    "Code/MarkDown Mermaid Class Diagram example.md",
+    "Concepts/Azure App Service.md",
+    "Concepts/App Service Plan.md",
+    "Concepts/Azure autoscale.md",
+    "tools/Obsidian learning.md",
+    "tools/BRAT.md",
+    "Code/momentjs.md",
+    "Code/CommonJS.md",
+    "Concepts/AZ-204 Certification Bookmarks.md",
+    "Code/Microsoft Semantic Kernel.md",
+    "Concepts/Azure Developer CLI.md",
+    "Concepts/Large Language Models.md",
     "DataViews/Unsorted Notes.md",
     "DataViews/Review.md",
-    "DataViews/Missing Creation Date.md",
-    "Social/PROSCI.md",
-    "Social/Collaboration Betters The World.md",
-    "templates/Add Creation Time and Modification time to file.md",
-    "templates/New Note.md",
-    "Code/FluentAssertions.md",
-    "Code/Testing in .NET.md",
-    "Code/Microsoft.AspNetCore.Mvc.Testing.md",
-    "Code/MarkDown Mermaid Class Diagram example.md",
-    "tools/Obsidian learning.md",
-    "Study/Microsoft Course for AZ-204.md",
-    "Study/Azure AZ-204 Lab 01.md",
-    "Study/Publish Obsidian to Azure.md",
-    "Start.md",
-    "DataViews/Full Table Of Contents.md",
-    "DataViews/Learn Reference.md",
-    "DataViews/Acronyms Aliases.md",
-    "daily/2024-05-02.md",
-    "Concepts/Availability.md",
-    "Concepts/Resiliency.md",
-    "Concepts/Reliability.md",
-    "Concepts/Azure reliability.md",
+    "Concepts/Azure App Service Environment.md",
+    "Concepts/Azure App Service on Linux.md",
+    "Concepts/Application Service Environment.md",
+    "unsorted/App Service Plan pricing tiers.md",
+    "Concepts/Azure Location Example Listing.md",
+    "Concepts/Azure Location.md",
+    "Concepts/Azure Resource Provider.md",
+    "Concepts/Azure Resource Provider Example Listing.md",
+    "daily/2024-05-03.md",
+    "tools/Azure login fails on redirect.md",
+    "Concepts/HTTP Strict Transport Security.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",
