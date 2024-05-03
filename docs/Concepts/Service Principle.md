@@ -13,8 +13,7 @@ creation_date: 2024-05-02 22:00
 Often used in scripts
 
 [[AZ Powershell Module]]:
-> [!important] 
-> [[AZ Powershell Module#^325307| About creating Service Credentials with Powershell]]
+![[AZ Powershell Module#^325307]]
 
 [[Azure CLI]]
 > [!example] 

@@ -25,6 +25,11 @@ you can also use the [[Azure CLI]] with one do it all command
 > [!example] 
 > az webapp up --location xxx --name xxx
 
+The opposite command ( not sur if this works with only location, probably needs resourcegroup)
+
+> [!example] 
+> az webapp delete --name xxx --location xxx
+
 For locations: [[Azure Location]]
 
 > [!attention] 

@@ -1,14 +1,15 @@
 ---
 dg-publish: true
 tags:
-  - unsorted
-creation_date: <% tp.file.creation_date() %>
-definition: undefined
+  - code/javascript
+creation_date: 2024-05-03 21:51
+definition: Eleventy is a simpler static site generator
 ms-learn-url: undefined
-url: undefined
+url: https://www.11ty.dev/
 ---
 |   MetaData |                                       |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
-| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+
+

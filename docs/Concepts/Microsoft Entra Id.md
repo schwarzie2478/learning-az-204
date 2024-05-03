@@ -20,8 +20,8 @@ creation_date: 2024-05-02 22:00
 |[Role Based Access Control Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/general#role-based-access-control-administrator)|Manage access to Azure resources by assigning roles using Azure RBAC. This role does not allow you to manage access using other ways, such as Azure Policy.|f58310d9-a9f6-439a-9e8d-f62e7b41a168|
 |[User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles/general#user-access-administrator)|Lets you manage user access to Azure resources.|18d7d88d-d35e-4fb5-a5c3-7773c20a72d9|
 
-> [!warning] 
-> [[Microsoft Entra Id Privileged Role#^1175cd| About Privilegde Roles]]
+
+![[Microsoft Entra Id Privileged Role#^1175cd| About Privilegde Roles]]
 
 
 > [!info]

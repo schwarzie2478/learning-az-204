@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bfeb5cf8cdd0d585",
+        "id": "2cf9180c9c17a5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f089b54c4fefbf3e",
+            "id": "1396a210c65f2e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Concepts/Azure App Service.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown",
+                "query": "Core Tool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,17 +79,8 @@
       {
         "id": "71e96e97dfd03efa",
         "type": "tabs",
+        "dimension": 23.142857142857142,
         "children": [
-          {
-            "id": "383931904f9b0aba",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "templates/New Note.md"
-              }
-            }
-          },
           {
             "id": "9ad01dc032fa9710",
             "type": "leaf",
@@ -99,29 +90,12 @@
             }
           },
           {
-            "id": "cc612232a7550fe8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "templates/New Note.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "189692de4a508a44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Note.md",
+                "file": "Concepts/Azure App Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/New Note.md"
+                "file": "Concepts/Azure App Service.md"
               }
             }
           },
@@ -170,9 +144,69 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "fba8070ef6b85a15",
+        "type": "tabs",
+        "dimension": 43.523809523809526,
+        "children": [
+          {
+            "id": "82858cafe1b4ea9f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Concepts/Azure App Service.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7323bbbd2111e9b0",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "cfd7f45ba55aa2fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Concepts/Azure App Service.md"
               }
             }
           }
@@ -199,34 +233,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f089b54c4fefbf3e",
+  "active": "1396a210c65f2e78",
   "lastOpenFiles": [
-    "Concepts/App Service Auto Scaling.md",
-    "Code/MarkDown Mermaid Class Diagram example.md",
+    "unsorted/Azure Deployment Slots.md",
     "Concepts/Azure App Service.md",
-    "Concepts/App Service Plan.md",
-    "Concepts/Azure autoscale.md",
-    "tools/Obsidian learning.md",
-    "tools/BRAT.md",
-    "Code/momentjs.md",
-    "Code/CommonJS.md",
-    "Concepts/AZ-204 Certification Bookmarks.md",
-    "Code/Microsoft Semantic Kernel.md",
-    "Concepts/Azure Developer CLI.md",
-    "Concepts/Large Language Models.md",
-    "DataViews/Unsorted Notes.md",
-    "DataViews/Review.md",
-    "Concepts/Azure App Service Environment.md",
+    "Concepts/App Service Auto Scaling.md",
+    "Concepts/Azure Functions.md",
+    "Concepts/Azure Functions Deployement.md",
+    "tools/Azure Functions Core Tools.md",
+    "Concepts/Azure Functions Premium plan.md",
+    "Concepts/Azure Functions hosting options.md",
+    "Code/Azure Functions developer guide.md",
+    "Concepts/Azure Container Apps.md",
+    "Concepts/Kubernetes Event-driven Autoscaling.md",
+    "unsorted/Kubernetes.md",
+    "unsorted/Azure Arc-enabled Kubernetes.md",
+    "Concepts/Azure Arc.md",
+    "tools/Flux.md",
+    "unsorted/Cloud Native Computing Foundation.md",
+    "Concepts/Azure Functions Consumption plan hosting.md",
+    "Concepts/Dedicated hosting plans for Azure Functions.md",
     "Concepts/Azure App Service on Linux.md",
-    "Concepts/Application Service Environment.md",
-    "unsorted/App Service Plan pricing tiers.md",
-    "Concepts/Azure Location Example Listing.md",
-    "Concepts/Azure Location.md",
-    "Concepts/Azure Resource Provider.md",
-    "Concepts/Azure Resource Provider Example Listing.md",
-    "daily/2024-05-03.md",
-    "tools/Azure login fails on redirect.md",
-    "Concepts/HTTP Strict Transport Security.md",
+    "Concepts/Git.md",
+    "Concepts/Microsoft Entra Id.md",
+    "Concepts/Microsoft Entra Id Privileged Role.md",
+    "tools/Search From beginning of Document.md",
+    "Concepts/Service Principle.md",
+    "Concepts/App Service Plan.md",
+    "Concepts/Azure WebApp.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",

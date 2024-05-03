@@ -7,6 +7,6 @@ creation_date: 2024-05-02 22:00
 
 ---
 
-Part of  [[Azure App Service]]
+Deployed in a  [[Azure App Service]]
 
 Reference Implementation: [[Code sample Reliable WebApp]]

@@ -5,10 +5,16 @@ tags:
 creation_date: 2024-05-02 14:33
 
 ---
-publish: https://github.com/oleeskild/Obsidian-digital-garden
+## self publish
+	https://github.com/oleeskild/Obsidian-digital-garden
+### Examples in the wild
 
+To get started and see a live example, take a look at GitHub user [uroybd](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user) 's garden, [topobon](https://topobon.utsob.me/) . He uses components to add a theme switcher and a disqus comment section among other things. You can take a look at how he's implemented it [here](https://github.com/uroybd/topobon/tree/main/src/site/_includes/components/user)
+
+## Custom plugins
 [[BRAT]]  [[momentjs]] library
 
+## Example Vaults
 I don't know if these vaults meet your needs, but these are the best vaults/digital gardens I've found so far:
 https://excalidraw.com/
 https://excalidraw.com/#json=6bjuGFTg5O7LF69Cs6Luo,ws7U8EUZNiMffyl4wlMKng

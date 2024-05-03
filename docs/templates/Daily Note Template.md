@@ -3,7 +3,6 @@ dg-publish: true
 tags:
   - dailynotes
 creation_date: <% tp.file.creation_date() %>
-
 ---
 
 Tasks:

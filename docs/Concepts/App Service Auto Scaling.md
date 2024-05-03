@@ -7,9 +7,14 @@ definition: Automatic scaling is a new scale-out option that automatically handl
 ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling?tabs=azure-portal
 ---
 
-`VIEW[==Definition==: {definition}][text(renderMarkdown)]`
+|   MetaData |                                       |
+| ---------- | ------------------------------------------ |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]` |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-`VIEW[==MS Learn==: {ms-learn-url}][text(renderMarkdown)]`
+
+
 
 Different from previous: [[Azure autoscale]].
 You'll find more on this capability in the [automatic scaling](https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling) article.
@@ -41,3 +46,11 @@ az appservice plan update --name <APP_SERVICE_PLAN> --resource-group <RESOURCE_G
 ```shell
 az webapp update --resource-group <RESOURCE_GROUP> --name <APP_NAME> --minimum-elastic-instance-count <ALWAYS_READY_COUNT>
 ```
+## Does automatic scaling support [[Azure Functions]] apps?
+
+> [!caution]  
+> Automatic Scaling is disabled when App Service web apps and Azure Function apps are in the same App Service Plan.
+
+^580ed5
+
+No, you can only have Azure App Service web apps in the App Service Plan where you wish to enable automatic scaling. For Functions, it's recommended to use the [[Azure Functions Premium plan]] instead.

@@ -2,10 +2,12 @@
 dg-publish: true
 tags:
   - unsorted
-creation_date: <% tp.file.creation_date() %>
-definition: undefined
+creation_date: 2024-05-03 23:50
+definition: CNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous.
 ms-learn-url: undefined
-url: undefined
+url: https://www.cncf.io/
+aliases:
+  - CNCF
 ---
 |   MetaData |                                       |
 | ---------- | ------------------------------------------ |

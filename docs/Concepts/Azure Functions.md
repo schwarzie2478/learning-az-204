@@ -9,8 +9,7 @@ creation_date: 2024-05-02 18:40
 
 ---
 Code: [[Azure Function Scenarios]]
-
-
+Deployment: [[Azure Functions Deployement]]
 ## Hosting Plans
 
 Reference: [MS Learn](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
@@ -19,6 +18,7 @@ Reference: [MS Learn](https://learn.microsoft.com/en-us/azure/azure-functions/de
 > [!important] 
 > Free and Shared tier App Service plans aren't supported by Azure Functions. For a lower-cost option hosting your function executions, you should instead consider the [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan), where you are billed based on function executions.
 
+![[App Service Auto Scaling#^580ed5]]
 ### App Service Hosting Plan
 #### Always On
 
