@@ -4,6 +4,8 @@ tags:
   - concept/SRE/cloud/azure /sdk
 github-url: https://github.com/Azure-Samples
 definition: Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby
+creation_date: 2024-05-02 22:00
+modification_date: 2024-05-02 22:05
 ---
 
 Check-out: [eshop](https://github.com/Azure-Samples/eShopOnAzure)

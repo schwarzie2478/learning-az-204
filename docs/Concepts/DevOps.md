@@ -4,6 +4,8 @@ tags:
   - concept/SRE
 definition: A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.
 ms-learn-url: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops
+creation_date: 2024-05-02 17:15
+modification_date: 2024-05-02 22:05
 ---
 Steps
 - Plan

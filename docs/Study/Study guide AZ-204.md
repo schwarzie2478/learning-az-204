@@ -8,6 +8,7 @@ tags:
 definition: Study guide for AZ-204
 ms-learn-url: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204
 creation_date: 2024-05-02 22:00
+modification_date: 2024-05-03 15:15
 ---
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)

@@ -4,4 +4,6 @@ definition: A simple set of rules and requirements that dictate how version numb
 tags:
   - concept/SRE
 url: https://semver.org/
+creation_date: 2024-05-02 17:50
+modification_date: 2024-05-02 22:05
 ---

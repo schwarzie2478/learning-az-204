@@ -6,6 +6,8 @@ definition: An Executive Support System (ESS) is software that allows users to t
 url: https://en.wikipedia.org/wiki/Executive_information_system#:~:text=An%20executive%20information%20system%20(EIS,information%20relevant%20to%20organizational%20goals.
 tags:
   - concept/general
+creation_date: 2024-05-02 08:30
+modification_date: 2024-05-02 22:05
 ---
 Is a form of [[Decision Support System]].
 Also known as an [[Executive Information System]]

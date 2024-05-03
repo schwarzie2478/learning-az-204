@@ -1,10 +1,12 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
 type: term
 definition: Azure Resource Manager is the deployment and management service for Azure. It provides a management layer that enables you to create, update, and delete resources in your Azure account.
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+creation_date: 2024-05-02 18:40
+modification_date: 2024-05-02 22:05
 ---
 ![[consistent-management-layer.png]]
 

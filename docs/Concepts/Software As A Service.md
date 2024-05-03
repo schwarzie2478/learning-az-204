@@ -5,6 +5,8 @@ tags:
   - concept/SRE
 aliases:
   - SAAS
+creation_date: 2024-05-02 13:05
+modification_date: 2024-05-02 22:05
 ---
 Example: SAP,...
 

@@ -2,11 +2,13 @@
 dg-publish: true
 ms-learn-url: (https://learn.microsoft.com/en-us/cli/azure/)
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
   - tool
 definition: Azure commanline tool to manage Azure resources
 aliases:
   - az
+creation_date: 2024-05-02 22:00
+modification_date: 2024-05-02 22:05
 ---
 
 

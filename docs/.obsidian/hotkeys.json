@@ -14,5 +14,13 @@
       ],
       "key": "-"
     }
+  ],
+  "templater-obsidian:templates/Add Creation Time and Modification time to file.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

@@ -2,6 +2,8 @@
 dg-publish: true
 tags:
   - tool/obsidian
+creation_date: 2024-05-02 14:33
+modification_date: 2024-05-03 11:56
 ---
 publish: https://github.com/oleeskild/Obsidian-digital-garden
 

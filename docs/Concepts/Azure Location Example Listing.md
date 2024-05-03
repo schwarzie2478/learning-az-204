@@ -2,7 +2,9 @@
 dg-publish: true
 definition: An extracted list from the commandline tools for reference
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-02 18:40
+modification_date: 2024-05-02 22:05
 ---
 Listing of possible [[Azure Location]]:
 DisplayName               Name                 RegionalDisplayName

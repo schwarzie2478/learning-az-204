@@ -4,6 +4,8 @@ tags:
   - concept/SRE/cloud
 definition: GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructure automation.
 url: https://about.gitlab.com/topics/gitops/
+creation_date: 2024-05-02 17:06
+modification_date: 2024-05-02 22:05
 ---
 ### Overview
 - Starts with [[Infrastructure As Code]]

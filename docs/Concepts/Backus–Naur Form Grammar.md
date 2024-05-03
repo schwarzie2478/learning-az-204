@@ -6,6 +6,8 @@ definition: The Backus–Naur form or Backus normal form (BNF) is a metasyntax n
 aliases:
   - BNF
 url: https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form
+creation_date: 2024-05-02 17:51
+modification_date: 2024-05-02 22:05
 ---
 Concepts:
 - [[MetaSyntax]]

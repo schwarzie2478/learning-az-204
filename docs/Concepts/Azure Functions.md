@@ -1,10 +1,12 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
   - review
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp
 definition: Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs
+creation_date: 2024-05-02 18:40
+modification_date: 2024-05-02 22:05
 ---
 Code: [[Azure Function Scenarios]]
 

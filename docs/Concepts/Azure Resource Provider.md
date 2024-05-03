@@ -1,9 +1,11 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
 definition: An Azure resource provider is a set of REST operations that enable functionality for a specific Azure service.
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types
+creation_date: 2024-05-02 22:00
+modification_date: 2024-05-02 22:05
 ---
 
 You must register Resource Provider for your subscription.

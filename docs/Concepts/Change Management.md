@@ -6,5 +6,7 @@ definition: Change management (CM) is a collective term for all approaches to pr
 aliases:
   - CM
 url: https://en.wikipedia.org/wiki/Change_management
+creation_date: 2024-05-02 13:21
+modification_date: 2024-05-02 22:05
 ---
 Examples: [[ADKAR]]

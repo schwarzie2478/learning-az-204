@@ -4,6 +4,8 @@ tags:
   - review
   - concept/SRE/cloud/azure
 ms-learn-url: https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles
+creation_date: 2024-05-02 11:46
+modification_date: 2024-05-02 23:11
 ---
 [[Reliability]]
 

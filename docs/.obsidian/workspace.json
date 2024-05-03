@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Study guide AZ-204.md",
+                "file": "Social/PROSCI.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#entity ",
+                "query": "modification_date: 2024-05-03 15:15 --- creation_date: 2024-05-03 08:32",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study guide AZ-204.md",
+                "file": "Social/PROSCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study guide AZ-204.md",
+                "file": "Social/PROSCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Study guide AZ-204.md"
+                "file": "Social/PROSCI.md"
               }
             }
           },
@@ -172,15 +172,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Study/Study guide AZ-204.md"
+                "file": "Social/PROSCI.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,35 +202,35 @@
   },
   "active": "f089b54c4fefbf3e",
   "lastOpenFiles": [
-    "Study/AZ-204 Azure App Service.md",
-    "templates/Add Creation Time and Modification time to file.md",
-    "Study/KSS Open-Telemetry.md",
-    "Study/Study guide AZ-204.md",
-    "templates/New Note.md",
     "Social/Collaboration Betters The World.md",
-    "Social/PROSCI.md",
-    "Concepts/Change Management.md",
-    "Study/Publish Obsidian to Azure.md",
-    "Study/Microsoft Course for AZ-204.md",
-    "Study/Azure AZ-204 Lab 01.md",
-    "Study/AZ-204 Lab 01 Notes.md",
-    "unsorted/Untitled.md",
-    "tools/Search From beginning of Document.md",
-    "unsorted/Testing CreationDate.md",
+    "templates/Add Creation Time and Modification time to file.md",
+    "templates/New Note.md",
+    "templates/Daily Note Template.md",
+    "DataViews/Missing Creation Date.md",
+    "Code/FluentAssertions.md",
     "Code/Testing in .NET.md",
-    "Code/Execute Automation's Videos.md",
-    "Code/Playright in .NET.md",
-    "Code/Wiremock.NET.md",
-    "Start.md",
+    "Code/Microsoft.AspNetCore.Mvc.Testing.md",
     "Code/MarkDown Mermaid Class Diagram example.md",
     "tools/Obsidian learning.md",
+    "Study/Microsoft Course for AZ-204.md",
+    "Study/Azure AZ-204 Lab 01.md",
+    "Study/Publish Obsidian to Azure.md",
+    "Social/PROSCI.md",
+    "Start.md",
+    "DataViews/Unsorted Notes.md",
+    "DataViews/Full Table Of Contents.md",
+    "DataViews/Review.md",
+    "DataViews/Glossary.md",
+    "DataViews/Learn Reference.md",
+    "DataViews/Acronyms Aliases.md",
+    "daily/2024-05-02.md",
+    "Concepts/Availability.md",
+    "Concepts/Resiliency.md",
+    "Concepts/Reliability.md",
+    "Concepts/Azure reliability.md",
     "tools",
-    "daily/2024-05-03.md",
-    "Concepts/regular expression.md",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",
-    "DataViews/Unsorted Notes.md",
-    "DataViews/Untitled.md",
     "unsorted",
     "Code",
     "Social",

@@ -1,12 +1,13 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
 aliases:
   - sas
 definition: A shared access signature (SAS) provides secure delegated access to resources in your storage account. With a SAS, you have granular control over how a client can access your data.
-
 ms-learn-url: (https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
+creation_date: 2024-05-02 22:00
+modification_date: 2024-05-02 22:05
 ---
 
 A shared access signature is a token that is appended to the URI for an Azure Storage resource. The token that contains a special set of query parameters that indicate how the resources may be accessed by the client.

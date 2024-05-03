@@ -4,6 +4,8 @@ tags:
   - concept/SRE
 definition: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 url: https://git-scm.com/
+creation_date: 2024-05-02 16:53
+modification_date: 2024-05-02 22:05
 ---
 Type of [[Source Control]]
 

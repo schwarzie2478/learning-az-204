@@ -5,6 +5,8 @@ tags:
 aliases:
   - HCI
 definition: Software based solution to manage a provide cloud( hardware agnostic)
+creation_date: 2024-05-02 14:40
+modification_date: 2024-05-02 22:05
 ---
 Example: [[Azure Stack HCI]]
 

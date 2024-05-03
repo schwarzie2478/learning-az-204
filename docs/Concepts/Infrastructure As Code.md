@@ -6,5 +6,7 @@ aliases:
   - IAC
 definition: Infrastructure as code (IaC) automates the provisioning of IT infrastructure by using configuration files.
 url: https://about.gitlab.com/topics/gitops/infrastructure-as-code/
+creation_date: 2024-05-02 17:08
+modification_date: 2024-05-02 22:05
 ---
 Often part of [[GitOps]]

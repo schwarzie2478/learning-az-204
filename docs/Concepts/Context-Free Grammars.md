@@ -6,6 +6,8 @@ aliases:
 url: https://en.wikipedia.org/wiki/Context-free_grammar
 tags:
   - concept/SRE
+creation_date: 2024-05-02 17:55
+modification_date: 2024-05-02 22:05
 ---
 Concepts:
 - [[nonterminal]]

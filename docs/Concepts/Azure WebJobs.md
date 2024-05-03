@@ -3,6 +3,8 @@ dg-publish: true
 tags:
   - concept/SRE/cloud/azure
 ms-learn-url: https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#azure-web-apps-and-webjobs
+creation_date: 2024-05-02 22:00
+modification_date: 2024-05-02 22:05
 ---
 
 
