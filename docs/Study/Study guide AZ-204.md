@@ -1,18 +1,24 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure
   - AZ-204
   - landingpage
   - study
   - pinned
 definition: Study guide for AZ-204
 ms-learn-url: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204
+creation_date: 2024-05-02 22:00
 ---
-
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]
+
+
+Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
+[[AZ-204 Azure App Service]]
+
+Microsoft Labs:
+[[Azure AZ-204 Lab 01]]
 
 ### [Prepare for the exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#two-ways-to-prepare)
 
@@ -25,7 +31,7 @@ You should be proficient in Azure:
 - [[Azure Data connections|Data connections]]
 - [[Azure APIs|APIs]]
 - [[Azure App authentication and authorisation|App authentication and authorisation]]
-- [[Azure Compute and container deployment|Compute and container deployment
+- [[Azure Compute and container deployment|Compute and container deployment]]
 - [[Azure Debugging|Debugging]]
 ### Skills measured
 

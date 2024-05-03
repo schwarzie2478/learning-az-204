@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
   - review
   - study
   - AZ-204

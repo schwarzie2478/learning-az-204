@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 tags:
-  - concept/obsidian
+  - tool/obsidian
 ---
 publish: https://github.com/oleeskild/Obsidian-digital-garden
 

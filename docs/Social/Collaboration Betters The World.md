@@ -2,7 +2,7 @@
 dg-publish: true
 tags:
   - cbtw
-  - organisation
+  - entity/organisation
 aliases:
   - CBTW
 banner: "![[cbtw-banneremployee-7.png]]"

@@ -1,8 +1,7 @@
 ---
 dg-publish: true
 tags:
-  - review
-  - concept/obsidian
+  - code/markdown
 definition: Page to test things for this vault
 ---
 ```mermaid

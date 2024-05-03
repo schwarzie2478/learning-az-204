@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+AutoNoteMover: disable
 ---
 
 ## Welcome to my knowledge vault!
@@ -10,16 +11,9 @@ Pinned:
 List 
 From #pinned
 ```
-Concepts:
-```dataview
-List 
-From #concept/general or (#concept and #landingpage)
-```
-
-Other:
+Landing Pages:
 ```dataview
 List 
 From  #landingpage
-where !contains(tags, "concept") and file.name != "General Concepts"
 ```
 

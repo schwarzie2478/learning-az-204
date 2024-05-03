@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1d031f6caaf14280",
+        "id": "bfeb5cf8cdd0d585",
         "type": "tabs",
         "children": [
           {
-            "id": "214b66908ec88270",
+            "id": "f089b54c4fefbf3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad411f6960887b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/KSS Open-Telemetry.md",
+                "file": "Study/Study guide AZ-204.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:code/dotNET/testing",
+                "query": "tag:#entity ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/KSS Open-Telemetry.md",
+                "file": "Study/Study guide AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/KSS Open-Telemetry.md",
+                "file": "Study/Study guide AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/KSS Open-Telemetry.md"
+                "file": "Study/Study guide AZ-204.md"
               }
             }
           },
@@ -185,16 +172,15 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/KSS Open-Telemetry.md"
+                "file": "Study/Study guide AZ-204.md"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,36 +199,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fad411f6960887b2",
+  "active": "f089b54c4fefbf3e",
   "lastOpenFiles": [
+    "Study/AZ-204 Azure App Service.md",
+    "templates/Add Creation Time and Modification time to file.md",
+    "Study/KSS Open-Telemetry.md",
+    "Study/Study guide AZ-204.md",
+    "templates/New Note.md",
+    "Social/Collaboration Betters The World.md",
+    "Social/PROSCI.md",
+    "Concepts/Change Management.md",
+    "Study/Publish Obsidian to Azure.md",
+    "Study/Microsoft Course for AZ-204.md",
+    "Study/Azure AZ-204 Lab 01.md",
+    "Study/AZ-204 Lab 01 Notes.md",
+    "unsorted/Untitled.md",
+    "tools/Search From beginning of Document.md",
+    "unsorted/Testing CreationDate.md",
+    "Code/Testing in .NET.md",
+    "Code/Execute Automation's Videos.md",
+    "Code/Playright in .NET.md",
+    "Code/Wiremock.NET.md",
     "Start.md",
-    "Concepts/KSS Open-Telemetry.md",
-    "Concepts/Study guide AZ-204.md",
+    "Code/MarkDown Mermaid Class Diagram example.md",
+    "tools/Obsidian learning.md",
+    "tools",
+    "daily/2024-05-03.md",
+    "Concepts/regular expression.md",
+    "images/davechild_regular-expressions.pdf",
+    "images/davechild_regular-expressions.pdf.crdownload",
     "DataViews/Unsorted Notes.md",
     "DataViews/Untitled.md",
-    "DataViews/Review.md",
-    "templates/New Note.md",
-    "templates/Daily Note Template.md",
-    "daily/2024-05-03.md",
-    "daily/2024-05-02.md",
-    "DataViews/Full Table Of Contents.md",
-    "TestPage.md",
-    "Study Recaps/Day 02.md",
-    "Study Recaps/Day 01.md",
-    "Concepts/API Portal.md",
-    "Concepts/API Guidelines.md",
-    "Code/Testing in .NET.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "unsorted",
-    "Code/Microsoft.AspNetCore.Mvc.Testing.md",
-    "Code/FluentAssertions.md",
     "Code",
-    "Concepts/Reliability.md",
-    "Concepts/Availability.md",
-    "Concepts/Resiliency.md",
-    "Concepts/Reliability design patterns.md",
-    "Concepts/Azure reliability.md",
     "Social",
     "images/cbtw-banneremployee-7.png",
     "images/cbtw-banneremployee-7.png.crdownload",
@@ -255,9 +244,6 @@
     "images/whMEmL1jSSrOdW3oJTZ2.webp.crdownload",
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
-    "images/ADKAR-with-Image_web.webp.crdownload",
-    "images/change-management-aid.pdf",
-    "images/change-management-aid.pdf.crdownload",
     "Pasted Image 20240502112842_426.png",
     "images/manamentgroup-organisation.png",
     "images/scope-levels (1).png",

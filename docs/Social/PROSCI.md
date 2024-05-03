@@ -3,6 +3,6 @@ dg-publish: true
 url: https://www.prosci.com/about
 definition: a global team of change fanatics and advocates focused on customer success.
 tags:
-  - organisation
+  - entity/organisation
 ---
-Creator of [[ADKAR]] change managment framework
+Creator of [[ADKAR]] [[Change Management]] framework

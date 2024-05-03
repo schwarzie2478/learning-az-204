@@ -4,28 +4,28 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Azure/SDK",
-      "tag": "#azure/sdk",
-      "pattern": ""
-    },
-    {
-      "folder": "Azure",
-      "tag": "#azure",
-      "pattern": ""
-    },
-    {
       "folder": "Concepts",
       "tag": "#concept.*",
       "pattern": ""
     },
     {
       "folder": "Social",
-      "tag": "#organisation",
+      "tag": "#entity.*",
       "pattern": ""
     },
     {
       "folder": "Code",
       "tag": "#code.*",
+      "pattern": ""
+    },
+    {
+      "folder": "tools",
+      "tag": "#tool.*",
+      "pattern": ""
+    },
+    {
+      "folder": "Study",
+      "tag": "#study",
       "pattern": ""
     },
     {
@@ -37,7 +37,7 @@
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": ""
+      "folder": "templates"
     }
   ]
 }
