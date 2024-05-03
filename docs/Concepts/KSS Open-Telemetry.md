@@ -5,5 +5,6 @@ tags:
   - concept/SRE/cloud
   - cbtw
   - study
+  - pinned
 ---
 Made for [[Collaboration Betters The World|CBTW]].

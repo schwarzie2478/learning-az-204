@@ -3,5 +3,7 @@
   "userIgnoreFilters": [
     "Samples/"
   ],
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "unsorted"
 }

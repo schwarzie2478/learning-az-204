@@ -1,10 +1,11 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure 
+  - concept/SRE/cloud/azure
   - AZ-204
   - landingpage
   - study
+  - pinned
 definition: Study guide for AZ-204
 ms-learn-url: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204
 ---

@@ -3,18 +3,23 @@ dg-publish: true
 dg-home: true
 ---
 
+## Welcome to my knowledge vault!
 
-TODO: [[Review]]
-
-Certification AZ-204: [[Study guide AZ-204]]
-[[KSS Open-Telemetry]] 
-Concept:
+Pinned:
+```dataview
+List 
+From #pinned
+```
+Concepts:
 ```dataview
 List 
 From #concept/general or (#concept and #landingpage)
 ```
 
+Other:
+```dataview
+List 
+From  #landingpage
+where !contains(tags, "concept") and file.name != "General Concepts"
+```
 
-[[Acronyms Aliases]]
-[[Glossary]]
-[[AZ-204 Certification Bookmarks]]

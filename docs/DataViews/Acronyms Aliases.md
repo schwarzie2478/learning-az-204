@@ -1,3 +1,8 @@
+---
+dg-publish: true
+tags:
+  - landingpage
+---
 ```dataview
 TABLE aliases
 FROM #azure or #concept/SRE/cloud 

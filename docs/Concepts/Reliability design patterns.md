@@ -1,10 +1,12 @@
 ---
 dg-publish: true
 tags:
-  - concept/SRE
   - review
+  - concept/SRE/cloud/azure
 ms-learn-url: https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles
 ---
+[[Reliability]]
+
 ## [Design for business requirements](https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles#design-for-business-requirements)
 * Quantify Success by setting targets of indicator on individual components
 * Understand platform commitments. **Consider the limits, quotas, regions, and capacity constraints** for services.

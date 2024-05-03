@@ -15,5 +15,8 @@
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "broken-links",
-  "digitalgarden"
+  "digitalgarden",
+  "templater-obsidian",
+  "obsidian-global-hotkeys",
+  "obsidian-meta-bind-plugin"
 ]
