@@ -13,10 +13,26 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
 - [ ] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04
 ## seedbox
-```dataview
-List
-where frontmatter.status = seedling
+
+```dataviewjs
+const tableHeadings = ["Name", "status"];
+const fileQuery = '';
+const limit = 10;
+const sortBy = 'status';
+
+const {fieldModifier: f} = this.app.plugins.plugins["metadata-menu"].api;
+
+dv
+    .table(tableHeadings,
+    await Promise.all(dv.pages(fileQuery).limit(limit).sort(k => k[sortBy], 'desc')
+    .map(async p => [
+        p.file.link,
+        await f(dv, p, "status")
+    ])
+));
+
 ```
+
 
 ## Maturity Levels
 

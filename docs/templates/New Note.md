@@ -8,8 +8,9 @@ definition: undefined
 ms-learn-url: undefined
 url: undefined
 ---
-|   MetaData |                                       |
-| ---------- | ------------------------------------------ |
-| Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+
+| MetaData   |                                              |
+| ---------- | -------------------------------------------- |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |

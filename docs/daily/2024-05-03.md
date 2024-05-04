@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: event
 dg-publish: true
 tags:
   - dailynotes

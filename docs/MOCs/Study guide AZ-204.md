@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: [planted]
 dg-publish: true
 tags:
   - AZ-204
@@ -11,6 +11,12 @@ ms-learn-url: https://learn.microsoft.com/en-us/credentials/certifications/resou
 creation_date: 2024-05-02 22:00
 
 ---
+
+```dataview
+Task
+From "Study"
+where !completed
+```
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]

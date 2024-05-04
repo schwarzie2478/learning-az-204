@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf9180c9c17a5f1",
+        "id": "1ae03e7b01d83ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "1396a210c65f2e78",
+            "id": "90b459d9945c9a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "MOCs/Daily Gardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
+                "file": "MOCs/Daily Gardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md"
+                "file": "MOCs/Daily Gardening.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "MOCs/Daily Gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Start.md",
+                "file": "MOCs/Daily Gardening.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Start.md"
+                "file": "MOCs/Daily Gardening.md"
               }
             }
           }
@@ -260,14 +259,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1396a210c65f2e78",
+  "active": "90b459d9945c9a14",
   "lastOpenFiles": [
+    "Start.md",
+    "Concepts/Azure App Service.md",
+    "templates/New Note.md",
+    "Study/AZ-204 introduction-to-azure-app-service.md",
+    "MOCs/Study guide AZ-204.md",
+    "tools/Obsidian Commander Plugin.md",
+    "templates/Daily Note Template.md",
     "templates/Add Creation Time and Modification time to file.md",
     "daily/2024-05-04.md",
     "tools/Otter.ai.md",
     "tools/Quick Add Plugin.md",
     "MOCs/Task Management.md",
-    "Start.md",
     "MOCs/Daily Gardening.md",
     "MOCs/Unsorted Notes.md",
     "Concepts/Azure Deployment Slots.md",
@@ -282,12 +287,6 @@
     "Code/NunJucks.md",
     "Concepts/Dedicated hosting plans for Azure Functions.md",
     "Code/momentjs.md",
-    "Code/CommonJS.md",
-    "MOCs/Review.md",
-    "MOCs/Missing Creation Date.md",
-    "MOCs/Learn Reference.md",
-    "MOCs/Glossary.md",
-    "MOCs/Full Table Of Contents.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",

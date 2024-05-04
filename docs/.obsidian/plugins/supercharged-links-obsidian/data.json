@@ -1,0 +1,100 @@
+{
+  "targetAttributes": [
+    "status"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "seedling",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "155c-8f59",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "signpost",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "58c1-3e04",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "planted",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "504c-1de0",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "tree",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f5ff-2d98",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "withered",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c46c-d590",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "stone",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "74e9-0507",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "event",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "eac1-050d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
