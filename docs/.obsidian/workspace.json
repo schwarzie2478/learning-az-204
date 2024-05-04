@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "Concepts/Duende.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "Concepts/Duende.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Daily Gardening.md"
+                "file": "Concepts/Duende.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "Concepts/Duende.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +176,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "fba8070ef6b85a15",
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "Concepts/Duende.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MOCs/Daily Gardening.md"
+                "file": "Concepts/Duende.md"
               }
             }
           }
@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 629.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,34 +259,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "90b459d9945c9a14",
+  "active": "cfd7f45ba55aa2fa",
   "lastOpenFiles": [
-    "Start.md",
-    "Concepts/Azure App Service.md",
-    "templates/New Note.md",
+    "Concepts/Federated Identity Providers.md",
+    "Concepts/Duende.md",
+    "Study/Azure App authentication and authorisation.md",
     "Study/AZ-204 introduction-to-azure-app-service.md",
     "MOCs/Study guide AZ-204.md",
-    "tools/Obsidian Commander Plugin.md",
-    "templates/Daily Note Template.md",
-    "templates/Add Creation Time and Modification time to file.md",
     "daily/2024-05-04.md",
-    "tools/Otter.ai.md",
-    "tools/Quick Add Plugin.md",
-    "MOCs/Task Management.md",
+    "daily/2024-05-01.md",
+    "daily/2024-04-20.md",
+    "daily/2024-04-21.md",
+    "daily/2024-04-22.md",
+    "daily/2024-04-23.md",
+    "daily/2024-04-24.md",
+    "daily/2024-04-25.md",
+    "daily/2024-04-26.md",
+    "daily/2024-04-28.md",
+    "daily/2024-04-27.md",
+    "daily/2024-04-29.md",
+    "daily/2024-05-02.md",
+    "daily/2024-04-30.md",
+    "daily/2024-05-03.md",
+    "templates/Daily Note Template.md",
     "MOCs/Daily Gardening.md",
-    "MOCs/Unsorted Notes.md",
-    "Concepts/Azure Deployment Slots.md",
-    "Social/Cloud Native Computing Foundation.md",
-    "Concepts/Azure Arc-enabled Kubernetes.md",
-    "Concepts/Kubernetes.md",
-    "Concepts/Kubernetes Event-driven Autoscaling.md",
-    "tools/Flux.md",
-    "Concepts/GitOps.md",
-    "Concepts/Pull Requests.md",
-    "Concepts/Git.md",
-    "Code/NunJucks.md",
-    "Concepts/Dedicated hosting plans for Azure Functions.md",
-    "Code/momentjs.md",
+    "Kanban/My First Kanban.md",
+    "MOCs/Task Management.md",
+    "Start.md",
+    "Kanban",
+    "Concepts/Azure App Service.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",
@@ -301,7 +302,6 @@
     "images/what-is-devops_lifecycle.avif",
     "images/what-is-devops_lifecycle.avif.crdownload",
     "images/ApiOps-flow.webp",
-    "images/whMEmL1jSSrOdW3oJTZ2.webp.crdownload",
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
     "Pasted Image 20240502112842_426.png",

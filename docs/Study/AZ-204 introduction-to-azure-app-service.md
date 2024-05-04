@@ -14,8 +14,8 @@ Learning about [[Azure App Service]]
 
 After completing this module, you'll be able to:
 
-- Describe [[Azure App Service]] key components and value.
-- [ ] Explain how Azure App Service manages authentication and authorization.
+- [x] Describe [[Azure App Service]] key components and value. ✅ 2024-05-04
+- [ ] Explain how Azure App Service manages [[Azure App authentication and authorisation|authentication and authorization]].
 - [ ] Identify methods to control inbound and outbound traffic to your web app.
 - [ ] Deploy an app to App Service using [[Azure CLI]] commands.
 

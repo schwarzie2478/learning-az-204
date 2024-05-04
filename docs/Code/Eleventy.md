@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
   - code/javascript
@@ -8,9 +8,9 @@ definition: Eleventy is a simpler static site generator
 ms-learn-url: undefined
 url: https://www.11ty.dev/
 ---
-|   MetaData |                                       |
+| MetaData   |                                            |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`        |
 
 

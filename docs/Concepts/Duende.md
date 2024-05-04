@@ -1,16 +1,16 @@
 ---
-status: stone
+status: seedling
 dg-publish: true
 tags:
-  - entity/organisation
-  - concept/SRE/cloud
-creation_date: 2024-05-03 23:50
-definition: CNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous.
+  - concept/SRE/cloud/security
+creation_date: 2024-05-04 19:10
+definition: The most flexible and standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
 ms-learn-url: undefined
-url: https://www.cncf.io/
+url: https://duendesoftware.com/
 aliases:
-  - CNCF
+  - identityserver
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |

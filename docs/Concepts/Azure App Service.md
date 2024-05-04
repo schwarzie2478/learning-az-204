@@ -20,7 +20,7 @@ creation_date: 2024-05-02 22:00
 
 
 
-Used to deploy  a [[Azure WebApp]],
+Used to deploy  a [[Azure WebApp]] and/or [[Azure Functions]]. ( not always possible together!)
 You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[App Service Plan|plan]].
 ### Fast Creation Option
 
@@ -30,7 +30,7 @@ you can also use the [[Azure CLI]] with one do it all command
 > [!example] 
 > az webapp up --location xxx --name xxx
 
-The opposite command ( not sur if this works with only location, probably needs resourcegroup)
+The opposite command ( not sure if this works with only location, probably needs resourcegroup)
 
 > [!example] 
 > az webapp delete --name xxx --location xxx
@@ -48,11 +48,6 @@ Docker
 Static Web App
 
 Attention: You cannot deploy an pre-compiled exe binary to an App Service
-
-### [[App Service Plan]]
-
-
-
 
 ### Recommended Service
 

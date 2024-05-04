@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: tree
 dg-publish: true
 tags:
   - tool/vscode/tips

@@ -1,11 +1,11 @@
 {
   "presetFields": [
     {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
@@ -18,13 +18,8 @@
         }
       },
       "name": "status",
-      "id": "eCeXCM",
-      "path": "",
-      "command": {
-        "id": "insert__eCeXCM",
-        "icon": "list-plus",
-        "label": "Insert  field"
-      }
+      "id": "lK1Ffz",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -33,7 +28,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.1",
+  "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

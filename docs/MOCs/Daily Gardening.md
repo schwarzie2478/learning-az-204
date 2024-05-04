@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: [planted]
 dg-publish: true
 tags:
   - landingpage
@@ -11,20 +11,23 @@ url: undefined
 | MetaData   |                                            |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-- [ ] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04
+- [ ] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-05
+- [x] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04 ✅ 2024-05-04
 ## seedbox
 
 ```dataviewjs
 const tableHeadings = ["Name", "status"];
 const fileQuery = '';
-const limit = 10;
+const limit = 50;
 const sortBy = 'status';
 
 const {fieldModifier: f} = this.app.plugins.plugins["metadata-menu"].api;
 
 dv
     .table(tableHeadings,
-    await Promise.all(dv.pages(fileQuery).limit(limit).sort(k => k[sortBy], 'desc')
+    await Promise.all(dv.pages(fileQuery)
+    .where(f => f.status == "seedling")
+    .limit(limit).sort(k => k[sortBy], 'desc')
     .map(async p => [
         p.file.link,
         await f(dv, p, "status")
@@ -32,6 +35,7 @@ dv
 ));
 
 ```
+
 
 
 ## Maturity Levels

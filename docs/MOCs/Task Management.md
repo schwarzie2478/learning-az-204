@@ -4,7 +4,7 @@ dg-publish: true
 tags:
   - landingpage
 creation_date: 2024-05-04 14:43
-definition: undefined
+definition: Simple view of all open tasks
 ms-learn-url: undefined
 url: undefined
 ---

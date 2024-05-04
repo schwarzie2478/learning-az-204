@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoCalendarDays",
+      "🗂",
       "📃",
       "🛠",
-      "🖥",
-      "✏",
-      "🌍"
+      "🖥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,7 @@
     "iconIdentifier": ":",
     "debugMode": true
   },
-  "daily": "⌛",
+  "daily": "CoCalendarDays",
   "unsorted": "🌱",
   "MOCs": "🔱",
   "Concepts": "🧠",
@@ -42,5 +42,6 @@
   "Excalidraw": "✏",
   "Code": "🖥",
   "tools": "🛠",
-  "templates": "📃"
+  "templates": "📃",
+  "Kanban": "🗂"
 }

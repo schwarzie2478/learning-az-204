@@ -1,16 +1,14 @@
 ---
-status: stone
+status: seedling
 dg-publish: true
 tags:
-  - entity/organisation
-  - concept/SRE/cloud
-creation_date: 2024-05-03 23:50
-definition: CNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous.
+  - unsorted
+creation_date: 2024-05-04 17:42
+definition: undefined
 ms-learn-url: undefined
-url: https://www.cncf.io/
-aliases:
-  - CNCF
+url: undefined
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |

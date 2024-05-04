@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
   - cbtw
