@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Azure App Service.md",
+                "file": "Code/FluentAssertions.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Core Tool",
+                "query": "tag:code/dotNET/testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Azure App Service.md",
+                "file": "Code/FluentAssertions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Azure App Service.md"
+                "file": "Code/FluentAssertions.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/Azure App Service.md",
+                "file": "Code/FluentAssertions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/Azure App Service.md"
+                "file": "Code/FluentAssertions.md"
               }
             }
           }
@@ -235,8 +236,11 @@
   },
   "active": "1396a210c65f2e78",
   "lastOpenFiles": [
-    "unsorted/Azure Deployment Slots.md",
+    "Code/Wiremock.NET.md",
+    "Code/Microsoft Semantic Kernel.md",
+    "Concepts/Azure Virtual Machine.md",
     "Concepts/Azure App Service.md",
+    "unsorted/Azure Deployment Slots.md",
     "Concepts/App Service Auto Scaling.md",
     "Concepts/Azure Functions.md",
     "Concepts/Azure Functions Deployement.md",
@@ -258,9 +262,6 @@
     "Concepts/Microsoft Entra Id.md",
     "Concepts/Microsoft Entra Id Privileged Role.md",
     "tools/Search From beginning of Document.md",
-    "Concepts/Service Principle.md",
-    "Concepts/App Service Plan.md",
-    "Concepts/Azure WebApp.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",
