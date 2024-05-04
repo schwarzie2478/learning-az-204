@@ -1,4 +1,5 @@
 ---
+status: seedling
 dg-publish: true
 definition: Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources.
 tags:

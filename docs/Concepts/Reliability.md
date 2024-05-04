@@ -1,4 +1,5 @@
 ---
+status: seedling
 tags:
   - concept/SRE/cloud
 definition: "Reliability consists of two principles: resiliency and availability."

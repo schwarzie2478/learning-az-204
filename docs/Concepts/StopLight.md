@@ -1,4 +1,5 @@
 ---
+status: seedling
 dg-publish: true
 definition: Editor for swagger documents
 tags:

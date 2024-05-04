@@ -1,4 +1,5 @@
 ---
+status: seedling
 dg-publish: true
 dg-home: true
 AutoNoteMover: disable
