@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: Alternative name for Chaos Engineering
 tags:

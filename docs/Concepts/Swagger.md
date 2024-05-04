@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: Api defintion standard
 tags:

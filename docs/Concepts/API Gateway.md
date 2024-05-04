@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: Central place to access and mange your api
 tags:

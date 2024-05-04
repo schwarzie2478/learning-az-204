@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: Still hardware based solution and traditional IT products on top of simplified architecture and management
 tags:

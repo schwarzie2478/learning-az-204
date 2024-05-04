@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: An extracted list from the commandline tools for reference
 tags:

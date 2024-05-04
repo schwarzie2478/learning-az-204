@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 ms-learn-url: (https://learn.microsoft.com/en-us/azure/app-service/)
 definition: Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.

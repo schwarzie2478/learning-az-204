@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 ms-learn-url: https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro
 tags:

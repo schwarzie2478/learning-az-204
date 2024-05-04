@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 aliases:
   - Server Farm

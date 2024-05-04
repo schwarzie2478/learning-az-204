@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 ms-learn-url: https://azure.microsoft.com/en-us/products/chaos-studio/
 tags:
