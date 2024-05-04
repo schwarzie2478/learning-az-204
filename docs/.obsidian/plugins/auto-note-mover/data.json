@@ -9,8 +9,13 @@
       "pattern": ""
     },
     {
-      "folder": "Concepts",
-      "tag": "#concept.*",
+      "folder": "Study",
+      "tag": "#study",
+      "pattern": ""
+    },
+    {
+      "folder": "tools",
+      "tag": "#tool.*",
       "pattern": ""
     },
     {
@@ -24,13 +29,8 @@
       "pattern": ""
     },
     {
-      "folder": "tools",
-      "tag": "#tool.*",
-      "pattern": ""
-    },
-    {
-      "folder": "Study",
-      "tag": "#study",
+      "folder": "Concepts",
+      "tag": "#concept.*",
       "pattern": ""
     }
   ],

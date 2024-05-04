@@ -18,5 +18,8 @@
   "digitalgarden",
   "templater-obsidian",
   "obsidian-global-hotkeys",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "emoji-shortcodes",
+  "emoji-autocomplete",
+  "emoji-tags-titler"
 ]
