@@ -1,18 +1,19 @@
 ---
-status: seedling
+status: signpost
 dg-publish: true
 tags:
-  - concept/SRE/cloud
-creation_date: 2024-05-03 23:58
-definition: KEDA is a Kubernetes-based Event Driven Autoscaler.
+  - landingpage
+creation_date: 2024-05-04 14:43
+definition: undefined
 ms-learn-url: undefined
-url: https://keda.sh/
-aliases:
-  - KEDA
+url: undefined
 ---
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-With KEDA, you can drive the scaling of any container in [[Kubernetes]] based on the number of events needing to be processed.
+```dataview
+task
+WHERE !completed
+```

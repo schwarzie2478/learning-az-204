@@ -21,5 +21,11 @@
   "obsidian-meta-bind-plugin",
   "emoji-shortcodes",
   "emoji-autocomplete",
-  "emoji-tags-titler"
+  "emoji-tags-titler",
+  "various-complements",
+  "url-into-selection",
+  "quickadd",
+  "obsidian-spaced-repetition",
+  "editing-toolbar",
+  "cmdr"
 ]

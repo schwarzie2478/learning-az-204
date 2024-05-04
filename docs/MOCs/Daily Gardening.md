@@ -2,17 +2,22 @@
 status: seedling
 dg-publish: true
 tags:
-  - unsorted
+  - landingpage
 creation_date: 2024-05-04 10:10
 definition: Place to meditate and plant some seeds
 ms-learn-url: undefined
 url: undefined
 ---
-| MetaData   |                                              |
-| ---------- | -------------------------------------------- |
-| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
-| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
-| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+| MetaData   |                                            |
+| ---------- | ------------------------------------------ |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]` |
+- [ ] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04
+## seedbox
+```dataview
+List
+where frontmatter.status = seedling
+```
+
 ## Maturity Levels
 
 The maturity level for each note is represented by plant icons of various growth.

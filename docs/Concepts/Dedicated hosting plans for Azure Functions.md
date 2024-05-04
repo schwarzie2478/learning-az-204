@@ -2,7 +2,6 @@
 status: seedling
 dg-publish: true
 tags:
-  - unsorted
   - concept/SRE/cloud/azure
 creation_date: 2024-05-03 23:30
 definition: This is about hosting your function app with dedicated resources in an App Service plan, including in an App Service Environment (ASE).

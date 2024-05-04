@@ -2,7 +2,6 @@
 status: seedling
 dg-publish: true
 tags:
-  - unsorted
   - concept/SRE/cloud
 creation_date: 2024-05-03 23:43
 definition: undefined

@@ -1,7 +1,6 @@
 ---
-status: seedling
+status: signpost
 creation_date: 2024-04-29 15:00
-
 ---
  ```dataviewjs
     let p = dv.pages('"Concepts"') // Retrieve pages with title "path/to/your/notes"

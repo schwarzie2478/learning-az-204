@@ -14,15 +14,15 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": true
   }
 }

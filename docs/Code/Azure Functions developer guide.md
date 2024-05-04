@@ -8,9 +8,10 @@ definition: In Azure Functions, all functions share some core technical concepts
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference?tabs=blob&pivots=programming-language-csharp
 url: undefined
 ---
-|   MetaData |                                       |
-| ---------- | ------------------------------------------ |
-| Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+| MetaData   |                                              |
+| ---------- | -------------------------------------------- |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 Developer Guide for [[Azure Functions]]
+

@@ -9,6 +9,11 @@
       "pattern": ""
     },
     {
+      "folder": "MOCs",
+      "tag": "#landingpage",
+      "pattern": ""
+    },
+    {
       "folder": "Study",
       "tag": "#study",
       "pattern": ""
@@ -20,7 +25,7 @@
     },
     {
       "folder": "Social",
-      "tag": "#organisation",
+      "tag": "#entity.*",
       "pattern": ""
     },
     {

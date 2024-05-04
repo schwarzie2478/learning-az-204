@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "be9d0ce96fc5321a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Obsidian learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:code/dotNET/testing",
+                "query": "tag:concept/SRE/cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Obsidian learning.md",
+                "file": "Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Obsidian learning.md"
+                "file": "Start.md"
               }
             }
           },
@@ -162,9 +150,34 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "9b503e277bf530e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "377d4ec719e625fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "fba8070ef6b85a15",
@@ -177,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tools/Obsidian learning.md",
+                "file": "Start.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "tools/Obsidian learning.md"
+                "file": "Start.md"
               }
             }
           }
@@ -243,37 +256,38 @@
       "broken-links:View broken links": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be9d0ce96fc5321a",
+  "active": "1396a210c65f2e78",
   "lastOpenFiles": [
-    "unsorted/Daily Gardening.md",
-    "tools/Obsidian learning.md",
+    "templates/Add Creation Time and Modification time to file.md",
+    "daily/2024-05-04.md",
+    "tools/Otter.ai.md",
+    "tools/Quick Add Plugin.md",
+    "MOCs/Task Management.md",
     "Start.md",
-    "Code/FluentAssertions.md",
-    "Code/Wiremock.NET.md",
-    "Code/Microsoft Semantic Kernel.md",
-    "Concepts/Azure Virtual Machine.md",
-    "Concepts/Azure App Service.md",
-    "unsorted/Azure Deployment Slots.md",
-    "Concepts/App Service Auto Scaling.md",
-    "Concepts/Azure Functions.md",
-    "Concepts/Azure Functions Deployement.md",
-    "tools/Azure Functions Core Tools.md",
-    "Concepts/Azure Functions Premium plan.md",
-    "Concepts/Azure Functions hosting options.md",
-    "Code/Azure Functions developer guide.md",
-    "Concepts/Azure Container Apps.md",
+    "MOCs/Daily Gardening.md",
+    "MOCs/Unsorted Notes.md",
+    "Concepts/Azure Deployment Slots.md",
+    "Social/Cloud Native Computing Foundation.md",
+    "Concepts/Azure Arc-enabled Kubernetes.md",
+    "Concepts/Kubernetes.md",
     "Concepts/Kubernetes Event-driven Autoscaling.md",
-    "unsorted/Kubernetes.md",
-    "unsorted/Azure Arc-enabled Kubernetes.md",
-    "Concepts/Azure Arc.md",
     "tools/Flux.md",
-    "unsorted/Cloud Native Computing Foundation.md",
-    "Concepts/Azure Functions Consumption plan hosting.md",
-    "unsorted/Dedicated hosting plans for Azure Functions.md",
-    "Concepts/Azure App Service on Linux.md",
+    "Concepts/GitOps.md",
+    "Concepts/Pull Requests.md",
+    "Concepts/Git.md",
+    "Code/NunJucks.md",
+    "Concepts/Dedicated hosting plans for Azure Functions.md",
+    "Code/momentjs.md",
+    "Code/CommonJS.md",
+    "MOCs/Review.md",
+    "MOCs/Missing Creation Date.md",
+    "MOCs/Learn Reference.md",
+    "MOCs/Glossary.md",
+    "MOCs/Full Table Of Contents.md",
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",

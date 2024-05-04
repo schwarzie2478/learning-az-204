@@ -10,6 +10,8 @@ creation_date: 2024-05-02 18:40
 ## Welcome to my knowledge vault!
 
 [[Daily Gardening]]
+[[Task Management]]
+
 Pinned:
 ```dataview
 List 

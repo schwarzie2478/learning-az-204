@@ -1,10 +1,9 @@
 ---
-status: seedling
+status: signpost
 dg-publish: true
 tags:
   - landingpage
 creation_date: 2024-04-26 13:14
-
 ---
 ```dataview
 TABLE definition, aliases
