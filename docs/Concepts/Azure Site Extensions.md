@@ -9,7 +9,7 @@ creation_date: 2024-05-02 22:00
 
 ---
 
-Each [[Azure App Service|Azure Website]] provides an extensible management end point that allows you to leverage a powerful set of tools deployed as site extensions.
+Each [[Concepts/Azure App Service|Azure Website]] provides an extensible management end point that allows you to leverage a powerful set of tools deployed as site extensions.
 
 Ref: [link](https://github.com/projectkudu/kudu/wiki/Azure-Site-Extensions)
 

@@ -1,15 +1,14 @@
 ---
-status: [planted]
+status:
+  - planted
 dg-publish: true
 tags:
-  - AZ-204
   - landingpage
-  - study
   - pinned
+  - study/AZ-204
 definition: Study guide for AZ-204
 ms-learn-url: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204
 creation_date: 2024-05-02 22:00
-
 ---
 
 ```dataview
@@ -26,7 +25,7 @@ Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/path
 [[AZ-204 introduction-to-azure-app-service]]
 
 Microsoft Labs:
-[[Azure AZ-204 Lab 01]]
+[[AZ-204 Lab 01 Notes]]
 
 ### [Prepare for the exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#two-ways-to-prepare)
 

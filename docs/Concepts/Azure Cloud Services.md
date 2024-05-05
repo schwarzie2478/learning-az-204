@@ -7,4 +7,4 @@ definition: Also known as Azure App Service
 creation_date: 2024-05-02 18:40
 
 ---
-Also known as [[Azure App Service]]
+Also known as [[Concepts/Azure App Service]]

@@ -10,7 +10,7 @@ ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/overview-hosti
 creation_date: 2024-05-02 18:40
 ---
 
-An [[Azure App Service]] always runs in an _App Service plan_.
+An [[Concepts/Azure App Service]] always runs in an _App Service plan_.
 
 
 The plan defines the SKU on which the apps will be running, each plan belongs to one region

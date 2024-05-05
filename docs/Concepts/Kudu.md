@@ -8,4 +8,4 @@ tags:
 creation_date: 2024-05-02 18:40
 
 ---
-Application diagnostic and configuration service used by [[Azure App Service]] 
+Application diagnostic and configuration service used by [[Concepts/Azure App Service]] 

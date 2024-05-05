@@ -13,4 +13,4 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-- [ ] Learn How to use Commander Plugin ⏬ 📅 2024-05-04
+- [ ] Learn How to use [[Obsidian]] Commander Plugin ⏬ 

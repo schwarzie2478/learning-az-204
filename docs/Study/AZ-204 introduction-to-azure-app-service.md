@@ -1,21 +1,21 @@
 ---
-status: [planted]
+status:
+  - planted
 dg-publish: true
 tags:
-  - AZ-204
-  - study
   - pinned
+  - study/AZ-204
 ms-learn-url: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/
 creation_date: 2024-05-02 11:00
 ---
 
-Learning about [[Azure App Service]]
+Learning about [[Concepts/Azure App Service]]
 ## Learning objectives
 
 After completing this module, you'll be able to:
 
-- [x] Describe [[Azure App Service]] key components and value. ✅ 2024-05-04
-- [ ] Explain how Azure App Service manages [[Azure App authentication and authorisation|authentication and authorization]].
-- [ ] Identify methods to control inbound and outbound traffic to your web app.
-- [ ] Deploy an app to App Service using [[Azure CLI]] commands.
+- [x] Describe [[Concepts/Azure App Service]] key components and value. ✅ 2024-05-04
+- [x] Explain how Azure App Service manages [[Azure App authentication and authorisation|authentication and authorization]]. ✅ 2024-05-05
+- [x] Identify methods to control [[inbound and outbound traffic to your web app]]. ✅ 2024-05-05
+- [x] Deploy an app to App Service using [[Azure CLI]] commands. ✅ 2024-05-05
 

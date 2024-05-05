@@ -7,4 +7,4 @@ tags:
 creation_date: 2024-05-02 17:01
 
 ---
-Example: [[Azure App Service]]
+Example: [[Concepts/Azure App Service]]

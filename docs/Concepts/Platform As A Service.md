@@ -11,4 +11,4 @@ creation_date: 2024-04-25 18:46
 ---
 Different of  [[Infrastructure As A Service|IAAS]] and [[Software As A Service|SAAS]]
 
-Examples :  [[Azure App Service]]
+Examples :  [[Concepts/Azure App Service]]

@@ -15,7 +15,7 @@
     },
     {
       "folder": "Study",
-      "tag": "#study",
+      "tag": "#study.*",
       "pattern": ""
     },
     {
@@ -26,6 +26,11 @@
     {
       "folder": "Social",
       "tag": "#entity.*",
+      "pattern": ""
+    },
+    {
+      "folder": "Content",
+      "tag": "#content.*",
       "pattern": ""
     },
     {
@@ -40,7 +45,7 @@
     },
     {
       "folder": "Kanban",
-      "tag": "#kanban",
+      "tag": "#kanban.*",
       "pattern": ""
     }
   ],

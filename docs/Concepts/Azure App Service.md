@@ -20,7 +20,7 @@ creation_date: 2024-05-02 22:00
 
 
 
-Used to deploy  a [[Azure WebApp]] and/or [[Azure Functions]]. ( not always possible together!)
+Used to deploy  a [[Azure Web App]] and/or [[Azure Functions]]. ( not always possible together!)
 You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[App Service Plan|plan]].
 ### Fast Creation Option
 

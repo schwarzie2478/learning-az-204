@@ -2,8 +2,7 @@
 status: planted
 dg-publish: true
 tags:
-  - AZ-204
-  - study
+  - study/AZ-204
 creation_date: 2024-05-04 17:42
 definition: Azure App Service provides built-in authentication and authorization support, so you can sign in users and access data by writing minimal, or no code in your web app, RESTful API, mobile back end, and Azure Functions.
 ms-learn-url: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/5-authentication-authorization-app-service
@@ -24,4 +23,4 @@ The built-in authentication feature for App Service and Azure Functions can save
 
 ## Identity providers
 
-App Service uses federated identity, in which a third-party identity provider manages the user identities and authentication flow for you.
+App Service uses [[Federated Identity]], in which a third-party identity provider manages the user identities and authentication flow for you.

@@ -8,6 +8,6 @@ creation_date: 2024-05-02 22:00
 
 ---
 
-Deployed in a  [[Azure App Service]]
+Deployed in a  [[Concepts/Azure App Service]]
 
 Reference Implementation: [[Code sample Reliable WebApp]]

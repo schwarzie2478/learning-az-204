@@ -1,12 +1,11 @@
 ---
-status: [planted]
+status:
+  - planted
 dg-publish: true
 tags:
-  - AZ-204
-  - study
   - pinned
+  - study/AZ-204
 creation_date: 2024-04-25 11:22
-
 ---
 
 
