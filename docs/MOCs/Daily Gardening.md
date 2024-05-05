@@ -11,14 +11,15 @@ url: undefined
 | MetaData   |                                            |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-- [ ] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-05
+- [ ] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-06
+- [x] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-05 ✅ 2024-05-05
 - [x] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04 ✅ 2024-05-04
 ## seedbox
 
 ```dataviewjs
 const tableHeadings = ["Name", "status"];
 const fileQuery = '';
-const limit = 50;
+const limit = 150;
 const sortBy = 'status';
 
 const {fieldModifier: f} = this.app.plugins.plugins["metadata-menu"].api;

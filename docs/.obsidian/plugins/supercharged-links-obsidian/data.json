@@ -95,6 +95,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "status",
+      "value": "stored",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "ef69-8435",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

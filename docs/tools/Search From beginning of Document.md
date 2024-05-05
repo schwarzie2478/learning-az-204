@@ -6,7 +6,7 @@ tags:
 creation_date: 2024-05-03 11:31
 
 ---
-If you need to match the first line of a document the following [[regular expression]] will work:
+If you need to match the first line of a document the following [[Regular Expression]] will work:
 ```
 ^(?<!\n)
 ```

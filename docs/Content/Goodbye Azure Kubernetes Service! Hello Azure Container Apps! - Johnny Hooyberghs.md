@@ -18,7 +18,7 @@ url: https://www.youtube.com/watch?v=yGrE_yKWo58
 ![View](https://www.youtube.com/watch?v=yGrE_yKWo58)
 ## Callouts View
 ```dataviewjs
-const regex = new RegExp(">\\s\\[\\![a-z]*\\]\\s(.+?)(\\n>\\s.*?)*\\n", "gi")
+const regex = new RegExp(">\\s\\[\\![a-z]*\\]-?\\s(.+?)(\\n>\\s.*?)*\\n", "gi")
 let page = dv.current()
 const content = await dv.io.load(page.file.path)
 const rows = []
@@ -45,7 +45,7 @@ and that can run in whatever technology doesn't need to be .net or can be whatev
 
 next we have the function app or the serverless offering 
 
-> [!quote]
+> [!quote] function apps
 > For function apps in in Azure this also has support for containers 
 
 you can put your function app inside of a container and deploy the container to a function app in Azure so

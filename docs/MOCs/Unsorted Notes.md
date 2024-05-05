@@ -10,5 +10,5 @@ List
 From #unsorted 
 where file.folder != "templates"
 ```
-- [ ] Do some Sorting 🔁 every day when done 🛫 2024-05-05
+- [x] Do some Sorting 🔁 every day when done 🛫 2024-05-05
 - [x] Do some Sorting 🔁 every day when done 🛫 2024-05-04 ✅ 2024-05-04
