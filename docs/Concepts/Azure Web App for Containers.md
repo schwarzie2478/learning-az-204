@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - concept/SRE/cloud/azure
@@ -14,3 +14,4 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+You can deploy an [[Containers]] as an [[Azure Web App]]

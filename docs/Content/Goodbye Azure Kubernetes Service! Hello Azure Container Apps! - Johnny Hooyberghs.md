@@ -63,7 +63,7 @@ the services we all know you want want to do some orchestration you want to have
  
 
 > [!quote]
->  we have [[Azure kubernetes service]] where [[Kubernetes]] is your [[orchestrator]] 
+>  we have [[Azure kubernetes service]] where [[Kubernetes]] is your [[orchestration]] 
 
  
 it will orchestrate all of your containers they  will work together  and this is also availablein Azure and actually
@@ -121,9 +121,9 @@ Keda open- Source software tool that helps you with that
 distributed application runtime and I will talk about that  in the end of my presentation which   and then 
 
 > [!quote]
-> finally  using [[Envoy]]  for your [[service Discovery Ingress]]
+> finally  using [[Envoy]]  for your [[Service Discovery]]
 
- and stuff like that so these components in kubernetes you can basically choose them in kubernetes if you want to use something different you can 
+[[Ingress]] and stuff like that so these components in kubernetes you can basically choose them in kubernetes if you want to use something different you can 
 
 > [!quote]
 >  in  container apps you're basically stuck with these because they are used by the Microsoft teams to build our container app as that layer of abstraction 
@@ -140,7 +140,7 @@ container apps this is different which is coolso what can you build on
 azure container apps make sense you're distributed the microservices application as I told you you have multiple containers working together they can talk HTTP to each other but also just web applications because 
 
 > [!quote]
-> Azure container apps has [[Ingress]] availability by default
+> Azure container apps has [[Ingress filtering]] availability by default
 
 so you can just enable it and now you can reach your
 application from the outside world so you can create a web application for your users you can also do event driven

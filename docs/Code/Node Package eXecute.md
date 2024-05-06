@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - code/javascript
@@ -8,9 +8,9 @@ definition: It is simply an NPM package runner. It allows developers to execute 
 ms-learn-url: undefined
 url: https://docs.npmjs.com/cli/v8/commands/npx
 ---
-|   MetaData |                                       |
+| MetaData   |                                            |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`        |
 
 

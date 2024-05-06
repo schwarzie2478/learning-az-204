@@ -1,12 +1,12 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - concept/SRE/cloud
 creation_date: 2024-05-04 23:43
-definition: undefined
+definition: Dapr is a portable, event-driven runtime that makes it easy for any developer to build resilient, stateless, and stateful applications that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
 ms-learn-url: undefined
-url: undefined
+url: https://docs.dapr.io/concepts/overview/
 ---
 
 | MetaData   |                                              |
@@ -15,6 +15,3 @@ url: undefined
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-Dapr can basically help
-you to more easily make your applications talk to each other or your application components talk to each
-other

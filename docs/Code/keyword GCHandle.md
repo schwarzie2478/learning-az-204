@@ -1,12 +1,13 @@
 ---
-status: seedling
+status: stored
 dg-publish: true
 tags:
-  - concept/SRE/cloud
-creation_date: 2024-05-04 21:25
+  - code/dotNET
+creation_date: 2024-05-06 07:50
 definition: undefined
 ms-learn-url: undefined
 url: undefined
+aliases:
 ---
 
 | MetaData   |                                              |

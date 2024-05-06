@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf05bc8411fc14f",
+        "id": "658235a6efeb622e",
         "type": "tabs",
         "children": [
           {
-            "id": "024998fccc70c031",
+            "id": "1f7d4779420322bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-05.md",
+                "file": "MOCs/Daily Gardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-05.md",
+                "file": "MOCs/Daily Gardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-05.md"
+                "file": "MOCs/Daily Gardening.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-05.md",
+                "file": "MOCs/Daily Gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +154,37 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "6773748daa551b41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "9468c2c6cc223285",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8b808c3959ab09e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       },
       {
         "id": "6047531e9f38915b",
@@ -169,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2024-05-05.md",
+                "file": "MOCs/Daily Gardening.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "daily/2024-05-05.md"
+                "file": "MOCs/Daily Gardening.md"
               }
             }
           }
@@ -219,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 572.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,34 +272,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "024998fccc70c031",
+  "active": "1f7d4779420322bc",
   "lastOpenFiles": [
+    "Concepts/Open Systems Interconnection Model.md",
     "MOCs/Daily Gardening.md",
-    "Concepts/Transport Layer Security.md",
-    "Code/NunJucks.md",
-    "Code/Jinja.md",
-    "Study/Application Request Routing.md",
-    "Concepts/Internet Information Service.md",
-    "Concepts/URL Rewrite.md",
-    "Concepts/ARR Affinity Cookie.md",
-    "tools/Remove files from git repo entirely.md",
-    "Code/Microsoft Semantic Kernel.md",
-    "Concepts/Azure Relay.md",
-    "Concepts/Sidecar Container.md",
-    "Start.md",
-    "MOCs/Acronyms Aliases.md",
-    "Concepts/Probabilistically Bounded Staleness.md",
-    "Concepts/Azure kubernetes service.md",
-    "Concepts/Azure Container Instance.md",
-    "Study/KSS Open-Telemetry.md",
-    "MOCs/Task Management.md",
-    "Concepts/App Service Route traffic.md",
-    "Study/Azure APIs.md",
+    "Concepts/Hypertext Transfer Protocol.md",
+    "Concepts/Layer 7.md",
+    "Concepts/service Discovery Ingress.md",
+    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md",
+    "Concepts/Service Discovery.md",
+    "Concepts/Envoy.md",
+    "Concepts/Azure Web App for Containers.md",
+    "Concepts/Azure App Service Auto swap.md",
+    "Concepts/log stream.md",
+    "Concepts/Azure Service Bus.md",
     "Concepts/Azure App Service Application Settings.md",
-    "Concepts/Azure App Service Certificates.md",
-    "Concepts/Azure App Service Hybrid Connections.md",
-    "Concepts/Azure App Service Swap with preview.md",
-    "Study/Azure Compute and container deployment.md",
+    "Concepts/App Service Route traffic.md",
+    "Code/Azure Webjob SDK.md",
+    "unsorted/gitattributes.md",
+    "Concepts/Secure Socket Layer.md",
+    "Concepts/Duende.md",
+    "Concepts/orchestration.md",
+    "tools/BRAT.md",
+    "Concepts/Audio Stream Input Output.md",
+    "Concepts/Ingress filtering.md",
+    "Concepts/public certificate.md",
+    "tools/LF will be replaced by CRLF.md",
+    "unsorted/man page.md",
+    "Concepts/Carriage Return Line Feed.md",
+    "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
+    "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif.crdownload",
     "pdfs/original.pdf",
     "Content",
     "Kanban",
@@ -282,7 +312,6 @@
     "Code",
     "Social",
     "images/cbtw-banneremployee-7.png",
-    "images/cbtw-banneremployee-7.png.crdownload",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",
     "images/what-is-devops_lifecycle.avif",
@@ -291,7 +320,6 @@
     "images/ADKAR-with-Image_web.webp",
     "Pasted Image 20240502112842_426.png",
     "images/manamentgroup-organisation.png",
-    "images/scope-levels (1).png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⏯",
       "CoCalendarDays",
       "🗂",
       "📃",
-      "🛠",
-      "🖥"
+      "🛠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Code": "🖥",
   "tools": "🛠",
   "templates": "📃",
-  "Kanban": "🗂"
+  "Kanban": "🗂",
+  "Content": "⏯"
 }

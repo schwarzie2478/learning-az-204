@@ -1,12 +1,12 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - tool/openssl
 creation_date: 2024-05-05 23:10
-definition: undefined
+definition: a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication.
 ms-learn-url: undefined
-url: undefined
+url: https://www.openssl.org/
 aliases:
 ---
 
