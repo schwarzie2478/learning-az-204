@@ -4,7 +4,7 @@ dg-publish: true
 tags:
   - concept/SRE/cloud/azure
 creation_date: 2024-05-05 07:13
-definition: In terms of the actor model, a grain is a [[virtual actor]].
+definition: In terms of the actor model, a grain is a virtual actor.
 ms-learn-url: https://learn.microsoft.com/en-us/dotnet/orleans/overview#what-are-grains
 url: undefined
 ---

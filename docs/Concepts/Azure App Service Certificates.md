@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - concept/SRE/cloud/azure
@@ -18,13 +18,13 @@ Uses [[certificates]]
 
 ## Adding Certificates to App:
 
-| Option                                        | Description                                                                                                                                                      |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Create a free App Service managed certificate | A private certificate that's free of charge and easy to use if you just need to secure your custom domain in App Service.                                        |
-| Purchase an App Service certificate           | A private certificate that's managed by Azure. It combines the simplicity of automated certificate management and the flexibility of renewal and export options. |
-| Import a certificate from [[Azure Key Vault]] | Useful if you use Azure Key Vault to manage your certificates.                                                                                                   |
-| Upload a [[private certificate]]              | If you already have a private certificate from a third-party provider, you can upload it.                                                                        |
-| Upload a [[public certificate]]               | Public certificates aren't used to secure custom domains, but you can load them into your code if you need them to access remote resources.                      |
+| Option                                            | Description                                                                                                                                                      |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Create a free [[App Service managed certificate]] | A private certificate that's free of charge and easy to use if you just need to secure your custom domain in App Service.                                        |
+| Purchase an [[App Service certificate]]           | A private certificate that's managed by Azure. It combines the simplicity of automated certificate management and the flexibility of renewal and export options. |
+| Import a certificate from [[Azure Key Vault]]     | Useful if you use Azure Key Vault to manage your certificates.                                                                                                   |
+| Upload a [[private certificate]]                  | If you already have a private certificate from a third-party provider, you can upload it.                                                                        |
+| Upload a [[public certificate]]                   | Public certificates aren't used to secure custom domains, but you can load them into your code if you need them to access remote resources.                      |
 
 ## Private certificate requirements
 

@@ -7,7 +7,7 @@ creation_date: 2024-05-02 14:33
 
 ---
 My work inside [[Obsidian]].
-- [ ] use Templater for different new files 🔽
+- [x] use Templater for different new files 🔽
 - [x] self publish 🔽 ✅ 2024-05-04
 	https://github.com/oleeskild/Obsidian-digital-garden
 ### Examples in the wild

@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 definition: KSS about how to use open-telemetry
 tags:

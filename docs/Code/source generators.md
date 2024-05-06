@@ -2,12 +2,11 @@
 status: planted
 dg-publish: true
 tags:
-  - unsorted
-  - tool/git
-creation_date: 2024-05-06 09:51
+  - code/dotNET
+creation_date: 2024-05-06 13:17
 definition: undefined
 ms-learn-url: undefined
-url: http://schacon.github.com/git/gitattributes.html
+url: undefined
 aliases:
 ---
 
@@ -16,4 +15,4 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-See [[man page]] : [man page](http://schacon.github.com/git/gitattributes.html)
+- [ ] Do something with code generators

@@ -1,11 +1,11 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - tool/flux
 creation_date: 2024-05-03 23:49
 definition: Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.
-ms-learn-url: undefined
+ms-learn-url: https://fluxcd.io/flux/get-started/
 url: https://fluxcd.io/
 ---
 | MetaData   |                                              |

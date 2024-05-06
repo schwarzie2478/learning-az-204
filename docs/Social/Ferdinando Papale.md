@@ -1,10 +1,10 @@
 ---
-status: planted
+status: stone
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-06 08:56
-definition: Azure Developer Aspirant Certification
+  - entity/person/programmer
+creation_date: 2024-05-06 14:02
+definition: Developer of Realm
 ms-learn-url: undefined
 url: undefined
 aliases:
@@ -15,4 +15,3 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-See [[Study guide AZ-204]]

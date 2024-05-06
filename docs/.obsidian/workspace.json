@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "658235a6efeb622e",
+        "id": "5883bbb0cecf41f9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7d4779420322bc",
+            "id": "86cf8cb214aa8910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "daily/2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:content/video/youtube",
+                "query": "tag:#review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,23 +79,15 @@
       {
         "id": "71e96e97dfd03efa",
         "type": "tabs",
-        "dimension": 24.761904761904763,
+        "dimension": 28.142857142857142,
         "children": [
-          {
-            "id": "9ad01dc032fa9710",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "189692de4a508a44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "daily/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,41 +110,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Daily Gardening.md"
+                "file": "daily/2024-05-06.md"
               }
-            }
-          },
-          {
-            "id": "ae868d2f01a2e5bd",
-            "type": "leaf",
-            "state": {
-              "type": "broken-links-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "377d4ec719e625fb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MOCs/Daily Gardening.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4f9941a84d7c9151",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {}
             }
           },
           {
@@ -168,38 +127,30 @@
             }
           },
           {
-            "id": "9468c2c6cc223285",
+            "id": "ca27f04d6bc375fa",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8b808c3959ab09e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "broken-links-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       },
       {
-        "id": "6047531e9f38915b",
+        "id": "7b8d58614f9fd9ff",
         "type": "tabs",
-        "dimension": 33.42857142857143,
+        "dimension": 28.142857142857142,
         "children": [
           {
-            "id": "82858cafe1b4ea9f",
+            "id": "8fa7fb90ced28ed4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Daily Gardening.md",
+                "file": "daily/2024-05-06.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -220,7 +171,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224427,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -231,7 +182,7 @@
       {
         "id": "7323bbbd2111e9b0",
         "type": "tabs",
-        "dimension": 41.80952380952381,
+        "dimension": 43.714285714285715,
         "children": [
           {
             "id": "cfd7f45ba55aa2fa",
@@ -239,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MOCs/Daily Gardening.md"
+                "file": "daily/2024-05-06.md"
               }
             }
           }
@@ -247,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,34 +223,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1f7d4779420322bc",
+  "active": "86cf8cb214aa8910",
   "lastOpenFiles": [
-    "Concepts/Open Systems Interconnection Model.md",
-    "MOCs/Daily Gardening.md",
-    "Concepts/Hypertext Transfer Protocol.md",
-    "Concepts/Layer 7.md",
-    "Concepts/service Discovery Ingress.md",
-    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md",
-    "Concepts/Service Discovery.md",
-    "Concepts/Envoy.md",
-    "Concepts/Azure Web App for Containers.md",
-    "Concepts/Azure App Service Auto swap.md",
-    "Concepts/log stream.md",
-    "Concepts/Azure Service Bus.md",
-    "Concepts/Azure App Service Application Settings.md",
-    "Concepts/App Service Route traffic.md",
-    "Code/Azure Webjob SDK.md",
-    "unsorted/gitattributes.md",
-    "Concepts/Secure Socket Layer.md",
-    "Concepts/Duende.md",
-    "Concepts/orchestration.md",
-    "tools/BRAT.md",
-    "Concepts/Audio Stream Input Output.md",
-    "Concepts/Ingress filtering.md",
-    "Concepts/public certificate.md",
-    "tools/LF will be replaced by CRLF.md",
-    "unsorted/man page.md",
-    "Concepts/Carriage Return Line Feed.md",
+    "MOCs/Task Management.md",
+    "templates/Youtube Summary.md",
+    "Start.md",
+    "Content/Untitled.md",
+    "Content/AI Code Review Action.md",
+    "Code/avalonia.md",
+    "Concepts/code generation.md",
+    "Content/dotNET 8 Migration From the trenches.md",
+    "Code/dotNET benchmark.md",
+    "Code/Entity framework.md",
+    "Code/fody.md",
+    "Content/Generating Fullstack Project Ideas with FSharp.md",
+    "Code/ILSpy.md",
+    "Code/IL weaving.md",
+    "Code/incremental generator.md",
+    "Code/interceptors.md",
+    "Concepts/Just In Time.md",
+    "Code/keyword partial.md",
+    "Code/Maui.md",
+    "Code/MongoDB.md",
+    "Concepts/Model View Viewmodel.md",
+    "Concepts/object-oriented database.md",
+    "Concepts/OpenAPI Descriptions.md",
+    "Code/Realm.md",
+    "Code/SharpLab.md",
+    "Code/source generators.md",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif.crdownload",
     "pdfs/original.pdf",

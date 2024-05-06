@@ -11,3 +11,6 @@ creation_date: 2024-05-02 17:27
 Formerly known as [[Swagger]]
 
 Generator https://openapi-generator.tech/
+
+[[OpenAPI specifics]]
+[[OpenAPI Best Practices]]

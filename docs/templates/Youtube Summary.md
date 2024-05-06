@@ -2,21 +2,21 @@
 status: seedling
 dg-publish: true
 tags:
-  - unsorted
   - content/video/youtube
 creation_date: <% tp.file.creation_date() %>
-definition: undefined
+definition: <% title = tp.system.prompt("Paste the youtube title here") %>
 ms-learn-url: undefined
-url: https://www.youtube.com/watch?v=SkMQStnqCZ0
-author: unspecified
+url: <% tp.system.prompt("Paste the youtube url here") %>
+author: <% tp.system.prompt("Paste the youtube creator here") %>
 ---
+
 
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
-
+- [ ] Review <% title %>
 
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`

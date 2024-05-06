@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "study",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 14.7395833333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224422,
+  "scale": 0.18462326225858183,
   "close": false
 }

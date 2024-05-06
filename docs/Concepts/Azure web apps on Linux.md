@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - concept/SRE/cloud/azure
@@ -14,3 +14,6 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+You can deploy to [[Azure Web App]]
+But take note of this:
+![[Azure App Service on Linux]]

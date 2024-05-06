@@ -1,10 +1,10 @@
 ---
-status: stored
+status: seedling
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-06 09:51
-definition: Manual page (often referred to on UNIX based systems)
+  - code/dotNET
+creation_date: 2024-05-06 13:26
+definition: undefined
 ms-learn-url: undefined
 url: undefined
 aliases:

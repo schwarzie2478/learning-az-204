@@ -15,5 +15,6 @@ url: undefined
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 ```dataview
 task
+from -"templates"
 WHERE !completed
 ```

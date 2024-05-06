@@ -19,7 +19,7 @@ url: undefined
 
 ```dataviewjs
 const tableHeadings = ["Name", "status"];
-const fileQuery = '';
+const fileQuery = '-"templates"';
 const limit = 150;
 const sortBy = 'status';
 
