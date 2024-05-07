@@ -2,18 +2,19 @@
 status: seedling
 dg-publish: true
 tags:
-  - tool/func
-creation_date: 2024-05-04 00:12
-definition: Azure Functions Core Tools lets you develop, manage, and deploy Azure Functions projects from your local computer.
-ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-core-tools-reference?tabs=v2
+  - code/dotNet/azure
+creation_date: 2024-05-07 21:37
+definition: This article creates an HTTP triggered function that runs on .NET 8 in an isolated worker process.
+ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp
 url: undefined
 aliases:
-  - func
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-Used to deploy [[Azure Functions]]
+CLI Version: https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp
+

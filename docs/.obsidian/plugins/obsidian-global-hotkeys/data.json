@@ -1,5 +1,5 @@
 {
   "accelerators": {
-    "file-explorer:new-file": "Control+Shift+X"
+    "templater-obsidian:create-new-note-from-template": "Control+Shift+X"
   }
 }

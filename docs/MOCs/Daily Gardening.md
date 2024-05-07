@@ -11,7 +11,8 @@ url: undefined
 | MetaData   |                                            |
 | ---------- | ------------------------------------------ |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]` |
-- [ ] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-07
+- [ ] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-08
+- [x] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-07 ✅ 2024-05-07
 - [x] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-06 ✅ 2024-05-06
 - [x] Do some [[Daily Gardening|gardening]] 🔽 🔁 every day when done 🛫 2024-05-05 ✅ 2024-05-05
 - [x] Do some gardening 🔽 🔁 every day when done 🛫 2024-05-04 ✅ 2024-05-04

@@ -24,6 +24,10 @@ Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
 [[Microsoft Course for AZ-204]]
 
+QuickStarts:
+
+[[Create a Csharp function in Azure using Visual Studio Code# function in Azure using Visual Studio Code]]
+
 
 Microsoft Labs:
 [[AZ-204 Lab 01 Notes]]

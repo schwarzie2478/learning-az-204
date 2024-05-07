@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7e666dd50f3d86",
+        "id": "f3e384190460581d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d9aaf2633fdc79",
+            "id": "a199aaa73923724d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "unsorted/Azure Functions runtime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa46b505dab5046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zero",
+                "query": "tag:#tool/vscode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Azure Functions.md"
+                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md"
               }
             }
           },
@@ -149,15 +160,15 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -172,7 +183,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012121,
+                  "scale": 0.7132754626224435,
                   "close": true
                 }
               }
@@ -191,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/Azure Functions.md"
+                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md"
               }
             }
           }
@@ -199,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,34 +235,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e5d9aaf2633fdc79",
+  "active": "5aa46b505dab5046",
   "lastOpenFiles": [
-    "Concepts/Azure Storage Account.md",
-    "unsorted/Azure Storage.md",
-    "Concepts/Azure Functions.md",
-    "Concepts/Application Service Environment.md",
-    "Concepts/Azure App Service.md",
-    "Concepts/Azure App Service Plan.md",
-    "unsorted/Microsoft Artifact Registry.md",
-    "Concepts/Azure Durable Functions.md",
-    "Concepts/Azure Functions Durable orchestrations.md",
-    "unsorted/entity functions.md",
-    "Concepts/Durable enitties.md",
-    "Concepts/Azure Functions on Kubernetes.md",
-    "Concepts/Azure Container Apps hosting of Azure Functions.md",
-    "Concepts/Mutual TLS.md",
-    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md",
-    "Concepts/Zero Trust.md",
-    "Concepts/Azure Arc.md",
-    "Concepts/App Service, Functions, and Logic Apps on Azure Arc.md",
-    "Concepts/Azure Logic Apps.md",
-    "Study/AZ-204 Explore Azure Functions.md",
-    "Concepts/Data Loss Prevention.md",
-    "Concepts/Power Apps.md",
-    "Concepts/Working with excel dates in Logic Apps.md",
-    "unsorted/Office 365.md",
-    "Concepts/Azure App Service WebJobs.md",
+    "MOCs/Study guide AZ-204.md",
+    "Code/Create a Csharp function in Azure using Visual Studio Code.md",
+    "unsorted/Azure Functions runtime.md",
+    "Concepts/Generally available.md",
+    "unsorted/Azure Function App.md",
+    "unsorted/host.json.md",
+    "Study/Explore Azure Functions development.md",
+    "Concepts/execution context.md",
+    "unsorted/function.json.md",
+    "Concepts/Azure Function Bindings.md",
+    "unsorted/queueTrigger.md",
+    "Study/Develop Azure Functions.md",
+    "Concepts/Azure.md",
+    "tools/Visual Studio Code.md",
     "Study/Microsoft Course for AZ-204.md",
+    "Study/AZ-204 Explore Azure Functions.md",
+    "Concepts/Azure Functions.md",
+    "unsorted/cold start.md",
+    "images/central-listener.png",
+    "images/central-listener.png.crdownload",
+    "unsorted/Azure Queue storage.md",
+    "unsorted/scale controller.md",
+    "Concepts/System Initiative.md",
+    "Study/AZ-204 Configure web app settings.md",
+    "templates/Add Creation Time and Modification time to file.md",
+    "tools/Azure Functions Core Tools.md",
+    "excalibrain.md",
+    "Concepts/App Service certificate.md",
     "MOCs/Study guide AZ-204.md=bat",
     "MOCs/Test",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
@@ -262,7 +275,6 @@
     "tools",
     "images/davechild_regular-expressions.pdf",
     "images/davechild_regular-expressions.pdf.crdownload",
-    "unsorted",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",
@@ -271,7 +283,6 @@
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
     "Pasted Image 20240502112842_426.png",
-    "images/manamentgroup-organisation.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

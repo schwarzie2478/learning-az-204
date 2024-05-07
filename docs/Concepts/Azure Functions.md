@@ -80,17 +80,64 @@ Reference: [MS Learn](https://learn.microsoft.com/en-us/azure/azure-functions/de
 
 On any plan, a function app requires a general [[Azure Storage Account]] , which supports Azure Blob, Queue, Files, and Table storage. This is because Functions rely on Azure Storage for operations such as managing triggers and logging function executions, but some storage accounts don't support queues and tables.
 
-#### Always On
+Function code files are stored on Azure Files shares on the function's main storage account.
+
+## Scale Azure Functions 
+
+> [!info]
+> Each instance of the Functions host in the Consumption plan is limited to 1.5 GB of memory and one CPU.
+
+### Runtime scaling
+
+Azure Functions uses a component called the _[[scale controller]]_ to monitor the rate of events and determine whether to scale out or scale in. The scale controller uses heuristics for each trigger type. For example, when you're using an [[Azure Queue storage]] trigger, it scales based on the queue length and the age of the oldest queue message.
+
+> [!NOTE]
+> The unit of scale for Azure Functions is the function app. 
+
+When the function app is scaled out, more resources are allocated to run multiple instances of the Azure Functions host. Conversely, as compute demand is reduced, the scale controller removes function host instances. The number of instances is eventually "scaled in" to zero when no functions are running within a function app.
+![[central-listener.png]]
+
+> [!attention]
+> After your function app has been idle for a number of minutes, the platform may scale the number of instances on which your app runs in to zero. The next request has the added latency of scaling from zero to one. This latency is referred to as a _[[cold start]]_.
+
+### Scaling behaviors
+
+Scaling can vary on many factors, and scale differently based on the trigger and language selected. There are a few intricacies of scaling behaviors to be aware of:
+
+#### **Maximum instances:** 
+
+> [!NOTE]
+> A single function app only scales out to a maximum of 200 instances.
+ 
+ A single instance may process more than one message or request at a time though, so there isn't a set limit on number of concurrent executions.
+    
+#### **New instance rate:** 
+
+> [!NOTE] Title
+> Contents
+For HTTP triggers, new instances are allocated, at most, ==once per second==. 
+
+> [!NOTE]
+> For non-HTTP triggers, new instances are allocated, at most, ==once every 30 seconds==.
+>     
+
+### Limit scale-out
+
+You may wish to restrict the maximum number of instances an app used to scale out. This is most common for cases where a downstream component like a database has limited throughput. By default 
+- Consumption plan functions scale out to as many as 200 instances
+- Premium plan functions scales out to as many as 100 instances. 
+
+> [!NOTE]
+> You can specify a lower maximum for a specific app by modifying the `functionAppScaleLimit` value. 
+
+The `functionAppScaleLimit` can be set to `0` or `null` for unrestricted, or a valid value between `1` and the app maximum.
+## Always On
 
 Must be enabled in the App Service Plan.
 Otherwise the functions could go idle and stop, only a HttpTrigger can restart it again then.
 
 
-
 > [!info] 
 >  The Consumption plan is the fully _serverless_ hosting option for Azure Functions.
-
-#### Always On
-
-> [!Info]
 > In Consumption Plan always on is always enabled!
+

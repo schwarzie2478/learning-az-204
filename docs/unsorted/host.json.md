@@ -3,9 +3,9 @@ status: seedling
 dg-publish: true
 tags:
   - unsorted
-creation_date: 2024-05-07 11:56
+creation_date: 2024-05-07 21:18
 definition: undefined
-ms-learn-url: undefined
+ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json
 url: undefined
 aliases:
 ---

@@ -2,8 +2,8 @@
 status: seedling
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-07 15:23
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-07 18:05
 definition: undefined
 ms-learn-url: undefined
 url: undefined

@@ -1,19 +1,18 @@
 ---
-status: planted
+status: stone
 dg-publish: true
 tags:
-  - content/video/youtube
-creation_date: 2024-05-06 18:28
-definition: dotNET 8 Migration From the trenches
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-07 21:30
+definition: undefined
 ms-learn-url: undefined
-url: https://www.youtube.com/watch?v=c1HXFEXGdG0
+url: undefined
 aliases:
+  - GA
 ---
 
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
-- [ ] Review dotNET 8 Migration From the trenches
-
-[[SystemWebAdapters]]
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |

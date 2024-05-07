@@ -1,12 +1,12 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-07 17:40
-definition: Discover official Microsoft artifacts such as container images
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-07 20:58
+definition: undefined
 ms-learn-url: undefined
-url: https://mcr.microsoft.com/catalog?search=functions
+url: undefined
 aliases:
 ---
 

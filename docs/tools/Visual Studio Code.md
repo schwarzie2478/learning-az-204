@@ -1,9 +1,9 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-07 16:14
+  - tool/vscode
+creation_date: 2024-05-07 20:55
 definition: undefined
 ms-learn-url: undefined
 url: undefined

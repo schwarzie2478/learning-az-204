@@ -1,9 +1,9 @@
 ---
-status: tree
+status: seedling
 dg-publish: true
 tags:
   - study/AZ-204
-creation_date: 2024-05-07 12:18
+creation_date: 2024-05-07 20:59
 definition: undefined
 ms-learn-url: undefined
 url: undefined
@@ -16,11 +16,10 @@ aliases:
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-## Learning objectives
+A **function** contains two important pieces 
+- your code, which can be written in various languages
+- some config, the _[[function.json]]_ file.
 
-After completing this module, you will be able to:
+## Function app
 
-- [x] Explain functional differences between [[Azure Functions]], [[Azure Logic Apps]], and [[Azure App Service WebJobs]] ✅ 2024-05-07
-- [x] Describe [[Azure Functions#Hosting Plans]] ✅ 2024-05-07
-- [x] Describe how Azure Functions scale to meet business needs ✅ 2024-05-07
-
+A [[Azure Function App]] provides an [[execution context]] in Azure in which your functions run.
