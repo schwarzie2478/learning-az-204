@@ -1,10 +1,10 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-07 12:20
-definition: undefined
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-07 17:36
+definition: small pieces of state
 ms-learn-url: undefined
 url: undefined
 aliases:

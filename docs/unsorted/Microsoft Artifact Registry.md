@@ -1,18 +1,17 @@
 ---
-status: planted
+status: seedling
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure
-definition: Connects On-Premise Service to Azure
-creation_date: 2024-05-02 22:00
-url: undefined
-ms-learn-url:
+  - unsorted
+creation_date: 2024-05-07 17:40
+definition: Discover official Microsoft artifacts such as container images
+ms-learn-url: undefined
+url: https://mcr.microsoft.com/catalog?search=functions
+aliases:
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-Reverse of [[Azure Stack]]: Connect Azure Services to On-Premise network
-
-See [[App Service, Functions, and Logic Apps on Azure Arc]]

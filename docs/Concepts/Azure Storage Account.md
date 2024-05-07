@@ -10,6 +10,7 @@ creation_date: 2024-05-02 22:00
 
 ---
 
+An account for [[Azure Storage]]
 Move data between storage accounts
 
 [[AzCopy]]
