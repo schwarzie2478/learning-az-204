@@ -1,5 +1,5 @@
 ---
-status: planted
+status: tree
 dg-publish: true
 tags:
   - study/AZ-204

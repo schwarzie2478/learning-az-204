@@ -11,3 +11,7 @@ creation_date: 2024-05-02 22:00
 Deployed in a  [[Concepts/Azure App Service]]
 
 Reference Implementation: [[Code sample Reliable WebApp]]
+
+[[Azure web apps on Linux]]
+[[Azure Web App for Containers]]
+[[Azure Web App Diagnostic Logging]]

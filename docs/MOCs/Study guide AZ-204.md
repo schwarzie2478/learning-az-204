@@ -13,16 +13,17 @@ creation_date: 2024-05-02 22:00
 
 ```dataview
 Task
-From "Study"
+From #study/AZ-204
 where !completed
 ```
 
-Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
+Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) [[AZ-204]]
 Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]
 
 
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
-[[AZ-204 introduction-to-azure-app-service]]
+[[Microsoft Course for AZ-204]]
+
 
 Microsoft Labs:
 [[AZ-204 Lab 01 Notes]]

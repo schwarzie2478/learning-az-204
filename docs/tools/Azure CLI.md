@@ -36,6 +36,13 @@ Account info
 
 `az group create -name examplevmgroup -location eastus`
 
+## Example Update Plan for Max Burst
+
+![[App Service Auto Scaling#Setting Max Burst with Azure CLI az]]
+
+## Example Update Plan for minimal instance
+![[App Service Auto Scaling#Setting minimal instances with Azure CLI az]]
+
 
 ## Extra notes
 
@@ -56,9 +63,9 @@ You can break this down into its tags:
 * none is the ABI tag, meaning the ABI isn’t a factor. ABI stands for application binary interface.
 * any is the platform. This wheel will work on virtually any platform.
 
-
-
 Usage:  
+```shell
 az version  
 az upgrade  
 az extension update --name azure-devops --verbose
+```

@@ -1,11 +1,13 @@
 ---
 status: planted
-tags:
-  - concept/SRE/cloud
-definition: Reliability is about minimising the likelihood of failure
-ms-learn-url: https://learn.microsoft.com/en-us/azure/reliability/overview
 dg-publish: true
-creation_date: 2024-05-02 23:11
+tags:
+  - study/AZ-204
+creation_date: 2024-05-07 09:32
+definition: undefined
+ms-learn-url: undefined
+url: undefined
+aliases:
 ---
 
 | MetaData   |                                              |
@@ -14,6 +16,5 @@ creation_date: 2024-05-02 23:11
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-Reliability consists of two principles: 
-- [[Resiliency]]
-- [[Availability]].
+See [[App Service Auto Scaling]]
+

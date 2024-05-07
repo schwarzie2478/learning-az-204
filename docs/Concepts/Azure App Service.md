@@ -21,7 +21,7 @@ creation_date: 2024-05-02 22:00
 
 
 Used to deploy  a [[Azure Web App]] and/or [[Azure Functions]]. ( not always possible together!)
-You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[App Service Plan|plan]].
+You need a  [[Azure Subscription|subscription]], [[Azure Resource Group|resource group]] and an [[Azure App Service Plan|plan]].
 ### Fast Creation Option
 
 Instead of going through the wizard to create all the difference things
@@ -80,7 +80,7 @@ Built-in auto scale support
 Scale Up:  Go to bigger tier -> no downtime ( different from VM)
 Scale Out: how many instances ( in Basic Tier only manual scaling)
 
-Overview: [[App Service Plan#App Service Plan SKU| SKU]]
+Overview: [[Azure App Service Plan#App Service Plan SKU| SKU]]
 
 ### Publishing from Visual Studio
 

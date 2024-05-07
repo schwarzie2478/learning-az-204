@@ -23,7 +23,7 @@ Deploying your application to a non-production slot has the following benefits:
 
 ## Tiers
 
-Each [[App Service Plan]] tier supports a different number of deployment slots.
+Each [[Azure App Service Plan]] tier supports a different number of deployment slots.
 
 | Standard | Premium (v1-v3) | Isolated |
 | -------- | --------------- | -------- |

@@ -40,5 +40,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editing-toolbar:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

@@ -1,10 +1,10 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure
-creation_date: 2024-05-05 10:21
-definition: undefined
+  - concept/SRE
+creation_date: 2024-05-07 11:58
+definition: The phenomenon of some variable or resource oscillating or alternating rapidly between two states
 ms-learn-url: undefined
 url: undefined
 aliases:

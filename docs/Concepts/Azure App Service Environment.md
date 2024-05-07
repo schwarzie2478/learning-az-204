@@ -8,7 +8,7 @@ ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/environment/ov
 creation_date: 2024-05-02 22:00
 ---
 
-Related to the Isolated Tiers of the [[App Service Plan]]
+Related to the Isolated Tiers of the [[Azure App Service Plan]]
 App Service Environment v3 is the latest generation offering used with Isolated v2 plans.
 
 > [!warning] 
