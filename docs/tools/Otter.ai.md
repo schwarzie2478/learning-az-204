@@ -1,6 +1,6 @@
 ---
 tags:
   - tool/obsidian
-status: planted
+status: stored
+url: https://otter.ai/
 ---
-- [ ] Learn how to use Otter.AI to transcribe notes ⏬ 🛫 2024-05-04 

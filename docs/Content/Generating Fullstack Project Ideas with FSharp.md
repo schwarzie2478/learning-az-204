@@ -16,7 +16,7 @@ author: HAMY LABS
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
 [site](https://hamy.xyz/labs/fullstack-projects)
-- [ ] Review video
+- [ ] Review Generating Fullstack Project Ideas with FSharp
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`
 `$= "![video](" + dv.current().url + ")"`

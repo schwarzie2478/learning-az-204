@@ -1,12 +1,13 @@
 ---
-status: stone
+status: stored
 dg-publish: true
 tags:
-  - tool/obsidian
-creation_date: 2024-05-04 23:20
+  - entity/person/programmer
+creation_date: 2024-05-06 22:41
 definition: undefined
 ms-learn-url: undefined
 url: undefined
+aliases:
 ---
 
 | MetaData   |                                              |

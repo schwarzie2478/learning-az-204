@@ -13,4 +13,4 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-- [ ] Learn how to use Quick Add Plugin to correctly add  new notes ⏬ 🛫 2024-05-04 
+- [x] Learn how to use Quick Add Plugin to correctly add  new notes ⏬ 🛫 2024-05-04

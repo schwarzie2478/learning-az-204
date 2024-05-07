@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5883bbb0cecf41f9",
+        "id": "8e7e666dd50f3d86",
         "type": "tabs",
         "children": [
           {
-            "id": "86cf8cb214aa8910",
+            "id": "e5d9aaf2633fdc79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-06.md"
+                "file": "Start.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2024-05-06.md",
+                "file": "Start.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "daily/2024-05-06.md"
+                "file": "Start.md"
               }
             }
           }
@@ -223,20 +223,27 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "86cf8cb214aa8910",
+  "active": "e5d9aaf2633fdc79",
   "lastOpenFiles": [
     "MOCs/Task Management.md",
-    "templates/Youtube Summary.md",
+    "Content/dotNET 8 Migration From the trenches.md",
+    "Content/Generating Fullstack Project Ideas with FSharp.md",
     "Start.md",
+    "unsorted/dotNET 8 Migration From the trenches.md",
+    "Social/HAMY LABS.md",
     "Content/Untitled.md",
+    "unsorted/Generating Fullstack Project Ideas with FSharp.md",
+    "daily/2024-05-06.md",
+    "tools/Obsidian Commander Plugin.md",
+    "tools/Obsidian.md",
+    "tools/Otter.ai.md",
+    "templates/Youtube Summary.md",
     "Content/AI Code Review Action.md",
     "Code/avalonia.md",
     "Concepts/code generation.md",
-    "Content/dotNET 8 Migration From the trenches.md",
     "Code/dotNET benchmark.md",
     "Code/Entity framework.md",
     "Code/fody.md",
-    "Content/Generating Fullstack Project Ideas with FSharp.md",
     "Code/ILSpy.md",
     "Code/IL weaving.md",
     "Code/incremental generator.md",
@@ -244,13 +251,6 @@
     "Concepts/Just In Time.md",
     "Code/keyword partial.md",
     "Code/Maui.md",
-    "Code/MongoDB.md",
-    "Concepts/Model View Viewmodel.md",
-    "Concepts/object-oriented database.md",
-    "Concepts/OpenAPI Descriptions.md",
-    "Code/Realm.md",
-    "Code/SharpLab.md",
-    "Code/source generators.md",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif.crdownload",
     "pdfs/original.pdf",

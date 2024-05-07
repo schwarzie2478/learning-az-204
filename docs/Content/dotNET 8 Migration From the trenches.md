@@ -4,9 +4,9 @@ dg-publish: true
 tags:
   - content/video/youtube
 creation_date: 2024-05-06 18:28
-definition: undefined
+definition: dotNET 8 Migration From the trenches
 ms-learn-url: undefined
-url: undefined
+url: https://www.youtube.com/watch?v=c1HXFEXGdG0
 aliases:
 ---
 
@@ -14,7 +14,6 @@ aliases:
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
-| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-- [ ] Review https://www.youtube.com/watch?v=c1HXFEXGdG0
+- [ ] Review dotNET 8 Migration From the trenches
 
 [[SystemWebAdapters]]
