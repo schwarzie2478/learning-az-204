@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/Azure Functions runtime.md",
+                "file": "Concepts/Azure Function Bindings.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
+                "file": "daily/2024-05-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
+                "file": "Concepts/Azure Function Bindings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md"
+                "file": "Concepts/Azure Function Bindings.md"
               }
             }
           },
@@ -145,9 +144,42 @@
               "type": "broken-links-view",
               "state": {}
             }
+          },
+          {
+            "id": "2bdd296778cb9989",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c3760579d49d964",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Azure Function Bindings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37e061b9636d61c7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "7b8d58614f9fd9ff",
@@ -160,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md",
+                "file": "Concepts/Azure Function Bindings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +234,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/Create a Csharp function in Azure using Visual Studio Code.md"
+                "file": "Concepts/Azure Function Bindings.md"
               }
             }
           }
@@ -235,11 +267,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5aa46b505dab5046",
+  "active": "a199aaa73923724d",
   "lastOpenFiles": [
+    "tools/The term 'func' is not recognized as the name of a cmdlet.md",
+    "unsorted/Azure Functions runtime.md",
+    "daily/2024-05-07.md",
+    "tools/MODULE_NOT_FOUND for npm.md",
     "MOCs/Study guide AZ-204.md",
     "Code/Create a Csharp function in Azure using Visual Studio Code.md",
-    "unsorted/Azure Functions runtime.md",
     "Concepts/Generally available.md",
     "unsorted/Azure Function App.md",
     "unsorted/host.json.md",
@@ -262,9 +297,6 @@
     "Concepts/System Initiative.md",
     "Study/AZ-204 Configure web app settings.md",
     "templates/Add Creation Time and Modification time to file.md",
-    "tools/Azure Functions Core Tools.md",
-    "excalibrain.md",
-    "Concepts/App Service certificate.md",
     "MOCs/Study guide AZ-204.md=bat",
     "MOCs/Test",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
