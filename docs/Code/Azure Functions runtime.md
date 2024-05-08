@@ -1,8 +1,8 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
+  - code/dotNet/azure
 creation_date: 2024-05-07 21:14
 definition: undefined
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions?tabs=isolated-process%2Cv4&pivots=programming-language-csharp

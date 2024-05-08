@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e384190460581d",
+        "id": "648df3f7a6b4ca23",
         "type": "tabs",
         "children": [
           {
-            "id": "a199aaa73923724d",
+            "id": "c6986d5655b70ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Azure Function Bindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa46b505dab5046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-05-07.md",
+                "file": "Study/Develop Azure Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 270.5
   },
   "right": {
     "id": "42bac6edc8c1cc80",
@@ -90,7 +78,7 @@
       {
         "id": "71e96e97dfd03efa",
         "type": "tabs",
-        "dimension": 28.142857142857142,
+        "dimension": 64.38095238095238,
         "children": [
           {
             "id": "189692de4a508a44",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Azure Function Bindings.md",
+                "file": "Study/Develop Azure Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Azure Function Bindings.md"
+                "file": "Study/Develop Azure Functions.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Azure Function Bindings.md",
+                "file": "Study/Develop Azure Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,20 +167,30 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
-        "id": "7b8d58614f9fd9ff",
+        "id": "7323bbbd2111e9b0",
         "type": "tabs",
-        "dimension": 28.142857142857142,
+        "dimension": 35.61904761904762,
         "children": [
+          {
+            "id": "cfd7f45ba55aa2fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Study/Develop Azure Functions.md"
+              }
+            }
+          },
           {
             "id": "8fa7fb90ced28ed4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/Azure Function Bindings.md",
+                "file": "Study/Develop Azure Functions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,27 +220,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "7323bbbd2111e9b0",
-        "type": "tabs",
-        "dimension": 43.714285714285715,
-        "children": [
-          {
-            "id": "cfd7f45ba55aa2fa",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Concepts/Azure Function Bindings.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 506.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,36 +249,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a199aaa73923724d",
+  "active": "f6ecd0daf8e372e3",
   "lastOpenFiles": [
-    "tools/The term 'func' is not recognized as the name of a cmdlet.md",
-    "unsorted/Azure Functions runtime.md",
-    "daily/2024-05-07.md",
-    "tools/MODULE_NOT_FOUND for npm.md",
-    "MOCs/Study guide AZ-204.md",
-    "Code/Create a Csharp function in Azure using Visual Studio Code.md",
-    "Concepts/Generally available.md",
-    "unsorted/Azure Function App.md",
-    "unsorted/host.json.md",
-    "Study/Explore Azure Functions development.md",
-    "Concepts/execution context.md",
-    "unsorted/function.json.md",
-    "Concepts/Azure Function Bindings.md",
-    "unsorted/queueTrigger.md",
-    "Study/Develop Azure Functions.md",
-    "Concepts/Azure.md",
-    "tools/Visual Studio Code.md",
+    "Untitled",
     "Study/Microsoft Course for AZ-204.md",
-    "Study/AZ-204 Explore Azure Functions.md",
-    "Concepts/Azure Functions.md",
-    "unsorted/cold start.md",
+    "Start.md",
+    "MOCs/Task Management.md",
+    "Concepts/System Initiative.md",
+    "templates/Youtube Summary.md",
+    "templates/Book Summary.md",
+    "templates/Add Creation Time and Modification time to file.md",
+    "templates/New Note.md",
+    "Content/Books about high-performance software delivery.md",
+    "Concepts/Microservice Architecture patterns.md",
+    "Concepts/API Gateway.md",
+    "Social/Kong.md",
+    "excalibrain.md",
+    "Concepts/materialized view.md",
+    "Concepts/rematerializing.md",
+    "Code/Azure Functions runtime.md",
+    "Concepts/cqrs projections.md",
+    "Concepts/Azure Function App.md",
+    "Concepts/scale controller.md",
+    "Social/Microsoft Azure Collective.md",
+    "Concepts/data consistency over availability.md",
+    "Concepts/Azure Queue storage.md",
+    "Code/function.json.md",
+    "Concepts/database agnostic persistence.md",
+    "Concepts/extend only design.md",
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
-    "unsorted/Azure Queue storage.md",
-    "unsorted/scale controller.md",
-    "Concepts/System Initiative.md",
-    "Study/AZ-204 Configure web app settings.md",
-    "templates/Add Creation Time and Modification time to file.md",
     "MOCs/Study guide AZ-204.md=bat",
     "MOCs/Test",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",

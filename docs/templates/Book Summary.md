@@ -2,7 +2,7 @@
 status: planted
 dg-publish: true
 tags:
-  - content/video/youtube
+  - content/book
 creation_date: <% tp.file.creation_date() %>
 definition: <% title = tp.system.prompt("Paste the youtube title here") %>
 ms-learn-url: undefined
@@ -18,9 +18,8 @@ author: <% tp.system.prompt("Paste the youtube creator here") %>
 
 - [ ] Review <% title %>
 
-## Video
+
 `$= "Made by [[" + dv.current().author+"]]"`
-`$= "![video](" + dv.current().url + ")"`
 
 ## Callouts View
 

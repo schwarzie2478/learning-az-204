@@ -2,12 +2,12 @@
 status: planted
 dg-publish: true
 tags:
-  - content/video/youtube
-creation_date: <% tp.file.creation_date() %>
-definition: <% title = tp.system.prompt("Paste the youtube title here") %>
+  - content/book/programming
+creation_date: 2024-05-08 19:05
+definition: Books about high-performance software delivery DevOps Handbook + Team Topologies + Accelerate + Microservices Patterns
 ms-learn-url: undefined
-url: <% tp.system.prompt("Paste the youtube url here") %>
-author: <% tp.system.prompt("Paste the youtube creator here") %>
+url: https://microservices.io/post/microservices/2020/01/07/books-about-high-performance-software-delivery.html
+author: Kong
 ---
 
 
@@ -16,11 +16,10 @@ author: <% tp.system.prompt("Paste the youtube creator here") %>
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
-- [ ] Review <% title %>
+- [ ] Review Books about high-performance software delivery: DevOps Handbook + Team Topologies + Accelerate + Microservices Patterns
 
-## Video
+
 `$= "Made by [[" + dv.current().author+"]]"`
-`$= "![video](" + dv.current().url + ")"`
 
 ## Callouts View
 

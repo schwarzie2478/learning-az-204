@@ -1,20 +1,19 @@
 ---
-status: signpost
+status: stored
 dg-publish: true
 tags:
-  - landingpage
-creation_date: 2024-05-04 14:43
-definition: Simple view of all open tasks
+  - content/book
+creation_date: 2024-05-08 18:02
+definition: undefined
 ms-learn-url: undefined
 url: undefined
+aliases: 
+author: Gregory Young
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-```dataview
-task
-from "Study" and -"templates"
-WHERE !completed
-```
+Author: [[Gregory Young]]

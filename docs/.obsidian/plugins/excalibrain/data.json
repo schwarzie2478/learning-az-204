@@ -2,7 +2,7 @@
   "compactView": false,
   "compactingFactor": 1.5,
   "minLinkLength": 18,
-  "excalibrainFilepath": "excalibrain.md",
+  "excalibrainFilepath": "kanban/excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
     "exclusions": [
@@ -236,7 +236,8 @@
     "Concepts/Azure Key Vault.md",
     "Concepts/Azure App Service Certificates.md",
     "Study/AZ-204 Configure web app settings.md",
-    "Study/Microsoft Course for AZ-204.md"
+    "Study/Microsoft Course for AZ-204.md",
+    "Concepts/materialized view.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

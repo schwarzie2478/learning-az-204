@@ -1,13 +1,14 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-07 21:18
+  - concept/SRE
+creation_date: 2024-05-08 18:10
 definition: undefined
-ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json
-url: undefined
+ms-learn-url: undefined
+url: https://en.wikipedia.org/wiki/CAP_theorem#:~:text=In%20the%20presence%20of%20a,date%20due%20to%20network%20partitioning.
 aliases:
+  - Brewer's theorem
 ---
 
 | MetaData   |                                              |

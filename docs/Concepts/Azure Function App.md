@@ -1,8 +1,8 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
+  - concept/SRE/cloud/azure
 creation_date: 2024-05-07 21:08
 definition: A function app provides an execution context in Azure in which your functions run.
 ms-learn-url: undefined
