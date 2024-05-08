@@ -23,17 +23,11 @@ aliases:
 ```csharp
 using QRCoder;
 
-public static byte[] GenerateQRCode(string text)
-{
-    QRCodeGenerator qrGenerator = new QRCodeGenerator();
-    QRCodeData qrCodeData = qrGenerator.CreateQrCode(text, QRCodeGenerator.ECCLevel.Q);
-    QRCode qrCode = new QRCode(qrCodeData);
-    Bitmap qrCodeImage = qrCode.GetGraphic(20); // Adjust the size as needed
-
-    using (MemoryStream stream = new MemoryStream())
-    {
-        qrCodeImage.Save(stream, ImageFormat.Png);
-        return stream.ToArray();
-    }
-}
+        public static byte[] GenerateQRCode(string text)
+        {
+            QRCodeGenerator qrGenerator = new QRCodeGenerator();
+            QRCodeData qrCodeData = qrGenerator.CreateQrCode(text, QRCodeGenerator.ECCLevel.Q);
+            var qrCode = new QRCoder.PngByteQRCode(qrCodeData);
+            return qrCode.GetGraphic(20);// Adjust the size as needed
+        }  
 ```
