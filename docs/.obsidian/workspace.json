@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Develop Azure Functions.md",
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Develop Azure Functions.md",
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Develop Azure Functions.md"
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Develop Azure Functions.md",
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Study/Develop Azure Functions.md"
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Develop Azure Functions.md",
+                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +248,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f6ecd0daf8e372e3",
+  "active": "cfd7f45ba55aa2fa",
   "lastOpenFiles": [
+    "Study/AZ204.Samples.Functions.md",
+    "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+    "Study/Develop Azure Functions.md",
     "Untitled",
     "Study/Microsoft Course for AZ-204.md",
     "Start.md",
@@ -275,8 +277,6 @@
     "Concepts/data consistency over availability.md",
     "Concepts/Azure Queue storage.md",
     "Code/function.json.md",
-    "Concepts/database agnostic persistence.md",
-    "Concepts/extend only design.md",
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
     "MOCs/Study guide AZ-204.md=bat",
@@ -288,7 +288,6 @@
     "Kanban",
     "tools",
     "images/davechild_regular-expressions.pdf",
-    "images/davechild_regular-expressions.pdf.crdownload",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",

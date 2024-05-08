@@ -8893,6 +8893,42 @@
       "createdDate": 1715188135171,
       "modifiedDate": 1715188229856,
       "sizeInBytes": 982
+    },
+    "Study/AZ204.Samples.Functions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 385,
+      "nonWhitespaceCharacterCount": 292,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715200254209,
+      "modifiedDate": 1715200443916,
+      "sizeInBytes": 550
+    },
+    "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 342,
+      "nonWhitespaceCharacterCount": 247,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715200445864,
+      "modifiedDate": 1715200473196,
+      "sizeInBytes": 512
     }
   }
 }
