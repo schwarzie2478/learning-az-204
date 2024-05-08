@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+                "file": "unsorted/dotnet workload.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+                "file": "unsorted/dotnet workload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md"
+                "file": "unsorted/dotnet workload.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+                "file": "unsorted/dotnet workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md"
+                "file": "unsorted/dotnet workload.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+                "file": "unsorted/dotnet workload.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 506.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,10 +249,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cfd7f45ba55aa2fa",
+  "active": "c6986d5655b70ab3",
   "lastOpenFiles": [
-    "Study/AZ204.Samples.Functions.md",
+    "tools/dotnet cli.md",
+    "unsorted/dotnet workload.md",
+    "daily/2024-05-08.md",
+    "Code/Install Package Dependency loop detected for package XXX.md",
+    "unsorted/QRCoder.md",
+    "Concepts/QRCode.md",
+    "Code/install-package.md",
     "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
+    "Study/AZ204.Samples.Functions.md",
     "Study/Develop Azure Functions.md",
     "Untitled",
     "Study/Microsoft Course for AZ-204.md",
@@ -270,13 +278,6 @@
     "Concepts/materialized view.md",
     "Concepts/rematerializing.md",
     "Code/Azure Functions runtime.md",
-    "Concepts/cqrs projections.md",
-    "Concepts/Azure Function App.md",
-    "Concepts/scale controller.md",
-    "Social/Microsoft Azure Collective.md",
-    "Concepts/data consistency over availability.md",
-    "Concepts/Azure Queue storage.md",
-    "Code/function.json.md",
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
     "MOCs/Study guide AZ-204.md=bat",

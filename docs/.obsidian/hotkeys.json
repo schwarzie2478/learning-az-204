@@ -48,5 +48,32 @@
       ],
       "key": "U"
     }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
