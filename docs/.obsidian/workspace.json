@@ -13,6 +13,12 @@
             "state": {
               "type": "empty",
               "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/dotnet workload.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unsorted/dotnet workload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,6 +111,9 @@
             "state": {
               "type": "outline",
               "state": {}
+              "state": {
+                "file": "unsorted/dotnet workload.md"
+              }
             }
           },
           {
@@ -140,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unsorted/dotnet workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +183,9 @@
             "state": {
               "type": "file-properties",
               "state": {}
+              "state": {
+                "file": "unsorted/dotnet workload.md"
+              }
             }
           },
           {
@@ -180,6 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "unsorted/dotnet workload.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,8 +255,8 @@
   },
   "active": "c6986d5655b70ab3",
   "lastOpenFiles": [
-    "unsorted/dotnet workload.md",
     "tools/dotnet cli.md",
+    "unsorted/dotnet workload.md",
     "daily/2024-05-08.md",
     "Code/Install Package Dependency loop detected for package XXX.md",
     "unsorted/QRCoder.md",
@@ -277,7 +292,6 @@
     "Content",
     "Kanban",
     "tools",
-    "images/davechild_regular-expressions.pdf",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",
