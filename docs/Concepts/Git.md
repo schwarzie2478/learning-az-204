@@ -11,6 +11,9 @@ creation_date: 2024-05-02 16:53
 Type of [[Source Control]]
 
 Versioning in Git:  [[GitVersion]]
+
+Line ending issues in git
+https://code.visualstudio.com/docs/remote/troubleshooting#_resolving-git-line-ending-issues-in-wsl-resulting-in-many-modified-files
 ## Usage
 ### Typical commands:
 ```shell

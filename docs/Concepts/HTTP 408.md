@@ -16,4 +16,4 @@ aliases:
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-[[HTTP]] Error code 408
+[[Hypertext Transfer Protocol|HTTP]] Error code 408

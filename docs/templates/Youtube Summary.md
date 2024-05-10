@@ -6,7 +6,7 @@ tags:
 creation_date: <% tp.file.creation_date() %>
 definition: <% title = tp.system.prompt("Paste the youtube title here") %>
 ms-learn-url: undefined
-url: <% tp.system.prompt("Paste the youtube url here") %>
+url: <% url = tp.system.prompt("Paste the youtube url here") %>
 author: <% tp.system.prompt("Paste the youtube creator here") %>
 ---
 
@@ -20,6 +20,11 @@ author: <% tp.system.prompt("Paste the youtube creator here") %>
 
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`
+Open player in Obsidian:
+```timestamp-url 
+ <% url %>
+ ```
+
 `$= "![video](" + dv.current().url + ")"`
 
 ## Callouts View

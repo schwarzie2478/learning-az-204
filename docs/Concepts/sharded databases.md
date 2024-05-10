@@ -15,4 +15,4 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-Use a (single) database that is shared by multiple services. Each service freely accesses data owned by other services using local [[ACID]] transactions.
+Use a (single) database that is shared by multiple services. Each service freely accesses data owned by other services using local [[Atomicity Consistency Isolation and Durability|ACID]] transactions.

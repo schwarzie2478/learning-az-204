@@ -38,5 +38,10 @@
   "meld-encrypt",
   "obsidian-leaflet-plugin",
   "obsidian-projects",
-  "excalibrain"
+  "excalibrain",
+  "highlightr-plugin",
+  "obsidian-kindle-plugin",
+  "obsidian-timestamp-notes",
+  "obsidian-regex-replace",
+  "code-styler"
 ]

@@ -16,7 +16,7 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-In [database theory](https://en.wikipedia.org/wiki/Database_theory "Database theory"), the **[[CAP theorem]]**, also named [[CAP theorem|Brewer's theorem]] after computer scientist [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) "Eric Brewer (scientist)"), states that any [distributed data store](https://en.wikipedia.org/wiki/Distributed_data_store "Distributed data store") can provide only [two of the following three](https://en.wikipedia.org/wiki/Trilemma "Trilemma") guarantees:[[1]](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-Gilbert_Lynch-1)[[2]](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-2)[[3]](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-3)
+In [database theory](https://en.wikipedia.org/wiki/Database_theory "Database theory"), the **[[CAP theorem]]**, also named [[CAP theorem|Brewer's theorem]] after computer scientist [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist) "Eric Brewer (scientist)"), states that any [distributed data store](https://en.wikipedia.org/wiki/Distributed_data_store "Distributed data store") can provide only [two of the following three](https://en.wikipedia.org/wiki/Trilemma "Trilemma") guarantees:[1](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-Gilbert_Lynch-1)[2](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-2)[3](https://en.wikipedia.org/wiki/CAP_theorem#cite_note-3)
 
 [Consistency](https://en.wikipedia.org/wiki/Consistency_model "Consistency model")
 

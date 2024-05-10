@@ -1,0 +1,10 @@
+{
+  "findText": "^((\\d{1,2}:)+\\d\\d$)",
+  "replaceText": "```timestamp\\n $1\\n```",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

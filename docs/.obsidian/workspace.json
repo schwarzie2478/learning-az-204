@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "648df3f7a6b4ca23",
+        "id": "0d1dc589b73a128a",
         "type": "tabs",
         "children": [
           {
-            "id": "c6986d5655b70ab3",
+            "id": "4fdd230c3b821374",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-              "type": "markdown",
-              "state": {
-                "file": "unsorted/dotnet workload.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -50,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tool/vscode",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unsorted/dotnet workload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,9 +104,6 @@
             "state": {
               "type": "outline",
               "state": {}
-              "state": {
-                "file": "unsorted/dotnet workload.md"
-              }
             }
           },
           {
@@ -150,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unsorted/dotnet workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,9 +157,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "2f17b9de7efd7337",
+            "type": "leaf",
+            "state": {
+              "type": "video-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -183,9 +180,6 @@
             "state": {
               "type": "file-properties",
               "state": {}
-              "state": {
-                "file": "unsorted/dotnet workload.md"
-              }
             }
           },
           {
@@ -194,7 +188,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "unsorted/dotnet workload.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,48 +242,51 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "c6986d5655b70ab3",
+  "active": "4fdd230c3b821374",
   "lastOpenFiles": [
-    "tools/dotnet cli.md",
-    "unsorted/dotnet workload.md",
-    "daily/2024-05-08.md",
-    "Code/Install Package Dependency loop detected for package XXX.md",
-    "unsorted/QRCoder.md",
-    "Concepts/QRCode.md",
-    "Code/install-package.md",
-    "Code/AZ204.Samples.Functions.SimpleHttpTrigger.md",
-    "Study/AZ204.Samples.Functions.md",
-    "Study/Develop Azure Functions.md",
-    "Untitled",
-    "Study/Microsoft Course for AZ-204.md",
-    "Start.md",
-    "MOCs/Task Management.md",
-    "Concepts/System Initiative.md",
+    "Content/Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET.md",
+    "unsorted/inherently reversible architectural design.md",
+    "Study/Visual Studio Code Day Skills Challenge.md",
+    "Study/Personalize your remote development workflow with Visual Studio Code.md",
+    "unsorted/Use a Docker container as a development environment with Visual Studio Code.md",
+    "Code/development container.md",
+    "tools/VSCode.dev.md",
+    "unsorted/Explore and analyze data with Python.md",
+    "Code/MakeCode.md",
+    "Study/Create machine learning models.md",
+    "Study/03-real-world-data.ipynb",
+    "unsorted/Real-world data.md",
+    "Study/02-visualize-data.ipynb",
+    "Study/01-numpy-and-pandas.ipynb",
+    "Code/Pandas.md",
+    "Code/NumPy.md",
+    "unsorted/Jupyter notebooks.md",
+    "unsorted/TensorFlow.md",
+    "unsorted/Scikit-learn.md",
+    "unsorted/predictive data analysis.md",
+    "unsorted/data visualization.md",
+    "Study/Analyze images of rocks by using artificial intelligence.md",
+    "unsorted/Matplotlib.md",
+    "unsorted/PyTorch.md",
+    "unsorted/torchvision.md",
+    "Content/Use Artificial Intelligence to Classify Space Rocks Learn with Dr G.md",
+    "Concepts/multimodal learning experience.md",
+    "images/VARK-Graphic.webp",
+    "images/VARK-Graphic.webp.crdownload",
+    "Content/What you can learn from an open source project with 300 million downloads.md",
     "templates/Youtube Summary.md",
-    "templates/Book Summary.md",
-    "templates/Add Creation Time and Modification time to file.md",
-    "templates/New Note.md",
-    "Content/Books about high-performance software delivery.md",
-    "Concepts/Microservice Architecture patterns.md",
-    "Concepts/API Gateway.md",
-    "Social/Kong.md",
-    "excalibrain.md",
-    "Concepts/materialized view.md",
-    "Concepts/rematerializing.md",
-    "Code/Azure Functions runtime.md",
+    "unsorted",
+    "Untitled",
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
     "MOCs/Study guide AZ-204.md=bat",
     "MOCs/Test",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif.crdownload",
-    "pdfs/original.pdf",
-    "Content",
-    "Kanban",
-    "tools",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",
@@ -299,7 +294,6 @@
     "images/ApiOps-flow.webp",
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
-    "Pasted Image 20240502112842_426.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
