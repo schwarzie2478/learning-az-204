@@ -26,26 +26,26 @@ Every binding requires the following settings
 
 ## Supported bindings
 
-|Type|1.x1|2.x and higher2|Trigger|Input|Output|
-|---|---|---|---|---|---|
-|[Blob storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob)|✔|✔|✔|✔|✔|
-|[Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)|✔|✔|✔|✔|✔|
-|[Azure Data Explorer](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer)||✔||✔|✔|
-|[Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql)||✔|✔|✔|✔|
-|[Dapr](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr)4||✔|✔|✔|✔|
-|[Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid)|✔|✔|✔||✔|
-|[Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs)|✔|✔|✔||✔|
-|[HTTP & webhooks](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook)|✔|✔|✔||✔|
-|[IoT Hub](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot)|✔|✔|✔|||
-|[Kafka](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)3||✔|✔||✔|
-|[Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)|✔|||✔|✔|
-|[Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)|✔||||✔|
-|[Queue storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue)|✔|✔|✔||✔|
-|[Redis](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache)||✔|✔|||
-|[RabbitMQ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq)3||✔|✔||✔|
-|[SendGrid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid)|✔|✔|||✔|
-|[Service Bus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus)|✔|✔|✔||✔|
-|[SignalR](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service)||✔|✔|✔|✔|
-|[Table storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table)|✔|✔||✔|✔|
-|[Timer](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer)|✔|✔|✔|||
-|[Twilio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio)|✔|✔|||✔|
+| Type                                                                                                                  | 1.x1 | 2.x and higher2 | Trigger | Input | Output |
+| --------------------------------------------------------------------------------------------------------------------- | ---- | --------------- | ------- | ----- | ------ |
+| [Blob storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob)               | ✔    | ✔               | ✔       | ✔     | ✔      |
+| [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2)             | ✔    | ✔               | ✔       | ✔     | ✔      |
+| [Azure Data Explorer](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer) |      | ✔               |         | ✔     | ✔      |
+| [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql)                     |      | ✔               | ✔       | ✔     | ✔      |
+| [Dapr](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr)4                              |      | ✔               | ✔       | ✔     | ✔      |
+| [Event Grid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid)                   | ✔    | ✔               | ✔       |       | ✔      |
+| [Event Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs)                   | ✔    | ✔               | ✔       |       | ✔      |
+| [HTTP & webhooks](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook)            | ✔    | ✔               | ✔       |       | ✔      |
+| [IoT Hub](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot)                       | ✔    | ✔               | ✔       |       |        |
+| [Kafka](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka)3                            |      | ✔               | ✔       |       | ✔      |
+| [Mobile Apps](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps)                 | ✔    |                 |         | ✔     | ✔      |
+| [Notification Hubs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs)     | ✔    |                 |         |       | ✔      |
+| [Queue storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue)             | ✔    | ✔               | ✔       |       | ✔      |
+| [Redis](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache)                             |      | ✔               | ✔       |       |        |
+| [RabbitMQ](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq)3                      |      | ✔               | ✔       |       | ✔      |
+| [SendGrid](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid)                       | ✔    | ✔               |         |       | ✔      |
+| [Service Bus](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus)                 | ✔    | ✔               | ✔       |       | ✔      |
+| [SignalR](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service)                 |      | ✔               | ✔       | ✔     | ✔      |
+| [Table storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table)             | ✔    | ✔               |         | ✔     | ✔      |
+| [Timer](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer)                             | ✔    | ✔               | ✔       |       |        |
+| [Twilio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio)                           | ✔    | ✔               |         |       | ✔      |

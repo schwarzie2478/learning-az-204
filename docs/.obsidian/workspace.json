@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1dc589b73a128a",
+        "id": "3408f728bbd23a98",
         "type": "tabs",
         "children": [
           {
-            "id": "4fdd230c3b821374",
+            "id": "59a7fb9caeee3136",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Cosmos DB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,14 +58,15 @@
             }
           },
           {
-            "id": "0df66544e7c11a90",
+            "id": "2bdd296778cb9989",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -82,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md"
+              }
             }
           },
           {
@@ -127,19 +135,12 @@
             }
           },
           {
-            "id": "2bdd296778cb9989",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "6c3760579d49d964",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -179,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md"
+              }
             }
           },
           {
@@ -188,6 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "unsorted/Connect functions to Azure services using bindings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 506.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +251,24 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "4fdd230c3b821374",
+  "active": "59a7fb9caeee3136",
   "lastOpenFiles": [
+    "unsorted/Azure Cosmos DB.md",
+    "unsorted/Connect functions to Azure services using bindings.md",
+    "Concepts/Azure Functions.md",
+    "Study/Develop Azure Functions.md",
+    "Concepts/Azure Function Bindings.md",
+    "MOCs/Study guide AZ-204.md",
+    "daily/2024-05-11.md",
+    "daily/2024-05-10.md",
+    "Study/Microsoft Course for AZ-204.md",
+    "unsorted/Azure serverless community library.md",
+    "Study/Explore Azure Functions development.md",
+    "Code/isolated worker model.md",
+    "Start.md",
+    "MOCs/Daily Gardening.md",
+    "unsorted/Anaconda.md",
+    "tools/Azure Developer CLI.md",
     "Content/Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET.md",
     "unsorted/inherently reversible architectural design.md",
     "Study/Visual Studio Code Day Skills Challenge.md",
@@ -259,26 +280,10 @@
     "Code/MakeCode.md",
     "Study/Create machine learning models.md",
     "Study/03-real-world-data.ipynb",
-    "unsorted/Real-world data.md",
     "Study/02-visualize-data.ipynb",
     "Study/01-numpy-and-pandas.ipynb",
-    "Code/Pandas.md",
-    "Code/NumPy.md",
-    "unsorted/Jupyter notebooks.md",
-    "unsorted/TensorFlow.md",
-    "unsorted/Scikit-learn.md",
-    "unsorted/predictive data analysis.md",
-    "unsorted/data visualization.md",
-    "Study/Analyze images of rocks by using artificial intelligence.md",
-    "unsorted/Matplotlib.md",
-    "unsorted/PyTorch.md",
-    "unsorted/torchvision.md",
-    "Content/Use Artificial Intelligence to Classify Space Rocks Learn with Dr G.md",
-    "Concepts/multimodal learning experience.md",
     "images/VARK-Graphic.webp",
     "images/VARK-Graphic.webp.crdownload",
-    "Content/What you can learn from an open source project with 300 million downloads.md",
-    "templates/Youtube Summary.md",
     "unsorted",
     "Untitled",
     "images/central-listener.png",

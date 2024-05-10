@@ -20,10 +20,14 @@ where !completed
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) [[AZ-204]]
 Udemy Course [[Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]
 
+Online review of exam:
+- lot's of small detail questions
+- multiple questions about different languages ( not just c#...)
 
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
 [[Microsoft Course for AZ-204]]
 
+[[Azure serverless community library]]
 QuickStarts:
 
 [[Create a Csharp function in Azure using Visual Studio Code# function in Azure using Visual Studio Code]]

@@ -20,9 +20,11 @@ aliases:
 
 After completing this module, you will be able to:
 
-- [ ] Explain the key components of a function and how they are structured
+- [x] Explain the key components of a function and how they are structured ✅ 2024-05-10
 - [ ] Create triggers and bindings to control when a function runs and where the output is directed
 - [ ] Connect a function to services in [[Azure]]
-- [ ] Create a function by using [[Visual Studio Code]] and the [[Azure Functions Core Tools]]
+- [x] Create a function by using [[Visual Studio Code]] and the [[Azure Functions Core Tools]] ✅ 2024-05-10
 
 [[Explore Azure Functions development]] 
+[[Connect functions to Azure services using bindings]]
+
