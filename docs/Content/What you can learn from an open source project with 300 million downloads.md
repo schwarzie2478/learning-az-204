@@ -638,7 +638,7 @@ tooling but I still switch back to this one because I like the colors it gives m
 ```timestamp 
  14:08
  ```
-of things so uh patterns and guidelines that we use well who's not using an [[edit.config]]
+of things so uh patterns and guidelines that we use well who's not using an [[EditorConfig]]
 ```timestamp 
  14:14
  ```
@@ -1257,7 +1257,7 @@ you do is because it's an open source library and I don't want to introduce brea
 ```timestamp 
  28:48
  ```
-don't want to do with packages we use approval test what does it mean we use a package called [[public API generator]]
+don't want to do with packages we use approval test what does it mean we use a package called [[PublicApiGenerator]]
 ```timestamp 
  28:55
  ```
@@ -2293,7 +2293,7 @@ made you know who was involved why did we the the tradeoff because software deve
  ```
 
 > [!NOTE]
-> anybody used mutation testing before two people mutation testing and a [[striker]] is a tool in a do net space that can do
+> anybody used [[mutation testing]] before two people mutation testing and a [[Stryker.NET]] is a tool in a do net space that can do
 
 ```timestamp 
  51:06
@@ -2347,7 +2347,7 @@ crap hire me to fix it yes that's it's a nice uh sales model I think I just came
  ```
 
 > [!NOTE]
-> up with now but yeah we want to make it part of the build pipeline uh also looking at [[ArchUnit]] I some some other
+> up with now but yeah we want to make it part of the build pipeline uh also looking at [[ArchUnitNET]] I some some other
 > ```timestamp 
 >  52:18
 > ```

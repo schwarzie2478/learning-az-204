@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: stored
 dg-publish: true
 tags:
   - concept/SRE/database

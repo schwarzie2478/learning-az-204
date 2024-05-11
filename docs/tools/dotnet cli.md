@@ -1,11 +1,11 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - tool/dotnet
 creation_date: 2024-05-08 23:08
-definition: undefined
-ms-learn-url: undefined
+definition: The .NET command-line interface (CLI) is a cross-platform toolchain for developing, building, running, and publishing .NET applications.
+ms-learn-url: https://learn.microsoft.com/en-us/dotnet/core/tools/
 url: undefined
 aliases:
 ---

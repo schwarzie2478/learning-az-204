@@ -85,7 +85,7 @@ We want to collect as many rock images as possible.
 
 First, our brain tries to extract patterns from each image.
 
-This is our human [[feature extraction]] engine
+This is our human [[Feature extraction]] engine
 ### Step 2: Find relationships
 
 Next, we try to find the relationships between the features and the type of rock that's shown in a photo of a rock.

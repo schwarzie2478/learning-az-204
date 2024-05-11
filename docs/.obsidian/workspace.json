@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md",
+                "file": "tools/Remove files from git repo entirely.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cosmos DB",
+                "query": "tag:#tool/git/tips",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,9 +64,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3f8cec63aa6de4c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md",
+                "file": "tools/Remove files from git repo entirely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md"
+                "file": "tools/Remove files from git repo entirely.md"
               }
             }
           },
@@ -140,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md",
+                "file": "tools/Remove files from git repo entirely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -181,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md"
+                "file": "tools/Remove files from git repo entirely.md"
               }
             }
           },
@@ -191,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "unsorted/Connect functions to Azure services using bindings.md",
+                "file": "tools/Remove files from git repo entirely.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,32 +260,34 @@
   },
   "active": "59a7fb9caeee3136",
   "lastOpenFiles": [
-    "unsorted/Azure Cosmos DB.md",
-    "unsorted/Connect functions to Azure services using bindings.md",
-    "Concepts/Azure Functions.md",
-    "Study/Develop Azure Functions.md",
-    "Concepts/Azure Function Bindings.md",
-    "MOCs/Study guide AZ-204.md",
-    "daily/2024-05-11.md",
-    "daily/2024-05-10.md",
-    "Study/Microsoft Course for AZ-204.md",
-    "unsorted/Azure serverless community library.md",
-    "Study/Explore Azure Functions development.md",
-    "Code/isolated worker model.md",
+    "Concepts/Locality of Behaviour.md",
+    "Concepts/European Conference on Pattern Languages of Programs.md",
+    "Social/Association for Computing Machinery.md",
+    "Social/Richard Gabriel.md",
+    "pdfs/PatternsOfSoftware.pdf",
+    "pdfs/PatternsOfSoftware.pdf.crdownload",
     "Start.md",
+    "Concepts/Clean Architecture.md",
     "MOCs/Daily Gardening.md",
-    "unsorted/Anaconda.md",
-    "tools/Azure Developer CLI.md",
-    "Content/Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET.md",
-    "unsorted/inherently reversible architectural design.md",
-    "Study/Visual Studio Code Day Skills Challenge.md",
-    "Study/Personalize your remote development workflow with Visual Studio Code.md",
-    "unsorted/Use a Docker container as a development environment with Visual Studio Code.md",
-    "Code/development container.md",
-    "tools/VSCode.dev.md",
-    "unsorted/Explore and analyze data with Python.md",
-    "Code/MakeCode.md",
-    "Study/Create machine learning models.md",
+    "Concepts/multiple revision mode.md",
+    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md",
+    "Concepts/Microservice Architecture.md",
+    "Concepts/Prompt Engineering.md",
+    "Content/Continuous improver.md",
+    "Concepts/Vector Database.md",
+    "Concepts/Zero Trust.md",
+    "Concepts/HTTP scaler.md",
+    "Concepts/inner sourcing.md",
+    "Concepts/Microsoft Artifact Registry.md",
+    "Concepts/Model View Viewmodel.md",
+    "Concepts/System Initiative.md",
+    "Concepts/Event Journal.md",
+    "Concepts/Just In Time.md",
+    "tools/dotnet cli.md",
+    "Study/Develop Azure Functions.md",
+    "Concepts/REST API.md",
+    "Concepts/Office 365.md",
+    "Concepts/Avalibility set.md",
     "Study/03-real-world-data.ipynb",
     "Study/02-visualize-data.ipynb",
     "Study/01-numpy-and-pandas.ipynb",
@@ -289,9 +298,7 @@
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
     "MOCs/Study guide AZ-204.md=bat",
-    "MOCs/Test",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
-    "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif.crdownload",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",
     "images/ApiOps.gif",

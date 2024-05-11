@@ -28,7 +28,7 @@ How much redundancy do you need?
 
 Availibility Set -> resources for availibility that shouldn't be grouped together
 Availibility Zone -> separate within the same zone ( or in the same datacenter but separate infrastructure)
-Virtual Machine scale Set => scales based of demand mostly
+[[Azure Virtual Machine Scale set]] => scales based of demand mostly
 
 Azure Spot Instance:  request a machine with reduced prizing, but will run when a machine is availible to run it
 
