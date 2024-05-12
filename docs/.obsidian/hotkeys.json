@@ -75,5 +75,23 @@
       ],
       "key": "C"
     }
+  ],
+  "editing-toolbar:header2-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editing-toolbar:header3-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }

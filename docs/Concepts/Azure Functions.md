@@ -9,6 +9,7 @@ definition: Azure Functions is a serverless solution that allows you to write le
 creation_date: 2024-05-02 18:40
 
 ---
+
 | MetaData   |                                              |
 | ---------- | -------------------------------------------- |
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
@@ -26,6 +27,13 @@ Deployment: [[Azure Functions Deployement]]
 
 Azure Functions supports [[Azure Function triggers|triggers]], which are ways to start execution of your code, and [[Azure Function Bindings|bindings]], which are ways to simplify coding for input and output data. There are other integration and automation services in Azure and they all can solve integration problems and automate business processes. They can all define input, actions, conditions, and output.
 
+## Differences between the isolated worker model and the in-process model for .NET on Azure Functions
+
+| Execution model           | Description                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Isolated worker model** | Your function code runs in a separate .NET worker process. Use with [supported versions of .NET and .NET Framework](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide#supported-versions). To learn more, see [Develop .NET isolated worker process functions](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide).         |
+| **In-process model**      | Your function code runs in the same process as the Functions host process. Supports only [Long Term Support (LTS) versions of .NET](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library#supported-versions). To learn more, see [Develop .NET class library functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library). |
+More info at [link](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences)
 ## Difference with [[Azure Logic Apps]]
 
 |                   | Azure Functions                                                       | Logic Apps                                                                                             |
@@ -102,7 +110,7 @@ Azure Functions uses a component called the _[[scale controller]]_ to monitor 
 > The [[unit of scale]] for Azure Functions is the function app. 
 
 When the function app is scaled out, more resources are allocated to run multiple instances of the Azure Functions host. Conversely, as compute demand is reduced, the scale controller removes function host instances. The number of instances is eventually "scaled in" to zero when no functions are running within a function app.
-![[central-listener.png]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/central-listener.png)
 
 > [!attention]
 > After your function app has been idle for a number of minutes, the platform may scale the number of instances on which your app runs in to zero. The next request has the added latency of scaling from zero to one. This latency is referred to as a _[[cold start]]_.

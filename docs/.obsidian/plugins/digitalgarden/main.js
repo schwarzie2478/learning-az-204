@@ -29249,7 +29249,7 @@ var DigitalGarden = class extends import_obsidian17.Plugin {
   }
 };
 //!()[image.svg]
-//![[image.png]]
+//![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/image.png]]
 //![](image.png)
 /*! Bundled license information:
 

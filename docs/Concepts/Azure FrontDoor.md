@@ -8,4 +8,4 @@ definition: Azure Front Door is Microsoft’s modern cloud Content Delivery Netw
 creation_date: 2024-05-02 18:40
 
 ---
-![[front-door-overview.png]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/front-door-overview.png)

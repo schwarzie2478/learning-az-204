@@ -13,7 +13,7 @@ creation_date: 2024-05-02 22:00
 > [!warning] 
 > Not required for Certificate AZ-204
 
-![[single-vm-diagram.svg]]
+![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/single-vm-diagram.svg]]
 ## [[Azure CLI]] 
 
 az vm list

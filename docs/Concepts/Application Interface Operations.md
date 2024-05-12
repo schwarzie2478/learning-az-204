@@ -20,9 +20,9 @@ APIOps applies the concepts of [[GitOps]] and [[DevOps]] to API deployment.
 - The automation, collaboration, quick iteration and focus on quality from a thriving DevOps culture.
 - The single source of truth and emphasis on CI/CD pipelines from GitOps.
 
-![[ApiOps-flow.webp]]
+![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/ApiOps-flow.webp]]
 
-![[ApiOps.gif]]
+![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/ApiOps.gif]]
 References:
 - [[Insomnia]]
 - [[Postman]]

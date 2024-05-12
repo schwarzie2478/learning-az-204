@@ -23,6 +23,22 @@ Every binding requires the following settings
 | `type`      | string | Name of binding. For example, [[queueTrigger]].                                                                                      |
 | `direction` | string | Indicates whether the binding is for receiving data into the function or sending data from the function. For example, `in` or `out`. |
 | `name`      | string | The name that is used for the bound data in the function. For example, `myQueue`.                                                    |
+## Binding expressions
+
+See [link](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns)
+Define an imperative binding as follows:
+
+- **Do not** include an attribute in the function signature for your desired imperative bindings.
+- Pass in an input parameter [`Binder binder`](https://github.com/Azure/azure-webjobs-sdk/blob/master/src/Microsoft.Azure.WebJobs.Host/Bindings/Runtime/Binder.cs) or [`IBinder binder`](https://github.com/Azure/azure-webjobs-sdk/blob/master/src/Microsoft.Azure.WebJobs/IBinder.cs).
+- Use the following C# pattern to perform the data binding.
+    ```c#
+    using (var output = await binder.BindAsync<T>(new BindingTypeAttribute(...)))
+    {
+        ...
+    }
+    ```
+> [!warning]
+> Binding at run-time is not possible with the in-process model.
 
 ## Supported bindings
 

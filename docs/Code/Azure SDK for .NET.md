@@ -9,4 +9,4 @@ creation_date: 2024-05-02 18:40
 ---
 - [ ] Work with Azure SDK for .NET
 
-![[azure-sdk-for-dotnet-overview.png]]
+![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/azure-sdk-for-dotnet-overview.png]]

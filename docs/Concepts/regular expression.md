@@ -107,4 +107,4 @@ To implement non-greedy matching, we can use various non-greedy quantifiers, suc
 > To implement non-greedy matching we add ? to a quantifier
 
 
-![[davechild_regular-expressions.pdf]]
+[link](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/pdfs/davechild_regular-expressions.pdf)

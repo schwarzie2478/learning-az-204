@@ -43,5 +43,14 @@
   "obsidian-kindle-plugin",
   "obsidian-timestamp-notes",
   "obsidian-regex-replace",
-  "code-styler"
+  "code-styler",
+  "obsidian-tracker",
+  "obsidian-annotator",
+  "text-extractor",
+  "omnisearch",
+  "tag-wrangler",
+  "periodic-notes",
+  "mermaid-tools",
+  "obsidian-reading-time",
+  "obsidian-local-rest-api"
 ]

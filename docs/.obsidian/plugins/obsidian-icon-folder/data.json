@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoBookOpen",
       "⏯",
       "CoCalendarDays",
       "🗂",
-      "📃",
-      "🛠"
+      "📃"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,8 +34,6 @@
   "daily": "CoCalendarDays",
   "MOCs": "🔱",
   "Concepts": "🧠",
-  "images": "CoImage02",
-  "pdfs": "📚",
   "Study": "👨‍🎓",
   "Social": "🌍",
   "Excalidraw": "✏",
@@ -43,5 +41,6 @@
   "tools": "🛠",
   "templates": "📃",
   "Kanban": "🗂",
-  "Content": "⏯"
+  "Content": "⏯",
+  "pdfs": "CoBookOpen"
 }

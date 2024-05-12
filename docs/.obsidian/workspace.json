@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "daily/2024-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tool/git/tips",
+                "query": "png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "daily/2024-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-05-11.md"
+                "file": "daily/2024-05-12.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "daily/2024-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -189,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "daily/2024-05-11.md"
+                "file": "daily/2024-05-12.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2024-05-11.md",
+                "file": "daily/2024-05-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,17 +236,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "broken-links:View broken links": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "59a7fb9caeee3136",
   "lastOpenFiles": [
+    "Concepts/Azure Function Bindings.md",
+    "daily/2024-05-12.md",
+    "Concepts/Azure Functions.md",
+    "Concepts/Azure FrontDoor.md",
+    "Concepts/Azure ExpressRoute.md",
+    "Concepts/Change Management.md",
+    "Concepts/ADKAR.md",
+    "daily/2024-05-11.md",
+    "unsorted/change-management-aid.pdf.md",
+    "Untitled",
+    "Concepts/Regular Expression.md",
     "Concepts/Locality of Behaviour.md",
     "Concepts/European Conference on Pattern Languages of Programs.md",
     "Social/Association for Computing Machinery.md",
@@ -265,23 +291,12 @@
     "Concepts/Zero Trust.md",
     "Concepts/HTTP scaler.md",
     "Concepts/inner sourcing.md",
-    "Concepts/Microsoft Artifact Registry.md",
-    "Concepts/Model View Viewmodel.md",
-    "Concepts/System Initiative.md",
-    "Concepts/Event Journal.md",
-    "Concepts/Just In Time.md",
-    "tools/dotnet cli.md",
-    "Study/Develop Azure Functions.md",
-    "Concepts/REST API.md",
-    "Concepts/Office 365.md",
-    "Concepts/Avalibility set.md",
     "Study/03-real-world-data.ipynb",
     "Study/02-visualize-data.ipynb",
     "Study/01-numpy-and-pandas.ipynb",
     "images/VARK-Graphic.webp",
     "images/VARK-Graphic.webp.crdownload",
     "unsorted",
-    "Untitled",
     "images/central-listener.png",
     "images/central-listener.png.crdownload",
     "MOCs/Study guide AZ-204.md=bat",

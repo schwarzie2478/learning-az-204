@@ -20,4 +20,4 @@ See also:  [[GitOps]], [[Azure DevOps]]
 > [!note]
 > There are a few key differences between GitOps and DevOps. For one, GitOps relies heavily on automation and tooling to manage and deploy code changes, while DevOps focuses more on communication and collaboration between teams.
 
-![[what-is-devops_lifecycle.avif]]
+![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/what-is-devops_lifecycle.avif]]
