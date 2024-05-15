@@ -34,7 +34,9 @@ QuickStarts:
 
 
 Microsoft Labs:
-[[AZ-204 Lab 01 Notes]]
+[[AZ-204 DevelopingSolutionsforMicrosoftAzure]]
+
+
 
 ### [Prepare for the exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#two-ways-to-prepare)
 

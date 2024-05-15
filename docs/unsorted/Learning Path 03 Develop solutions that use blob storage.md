@@ -1,12 +1,12 @@
 ---
-status: planted
+status: seedling
 dg-publish: true
 tags:
-  - code/dotNet/azure
-creation_date: 2024-05-10 20:22
-definition: Community library for Azure Functions
-ms-learn-url: undefined
-url: https://www.serverlesslibrary.net/
+  - unsorted
+creation_date: 2024-05-14 13:50
+definition: undefined
+ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_03.html
+url: undefined
 aliases:
 ---
 
@@ -15,4 +15,3 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-Community library for [[Azure Functions]]

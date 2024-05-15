@@ -2,10 +2,9 @@
 status: planted
 dg-publish: true
 tags:
-  - AZ-204
   - concept/SRE/cloud/azure
+  - study/AZ-204
 creation_date: 2024-05-02 22:00
-
 ---
 
 

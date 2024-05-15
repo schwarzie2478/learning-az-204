@@ -2,10 +2,10 @@
 status: seedling
 dg-publish: true
 tags:
-  - code/dotNet/azure
-creation_date: 2024-05-10 19:40
+  - unsorted
+creation_date: 2024-05-14 13:54
 definition: undefined
-ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide?tabs=windows
+ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_07.html
 url: undefined
 aliases:
 ---
@@ -15,5 +15,3 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-
-This is a self-contained application pushed to an azure function instance.

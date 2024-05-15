@@ -25,6 +25,7 @@ Deployment: [[Azure Functions Deployement]]
 > [!NOTE]
 > Migrate .NET apps from the in-process model to the isolated worker model
 
+See:  [link](https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model?tabs=net8)
 Azure Functions supports [[Azure Function triggers|triggers]], which are ways to start execution of your code, and [[Azure Function Bindings|bindings]], which are ways to simplify coding for input and output data. There are other integration and automation services in Azure and they all can solve integration problems and automate business processes. They can all define input, actions, conditions, and output.
 
 ## Differences between the isolated worker model and the in-process model for .NET on Azure Functions
