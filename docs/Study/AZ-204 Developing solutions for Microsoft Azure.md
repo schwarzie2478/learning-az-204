@@ -1,13 +1,14 @@
 ---
-status seedling
-dg-publish true
+status: planted
+dg-publish: true
 tags:
   - study/AZ-204
-creation_date 2024-05-14 13:41
-definition undefined
-ms-learn-url undefined
-url undefined
-aliases:
+creation_date: 2024-05-14 13:41
+definition: undefined
+ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
+url: undefined
+aliases: 
+github-url: https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure.git
 ---
 
 | MetaData   |                                              |
@@ -25,7 +26,7 @@ Labs:
 | Learning Path 02 Implement Azure Functions                                |                                                                                                                                                                                                      | [[Learning Path 02  Implement Azure Functions]]                   |
 | Learning Path 03 Develop solutions that use blob storage                  |                                                                                                                                                                                                      | [[Learning Path 03 Develop solutions that use blob storage]]      |
 | Learning Path 04 Develop solutions that use Cosmos DB storage             |                                                                                                                                                                                                      | [[Learning Path 04 Develop solutions that use Cosmos DB storage]] |
-| [[[Lab 05 Deploy compute workloads by using images and ]]                 | [Lab 05 Deploy compute workloads by using images and containers](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_05.html)               |                                                                   |
+| [[Lab 05 Deploy compute workloads by using images and]]                 | [Lab 05 Deploy compute workloads by using images and containers](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_05.html)               |                                                                   |
 | [[Learning Path 06 Implement user authentication and authorization]]      | [Lab 06 Authenticate by using OpenID Connect, MSAL, and .NET SDKs](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_06.html)             |                                                                   |
 | [[Learning Path 07 Implement secure Azure solutions]]                     | [Lab 07 Access resource secrets more securely across services](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_07.html)                 |                                                                   |
 | [[Learning Path 08 Implement API Management]]                             | [Lab 08 Create a multi-tier solution by using Azure services](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_08.html)                  |                                                                   |

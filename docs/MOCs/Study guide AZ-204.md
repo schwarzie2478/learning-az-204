@@ -34,7 +34,7 @@ QuickStarts:
 
 
 Microsoft Labs:
-[[AZ-204 DevelopingSolutionsforMicrosoftAzure]]
+[[AZ-204 Developing solutions for Microsoft Azure]]
 
 
 

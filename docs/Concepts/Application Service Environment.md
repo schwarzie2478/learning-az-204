@@ -11,4 +11,11 @@ ms-learn-url: https://learn.microsoft.com/en-us/azure/app-service/networking-fea
 creation_date: 2024-05-02 22:00
 
 ---
-An App Service Environment is an [[Concepts/Azure App Service]] feature that provides a fully isolated and dedicated environment for running App Service apps securely at high scale.
+An App Service Environment is an [[Azure App Service]] feature that provides a fully isolated and dedicated environment for running App Service apps securely at high scale.
+
+
+- It's for a single-tenant, you get your own hardware
+- a specific [[Azure App Service]] deployment
+-  you don't need to use [[virtual network integration]] because the ASE is already in your [[Azure Virtual Network]]
+
+To access Azure storage or other services: enable [[service endpoints]] on the ASE subnet.

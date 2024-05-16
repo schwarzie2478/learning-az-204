@@ -13,6 +13,16 @@ url: undefined
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+
+
+You have some options:
+ - Easiest is the consumption plan, pay as you go
+ - You can have elastic scaling already with Premium plans ( EP1 -...)
+ - The more dedicated plans two-fold:
+	 - Under app service plans you have the same options as for [[Azure App Service]] (like P3)
+	 - Container Apps Environment ( [[Application Service Environment|ASE]]) isolated environment
+
+
 There are three basic Azure Functions hosting plans provided by Azure Functions:
 - [[Azure Functions Consumption plan hosting]] [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan)
 - [[Azure Functions Premium plan]] [Premium plan](https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan)

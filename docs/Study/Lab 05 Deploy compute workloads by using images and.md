@@ -2,10 +2,10 @@
 status: seedling
 dg-publish: true
 tags:
-  - concept/SRE/cloud/azure
-creation_date: 2024-05-07 18:05
+  - study/AZ-204
+creation_date: 2024-05-14 13:53
 definition: undefined
-ms-learn-url: undefined
+ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_05.html
 url: undefined
 aliases:
 ---
@@ -15,7 +15,3 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-
-> [!attention]
-> If you want to find the [[connectionstring]] to the Access Keys of the [[Azure Storage Account]]
-
