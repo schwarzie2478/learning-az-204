@@ -1,9 +1,9 @@
 ---
-status: seedling
+status: stored
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-16 16:14
+  - code/dotNet/azure
+creation_date: 2024-05-17 09:24
 definition: undefined
 ms-learn-url: undefined
 url: undefined
@@ -19,3 +19,4 @@ aliases:
 > `VIEW[{definition}][text(renderMarkdown)]`
 
 
+Part of [[Azure SDK for .NET]]

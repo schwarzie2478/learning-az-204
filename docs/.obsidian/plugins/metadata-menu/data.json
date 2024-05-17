@@ -14,7 +14,8 @@
           "3": "tree",
           "4": "signpost",
           "5": "stone",
-          "6": "event"
+          "6": "event",
+          "7": "stored"
         }
       },
       "name": "status",
@@ -28,7 +29,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.2",
+  "settingsVersion": "5.4",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

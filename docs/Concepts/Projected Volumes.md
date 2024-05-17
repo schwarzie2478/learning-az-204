@@ -1,12 +1,12 @@
 ---
-status: seedling
+status: stone
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-16 16:37
-definition: undefined
+  - concept/SRE/cloud/Kubernetes
+creation_date: 2024-05-17 11:31
+definition: A projected volume maps several existing volume sources into the same directory.
 ms-learn-url: undefined
-url: undefined
+url: https://kubernetes.io/docs/concepts/storage/projected-volumes/
 aliases:
 ---
 

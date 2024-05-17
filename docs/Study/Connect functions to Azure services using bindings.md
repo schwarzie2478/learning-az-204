@@ -17,3 +17,7 @@ aliases:
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
 When making a [[Azure Functions]] that is triggered by an HttpTrigger and has to write to other source like [[Azure Cosmos DB|CosmosDB]]
+
+If you have to have to connect to for example an Storage Queue to send  an message, but  you are triggered by an [[HttpTrigger]] , the function also want to respond with an http response.
+
+This will result in a [[MultiResponse]]  object for answer

@@ -20,5 +20,5 @@ aliases:
 
 We create a [[Azure Storage Account]] in the desired resource group
 We create a [[Azure Storage queue]] to write messages to
-We configure an sample app with the code to use queue ( QueueClient with [[connectionstring]]
+We configure the app with the code to use  ( [[Azure.Storage.Queues.QueueClient|QueueClient]] with [[Azure Storage Account connectionstring]]
 )

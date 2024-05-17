@@ -1,10 +1,10 @@
 ---
-status: stored
+status: planted
 dg-publish: true
 tags:
-  - code/dotNET
-creation_date: 2024-05-06 13:56
-definition: A source generator that caches some parts to speed up re-generation actions
+  - concept/SRE
+creation_date: 2024-05-16 16:14
+definition: undefined
 ms-learn-url: undefined
 url: undefined
 aliases:
@@ -17,4 +17,5 @@ aliases:
 
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
+
 

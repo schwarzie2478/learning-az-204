@@ -17,5 +17,5 @@ aliases:
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
 > [!attention]
-> If you want to find the [[connectionstring]] to the Access Keys of the [[Azure Storage Account]]
+> If you want to find the [[Azure Storage Account connectionstring|connectionstring]] to the [[Access Keys]] of the [[Azure Storage Account]]
 

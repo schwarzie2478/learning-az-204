@@ -1,12 +1,12 @@
 ---
-status: stored
+status: planted
 dg-publish: true
 tags:
-  - code/dotNET
-creation_date: 2024-05-06 13:56
-definition: A source generator that caches some parts to speed up re-generation actions
+  - concept/SRE/cloud/Kubernetes
+creation_date: 2024-05-17 11:27
+definition: The token from this projected volume is a JSON Web Token (JWT).
 ms-learn-url: undefined
-url: undefined
+url: https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/#serviceaccount-token-volume-projection
 aliases:
 ---
 
@@ -18,3 +18,5 @@ aliases:
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
 
+
+injection of a token into an volume [[Projected Volumes]]

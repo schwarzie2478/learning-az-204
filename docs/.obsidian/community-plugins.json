@@ -9,7 +9,6 @@
   "obsidian-tasks-plugin",
   "calendar",
   "note-refactor-obsidian",
-  "obsidian-footnotes",
   "obsidian-advanced-slides",
   "obsidian-icon-folder",
   "obsidian-mind-map",
@@ -53,5 +52,6 @@
   "mermaid-tools",
   "obsidian-reading-time",
   "obsidian-local-rest-api",
-  "modalforms"
+  "modalforms",
+  "js-engine"
 ]

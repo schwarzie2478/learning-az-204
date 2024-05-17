@@ -1031,7 +1031,7 @@ could debate whether this actually makes it better I should completely rewrite t
 ```timestamp 
  23:19
  ```
-resharp does the same thing it will actually suggest you to use [[pattern matching]] which is nice I never
+resharp does the same thing it will actually suggest you to use [[pattern matching in csharp]] which is nice I never
 ```timestamp 
  23:25
  ```

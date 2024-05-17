@@ -12,7 +12,7 @@ creation_date: 2024-05-02 22:00
 
 An account for [[Azure Storage]]
 
-Find [[connectionstring]] in [[Access Keys]] section of [[Azure Portal]]
+Find [[Azure Storage Account connectionstring|connectionstring]] in [[Access Keys]] section of [[Azure Portal]]
 
 Move data between storage accounts
 

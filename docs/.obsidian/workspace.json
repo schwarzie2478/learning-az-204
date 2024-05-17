@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13157d8c80740469",
+        "id": "ae22385d7a8cd17d",
         "type": "tabs",
         "children": [
           {
-            "id": "b1da91cd0827dff1",
+            "id": "4fd0dee923c80d76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/pattern matching in csharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/pattern matching in csharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Azure Functions.md"
+                "file": "Code/pattern matching in csharp.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/pattern matching in csharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/Azure Functions.md"
+                "file": "Code/pattern matching in csharp.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/Azure Functions.md",
+                "file": "Code/pattern matching in csharp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +221,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224435,
+                  "scale": 0.3745404962408029,
                   "close": true
                 }
               }
@@ -260,34 +260,34 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "b1da91cd0827dff1",
+  "active": "4fd0dee923c80d76",
   "lastOpenFiles": [
-    "unsorted/Trigger events.md",
-    "Concepts/Azure Functions.md",
-    "unsorted/Pay-per-use.md",
+    "MOCs/Daily Gardening.md",
+    "Code/MultiResponse.md",
+    "Code/IL weaving.md",
+    "Code/Roslyn.md",
+    "Code/ASP.NET 8.md",
+    "Code/MongoDB.md",
+    "unsorted/ManagedIdentityCredential.md",
+    "Code/incremental generator.md",
+    "Code/fody.md",
+    "Code/ILSpy.md",
+    "Code/avalonia.md",
+    "Study/Connect functions to Azure services using bindings.md",
+    "unsorted/HttpTrigger.md",
+    "Study/Develop Azure Functions.md",
+    "Study/Microsoft Course for AZ-204.md",
+    "Start.md",
+    "Concepts/Service Principle.md",
+    "Code/DefaultAzureCredential.md",
+    "MOCs/Study guide AZ-204.md",
     "unsorted/automatic scaling.md",
-    "unsorted/Serverless.md",
-    "unsorted/Azure Event Hubs.md",
     "unsorted/Azure Event Grid.md",
+    "unsorted/Azure Event Hubs.md",
     "unsorted/Azure Event Hubs File system.md",
     "unsorted/Azure Storage queue.md",
     "Study/Modify Application to Use Storage Queue Instead of File System.md",
-    "Concepts/Azure Storage Account.md",
-    "Concepts/Azure Storage.md",
-    "unsorted/Access Keys.md",
-    "unsorted/connectionstring.md",
-    "unsorted/Udemy Labs.md",
-    "templates/Daily Note Template.md",
-    "templates/New Note Header.md",
-    "templates/New Note.md",
-    "unsorted/Modify C.md",
-    "Study/Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023.md",
-    "MOCs/Study guide AZ-204.md",
-    "Start.md",
-    "Study/Learning Path 01 Implement Azure App Service Web Apps.md",
-    "Study/KSS Open-Telemetry.md",
-    "unsorted/Untitled.md",
-    "Study/AZ-204 Developing solutions for Microsoft Azure.md",
+    "Concepts/Azure Storage Account connectionstring.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",
