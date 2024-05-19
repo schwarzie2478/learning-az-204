@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - code/dotNet/azure
@@ -7,7 +7,7 @@ creation_date: 2024-05-17 15:20
 definition: Because an HTTP triggered function also returns an HTTP response, the function returns a MultiResponse object, which represents both the HTTP and queue output.
 ms-learn-url: undefined
 url: undefined
-aliases:
+aliases: 
 ---
 
 |          |                                              |

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae22385d7a8cd17d",
+        "id": "09358ce1cf794e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd0dee923c80d76",
+            "id": "2e42a64b3119fe8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/pattern matching in csharp.md",
+                "file": "Concepts/the general mark and sweep algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pricing",
+                "query": "image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "42bac6edc8c1cc80",
@@ -86,7 +88,7 @@
       {
         "id": "71e96e97dfd03efa",
         "type": "tabs",
-        "dimension": 55.61904761904762,
+        "dimension": 65.33333333333333,
         "children": [
           {
             "id": "189692de4a508a44",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/pattern matching in csharp.md",
+                "file": "Concepts/the general mark and sweep algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/pattern matching in csharp.md"
+                "file": "Concepts/the general mark and sweep algorithm.md"
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/pattern matching in csharp.md",
+                "file": "Concepts/the general mark and sweep algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             }
           },
           {
-            "id": "2f17b9de7efd7337",
+            "id": "ecbf83b3950917ba",
             "type": "leaf",
             "state": {
               "type": "video-view",
@@ -175,12 +177,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7323bbbd2111e9b0",
         "type": "tabs",
-        "dimension": 44.38095238095238,
+        "dimension": 34.66666666666667,
         "children": [
           {
             "id": "cfd7f45ba55aa2fa",
@@ -188,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Code/pattern matching in csharp.md"
+                "file": "Concepts/the general mark and sweep algorithm.md"
               }
             }
           },
@@ -198,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Code/pattern matching in csharp.md",
+                "file": "Concepts/the general mark and sweep algorithm.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 1059.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,34 +262,34 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "4fd0dee923c80d76",
+  "active": "2e42a64b3119fe8b",
   "lastOpenFiles": [
-    "MOCs/Daily Gardening.md",
-    "Code/MultiResponse.md",
-    "Code/IL weaving.md",
-    "Code/Roslyn.md",
-    "Code/ASP.NET 8.md",
-    "Code/MongoDB.md",
-    "unsorted/ManagedIdentityCredential.md",
-    "Code/incremental generator.md",
-    "Code/fody.md",
-    "Code/ILSpy.md",
-    "Code/avalonia.md",
-    "Study/Connect functions to Azure services using bindings.md",
-    "unsorted/HttpTrigger.md",
-    "Study/Develop Azure Functions.md",
-    "Study/Microsoft Course for AZ-204.md",
-    "Start.md",
-    "Concepts/Service Principle.md",
-    "Code/DefaultAzureCredential.md",
-    "MOCs/Study guide AZ-204.md",
-    "unsorted/automatic scaling.md",
-    "unsorted/Azure Event Grid.md",
-    "unsorted/Azure Event Hubs.md",
-    "unsorted/Azure Event Hubs File system.md",
-    "unsorted/Azure Storage queue.md",
-    "Study/Modify Application to Use Storage Queue Instead of File System.md",
-    "Concepts/Azure Storage Account connectionstring.md",
+    "Concepts/multimodal learning experience.md",
+    "Concepts/Log Analytics workspace.md",
+    "Concepts/Geo-Zone Redundant Storage.md",
+    "Concepts/Failure Mode and Effects Analysis.md",
+    "Concepts/DevOps.md",
+    "Concepts/Codespaces.md",
+    "unsorted/requirements.txt.md",
+    "unsorted/devcontainer.md",
+    "Concepts/Cloud Pattern Components and Best Practices.md",
+    "Concepts/Azure Virtual Machine.md",
+    "Concepts/Azure Resource Manager.md",
+    "unsorted/unit of scale.md",
+    "Concepts/Azure Functions.md",
+    "unsorted/blobs.md",
+    "unsorted/Azure Application Insights.md",
+    "Concepts/artificial intelligence.md",
+    "unsorted/Overfitting.md",
+    "unsorted/underfitting.md",
+    "Concepts/Workspace transformation data collection rule.md",
+    "Code/Code sample Reliable WebApp.md",
+    "Concepts/Application Interface Operations.md",
+    "Concepts/feature toggles.md",
+    "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md",
+    "Code/Microsoft.EntityFrameworkCore.Database.Command.md",
+    "Code/directory.packages.props.md",
+    "Social/Anton Chekhov.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",

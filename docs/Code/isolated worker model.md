@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - code/dotNet/azure
@@ -7,7 +7,7 @@ creation_date: 2024-05-10 19:40
 definition: undefined
 ms-learn-url: https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide?tabs=windows
 url: undefined
-aliases:
+aliases: 
 ---
 
 | MetaData   |                                              |

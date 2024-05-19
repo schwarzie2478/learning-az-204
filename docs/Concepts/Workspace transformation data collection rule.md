@@ -10,4 +10,4 @@ creation_date: 2024-05-02 18:40
 ---
 See [[Data collection rules]]
 
-![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/transformation-workspace.png]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/transformation-workspace.png)

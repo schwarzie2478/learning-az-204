@@ -17,4 +17,4 @@ aliases:
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 Every object that could be traced is marked as live and at the end of tracing the ones without the mark are removed (swept) from the memory and it gets compacted. This is called a simple **mark and sweep algorithm**.
 
-![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif)

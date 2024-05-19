@@ -11,5 +11,5 @@ creation_date: 2024-05-02 18:40
 Reference: [[Reliable web app pattern]]
 - [ ] Work with a sample for an Reliable WebApp
 
-![[reliable-web-app-dotnet.svg| 900]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/reliable-web-app-dotnet.svg)
 

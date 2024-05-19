@@ -15,4 +15,4 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-![[https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/VARK-Graphic.webp]]
+![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/VARK-Graphic.webp)

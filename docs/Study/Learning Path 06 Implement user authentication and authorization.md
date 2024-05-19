@@ -1,11 +1,11 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-14 13:54
+  - study/AZ-204
+creation_date: 2024-05-14 13:53
 definition: undefined
-ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_12.html
+ms-learn-url: https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_06.html
 url: undefined
 aliases:
 ---

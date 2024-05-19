@@ -1,5 +1,5 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
   - study/AZ-204
@@ -7,7 +7,7 @@ creation_date: 2024-05-07 20:59
 definition: undefined
 ms-learn-url: undefined
 url: undefined
-aliases:
+aliases: 
 ---
 
 | MetaData   |                                              |

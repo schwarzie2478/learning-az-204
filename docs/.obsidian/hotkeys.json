@@ -93,5 +93,14 @@
       ],
       "key": "Y"
     }
+  ],
+  "templater-obsidian:templates/Plant Note.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
