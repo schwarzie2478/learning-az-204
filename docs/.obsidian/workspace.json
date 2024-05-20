@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md",
+                "file": "Content/Getting Started with Event Sourcing in .NET.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image",
+                "query": "Nick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "42bac6edc8c1cc80",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md",
+                "file": "Content/Getting Started with Event Sourcing in .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md"
+                "file": "Content/Getting Started with Event Sourcing in .NET.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md",
+                "file": "Content/Getting Started with Event Sourcing in .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             }
           },
           {
-            "id": "ecbf83b3950917ba",
+            "id": "f00d3887c9e95d91",
             "type": "leaf",
             "state": {
               "type": "video-view",
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -190,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md"
+                "file": "Content/Getting Started with Event Sourcing in .NET.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/the general mark and sweep algorithm.md",
+                "file": "Content/Getting Started with Event Sourcing in .NET.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,8 +261,12 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "2e42a64b3119fe8b",
+  "active": "f00d3887c9e95d91",
   "lastOpenFiles": [
+    "unsorted/Nick Chapsas.md",
+    "Content/Getting Started with Event Sourcing in .NET.md",
+    "daily/2024-05-20.md",
+    "Concepts/the general mark and sweep algorithm.md",
     "Concepts/multimodal learning experience.md",
     "Concepts/Log Analytics workspace.md",
     "Concepts/Geo-Zone Redundant Storage.md",
@@ -286,10 +289,6 @@
     "Code/Code sample Reliable WebApp.md",
     "Concepts/Application Interface Operations.md",
     "Concepts/feature toggles.md",
-    "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md",
-    "Code/Microsoft.EntityFrameworkCore.Database.Command.md",
-    "Code/directory.packages.props.md",
-    "Social/Anton Chekhov.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",
