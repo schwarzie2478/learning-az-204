@@ -151,13 +151,14 @@ I never go and say update this thing that happened in the past because that thin
  1:45
 ```
 
-given moment in time it was true so what I'll be doing is if I want to reverse
-
-```timestamp
- 1:51
-```
-
-that in the future then I'll go back and have a reversal event but that thing
+> [!NOTE]
+> given moment in time it was true so what I'll be doing is if I want to reverse
+> 
+> ```timestamp
+>  1:51
+> ```
+> 
+> that in the future then I'll go back and have a [[reversal event]] but that thing
 
 ```timestamp
  1:56
@@ -217,13 +218,14 @@ transactions let's go ahead and add on remove all that money from whatever it
  2:54
 ```
 
-was in the beginning of the balance let's say zero now if that sounds inefficient to do every single time in a
-
-```timestamp
- 3:00
-```
-
-real application they're all way around it but the fundamental concept is that things happen and you build State out of
+> [!NOTE]
+> was in the beginning of the balance let's say zero now if that sounds inefficient to do every single time in a
+> 
+> ```timestamp
+>  3:00
+> ```
+> 
+> real application they're all way around it but the fundamental concept is that things happen and you build State out of
 
 ```timestamp
  3:08
@@ -277,7 +279,8 @@ have is two things first events are things that happen in a given moment in
  3:56
 ```
 
-time so I need a way to store a timestamp so I'm going to say day time
+> [!NOTE]
+> time so I need a way to store a timestamp so I'm going to say day time
 
 ```timestamp
  4:02
@@ -289,7 +292,8 @@ and I can say created at the normal terminology is timestamp I'm going to
  4:07
 ```
 
-use created at UTC here and then I need a way to correlate a bunch of events
+> [!NOTE]
+> use created at UTC here and then I need a way to correlate a bunch of events
 
 ```timestamp
  4:15
@@ -313,7 +317,8 @@ happen within those users but I still have id1 and John still has id2 my stuff
  4:34
 ```
 
-my events and John's events will be distinguished by separate streams
+> [!NOTE]
+> my events and John's events will be distinguished by separate streams
 
 ```timestamp
  4:39
@@ -331,7 +336,8 @@ in your system in this case the student well streams can be identified by stream
  4:50
 ```
 
-IDs so all of my events will have a stream ID here so stream ID here we go
+> [!NOTE]
+> IDs so all of my events will have a stream ID here so stream ID here we go
 
 ```timestamp
  4:57
@@ -1219,25 +1225,27 @@ real database into the mix and for that I'm going to use dynamodb I've built eve
  20:25
 ```
 
-the past and Dynamo DB and also things like Cosmos DB as well they are great
-
-```timestamp
- 20:30
-```
-
-for that sort of thing because of their partitioning strategy and Dynam DB especially because the terminology I
+> [!NOTE]
+> the past and Dynamo DB and also things like Cosmos DB as well they are great
+> 
+> ```timestamp
+>  20:30
+> ```
+> 
+> for that sort of thing because of their partitioning strategy and Dynam DB especially because the terminology I
 
 ```timestamp
  20:37
 ```
 
-think and all the features that it has makes this such an easy experience and if I was to build an event sourcing
-
-```timestamp
- 20:42
-```
-
-system I would use something like Dam be I know this librar is like Martin that use postest to do that I'm more of a
+> [!NOTE]
+> think and all the features that it has makes this such an easy experience and if I was to build an [[event sourcing]]
+> 
+> ```timestamp
+>  20:42
+> ```
+> 
+> system I would use something like [[DynamoDB]] I know this librar is like Martin that use postgres to do that I'm more of a
 
 ```timestamp
  20:48
@@ -1393,13 +1401,15 @@ know that it is inherited by some all the classes so the serializer and der
  23:25
 ```
 
-serializer of Json knows how to give me the right type back when I say realize
-
-```timestamp
- 23:31
-```
-
-this event back into a student event to do that first we have to say that this is using Json polymorphism and then I'm
+> [!NOTE]
+> serializer of Json knows how to give me the right type back when I say realize
+> 
+> ```timestamp
+>  23:31
+> ```
+> 
+> this event back into a student event to do that first we have to say that this is using [[Json polymorphism]] and then I'm
+> 
 
 ```timestamp
  23:39

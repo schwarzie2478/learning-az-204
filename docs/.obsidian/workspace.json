@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md",
+                "file": "MOCs/Study guide AZ-204.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nick",
+                "query": "gitops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,21 +94,35 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md",
+                "file": "MOCs/Study guide AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5fc95dabf2872ed0",
+            "id": "6c3760579d49d964",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "MOCs/Study guide AZ-204.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "ca27f04d6bc375fa",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {}
             }
           },
           {
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md"
+                "file": "MOCs/Study guide AZ-204.md"
               }
             }
           },
@@ -135,32 +148,18 @@
             }
           },
           {
-            "id": "ca27f04d6bc375fa",
+            "id": "5fc95dabf2872ed0",
             "type": "leaf",
             "state": {
-              "type": "broken-links-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c3760579d49d964",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
+              "type": "tag",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "37e061b9636d61c7",
+            "id": "e1b7e334244ee6c5",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -168,7 +167,7 @@
             }
           },
           {
-            "id": "f00d3887c9e95d91",
+            "id": "2a3717564bf2b0e3",
             "type": "leaf",
             "state": {
               "type": "video-view",
@@ -176,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -189,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md"
+                "file": "MOCs/Study guide AZ-204.md"
               }
             }
           },
@@ -199,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Content/Getting Started with Event Sourcing in .NET.md",
+                "file": "MOCs/Study guide AZ-204.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1059.5
+    "width": 593.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,34 +260,34 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "f00d3887c9e95d91",
+  "active": "2e42a64b3119fe8b",
   "lastOpenFiles": [
-    "unsorted/Nick Chapsas.md",
-    "Content/Getting Started with Event Sourcing in .NET.md",
-    "daily/2024-05-20.md",
-    "Concepts/the general mark and sweep algorithm.md",
+    "Concepts/Azure Virtual Machine.md",
+    "Concepts/Azure Resource Manager.md",
     "Concepts/multimodal learning experience.md",
+    "Concepts/DevOps.md",
+    "Concepts/Application Interface Operations.md",
+    "Start.md",
+    "Concepts/the general mark and sweep algorithm.md",
+    "Concepts/GitOps.md",
+    "daily/2024-05-23.md",
+    "Content/Don’t Build a Distributed Monolith - Jonathan Tower - NDC London 2023.md",
+    "Study/Develop Azure Functions.md",
+    "Study/Microsoft Course for AZ-204.md",
+    "Content/Getting Started with Event Sourcing in .NET.md",
+    "daily/2024-05-22.md",
+    "Concepts/DynamoDB.md",
+    "Concepts/NoSQL.md",
+    "Code/Json polymorphism.md",
+    "unsorted/reversal event.md",
+    "daily/2024-05-21.md",
+    "unsorted/Nick Chapsas.md",
+    "daily/2024-05-20.md",
     "Concepts/Log Analytics workspace.md",
     "Concepts/Geo-Zone Redundant Storage.md",
     "Concepts/Failure Mode and Effects Analysis.md",
-    "Concepts/DevOps.md",
     "Concepts/Codespaces.md",
     "unsorted/requirements.txt.md",
-    "unsorted/devcontainer.md",
-    "Concepts/Cloud Pattern Components and Best Practices.md",
-    "Concepts/Azure Virtual Machine.md",
-    "Concepts/Azure Resource Manager.md",
-    "unsorted/unit of scale.md",
-    "Concepts/Azure Functions.md",
-    "unsorted/blobs.md",
-    "unsorted/Azure Application Insights.md",
-    "Concepts/artificial intelligence.md",
-    "unsorted/Overfitting.md",
-    "unsorted/underfitting.md",
-    "Concepts/Workspace transformation data collection rule.md",
-    "Code/Code sample Reliable WebApp.md",
-    "Concepts/Application Interface Operations.md",
-    "Concepts/feature toggles.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",

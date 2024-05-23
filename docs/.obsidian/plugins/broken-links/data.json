@@ -48,7 +48,8 @@
     "Concepts/Geo-Zone Redundant Storage.md",
     "Concepts/Log Analytics workspace.md",
     "Concepts/multimodal learning experience.md",
-    "Concepts/the general mark and sweep algorithm.md"
+    "Concepts/the general mark and sweep algorithm.md",
+    "Content/Getting Started with Event Sourcing in .NET.md"
   ],
   "expandedFileItems": [],
   "expandedLinkItems": [],
