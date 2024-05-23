@@ -2,6 +2,7 @@
 status: planted
 tags:
   - tool/obsidian
+creation_date: 2024-05-06 13:05
 ---
 
 

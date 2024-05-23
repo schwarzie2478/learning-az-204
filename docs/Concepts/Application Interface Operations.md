@@ -24,14 +24,16 @@ APIOps applies the concepts of [[GitOps]] and [[DevOps]] to API deployment.
 
 ![image](https://filedn.eu/lLCDT28fW4ahdtipln72iIF/public-vault-media/images/ApiOps.gif)
 References:
+- [[OpenAPI]]
+- [[OpenAPI Best Practices]]
 - [[Insomnia]]
 - [[Postman]]
 - [[StopLight]]
-- [[Source Control]]
+- [[Treblle]] with free tool [[API Insights]]
+- [[Kong]]
 - [[Pull Requests]]
 - [[API Gateway]]
 - [[API Portal]]
-- [[OpenAPI]]
 - [[Swagger]]
 
 

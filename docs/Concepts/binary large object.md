@@ -1,13 +1,14 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
+  - concept/SRE/database
 creation_date: 2024-05-19 20:35
-definition: undefined
+definition: BLOB (Binary Large Object) is a large object data type in the database system
 ms-learn-url: undefined
 url: undefined
 aliases:
+  - blob
 ---
 
 |          |                                              |

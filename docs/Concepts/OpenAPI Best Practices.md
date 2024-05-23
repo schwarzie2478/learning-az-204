@@ -3,6 +3,7 @@ status: planted
 dg-publish: true
 tags:
   - concept/SRE/cloud
+  - best-practices
 creation_date: 2024-05-06 16:15
 definition: undefined
 ms-learn-url: undefined

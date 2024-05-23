@@ -12,5 +12,6 @@ Formerly known as [[Swagger]]
 
 Generator https://openapi-generator.tech/
 
-[[OpenAPI specifics]]
+[[OpenAPI Specification]]
 [[OpenAPI Best Practices]]
+Used in [[Application Interface Operations]]

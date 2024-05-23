@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md",
+                "file": "MOCs/Unsorted Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md",
+                "file": "MOCs/Unsorted Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md",
+                "file": "MOCs/Unsorted Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md"
+                "file": "MOCs/Unsorted Notes.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md"
+                "file": "MOCs/Unsorted Notes.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Study guide AZ-204.md",
+                "file": "MOCs/Unsorted Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,32 +262,32 @@
   },
   "active": "2e42a64b3119fe8b",
   "lastOpenFiles": [
-    "Concepts/Azure Virtual Machine.md",
-    "Concepts/Azure Resource Manager.md",
-    "Concepts/multimodal learning experience.md",
-    "Concepts/DevOps.md",
+    "Social/Nick Chapsas.md",
+    "MOCs/Unsorted Notes.md",
+    "Concepts/binary large object.md",
+    "Concepts/Azure Functions.md",
+    "tools/Treblle.md",
+    "MOCs/Full Table Of Contents.md",
+    "MOCs/Review.md",
+    "Study/Study guide AZ-204.md",
+    "MOCs/Missing Creation Date.md",
+    "MOCs/Acronyms Aliases.md",
+    "MOCs/Daily Gardening.md",
+    "tools/Example Filter on definitions in Obsidian.md",
+    "tools/Otter.ai.md",
+    "Code/Testing in .NET.md",
+    "MOCs/Software Engineering Patterns.md",
+    "MOCs/General Concepts.md",
+    "MOCs/Cloud Engineering Patterns.md",
     "Concepts/Application Interface Operations.md",
-    "Start.md",
-    "Concepts/the general mark and sweep algorithm.md",
-    "Concepts/GitOps.md",
+    "tools/API Insights.md",
+    "Concepts/OpenAPI.md",
+    "Concepts/OpenAPI Best Practices.md",
     "daily/2024-05-23.md",
-    "Content/Don’t Build a Distributed Monolith - Jonathan Tower - NDC London 2023.md",
-    "Study/Develop Azure Functions.md",
-    "Study/Microsoft Course for AZ-204.md",
-    "Content/Getting Started with Event Sourcing in .NET.md",
-    "daily/2024-05-22.md",
-    "Concepts/DynamoDB.md",
-    "Concepts/NoSQL.md",
-    "Code/Json polymorphism.md",
-    "unsorted/reversal event.md",
-    "daily/2024-05-21.md",
-    "unsorted/Nick Chapsas.md",
-    "daily/2024-05-20.md",
-    "Concepts/Log Analytics workspace.md",
-    "Concepts/Geo-Zone Redundant Storage.md",
-    "Concepts/Failure Mode and Effects Analysis.md",
-    "Concepts/Codespaces.md",
-    "unsorted/requirements.txt.md",
+    "Social/Kong.md",
+    "tools/Insomnia.md",
+    "Concepts/OpenAPI Specification.md",
+    "Study/AZ-204 Certification Bookmarks.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",

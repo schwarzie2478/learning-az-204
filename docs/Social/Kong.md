@@ -15,4 +15,4 @@ aliases:
 | Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
-[[API Gateway]] product
+[[API Gateway]] product for [[Application Interface Operations]]

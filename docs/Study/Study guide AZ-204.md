@@ -3,7 +3,6 @@ status:
   - planted
 dg-publish: true
 tags:
-  - landingpage
   - pinned
   - study/AZ-204
 definition: Study guide for AZ-204

@@ -1,5 +1,5 @@
 ---
-status: planted
+status: signpost
 dg-publish: true
 tags:
   - concept/SRE

@@ -1,10 +1,13 @@
 ---
+status: planted
+dg-publish: true
 tags:
-  - tool/obsidian
-status: stored
-url: https://otter.ai/
-creation_date: 2024-05-04 15:12
-definition: Never take meeting notes again. Get transcripts, automated summaries, action items, and chat with Otter to get answers from your meetings.
+  - tool/treblle/api-insights
+creation_date: 2024-05-23 13:46
+definition: Free reporting tool for openapi documents
+ms-learn-url: undefined
+url: https://apiinsights.io/
+aliases:
 ---
 
 |          |                                              |
@@ -15,3 +18,5 @@ definition: Never take meeting notes again. Get transcripts, automated summaries
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
 
+
+Made by [[Treblle]]
