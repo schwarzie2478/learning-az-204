@@ -1,13 +1,13 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-19 20:28
-definition: undefined
+  - concept/SRE/cloud
+creation_date: 2024-05-19 20:35
+definition: the basic unit of counting for evaluating scaling conditions
 ms-learn-url: undefined
 url: undefined
-aliases:
+aliases: 
 ---
 
 |          |                                              |

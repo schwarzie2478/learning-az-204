@@ -31,7 +31,6 @@ References:
 - [[StopLight]]
 - [[Treblle]] with free tool [[API Insights]]
 - [[Kong]]
-- [[Pull Requests]]
 - [[API Gateway]]
 - [[API Portal]]
 - [[Swagger]]

@@ -1,9 +1,9 @@
 ---
-status: seedling
+status: planted
 dg-publish: true
 tags:
-  - unsorted
-creation_date: 2024-05-19 20:28
+  - concept/SRE/cloud/azure
+creation_date: 2024-05-16 16:37
 definition: undefined
 ms-learn-url: undefined
 url: undefined
@@ -19,3 +19,4 @@ aliases:
 > `VIEW[{definition}][text(renderMarkdown)]`
 
 
+See [[Azure Functions#Scale Azure Functions]]

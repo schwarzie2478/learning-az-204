@@ -1,9 +1,9 @@
 ---
-status: planted
+status: seedling
 dg-publish: true
 tags:
   - unsorted
-creation_date: 2024-05-17 11:48
+creation_date: 2024-05-24 00:42
 definition: undefined
 ms-learn-url: undefined
 url: undefined
@@ -18,6 +18,4 @@ aliases:
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
 
-
-If you don't know if a managed credential has been used, you create an [[DefaultAzureCredential]] and this will try different credentials one of which is an manage identity.
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09358ce1cf794e1b",
+        "id": "35594c7049dfcac1",
         "type": "tabs",
         "children": [
           {
-            "id": "2e42a64b3119fe8b",
+            "id": "eae81eeaf51d807e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Unsorted Notes.md",
+                "file": "Concepts/vertical slice architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitops",
+                "query": "Dedicated plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOCs/Unsorted Notes.md",
+                "file": "Concepts/vertical slice architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/Unsorted Notes.md",
+                "file": "Concepts/vertical slice architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOCs/Unsorted Notes.md"
+                "file": "Concepts/vertical slice architecture.md"
               }
             }
           },
@@ -167,6 +167,14 @@
             }
           },
           {
+            "id": "2e42a64b3119fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "2a3717564bf2b0e3",
             "type": "leaf",
             "state": {
@@ -188,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "MOCs/Unsorted Notes.md"
+                "file": "Concepts/vertical slice architecture.md"
               }
             }
           },
@@ -198,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOCs/Unsorted Notes.md",
+                "file": "Concepts/vertical slice architecture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,34 +268,34 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "2e42a64b3119fe8b",
+  "active": "eae81eeaf51d807e",
   "lastOpenFiles": [
-    "Social/Nick Chapsas.md",
-    "MOCs/Unsorted Notes.md",
-    "Concepts/binary large object.md",
+    "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md",
+    "Concepts/feature folders.md",
+    "Concepts/vertical slice architecture.md",
+    "unsorted/Hexagonal Architecture.md",
+    "unsorted/Data and Ports.md",
+    "unsorted/Domain Driven Design.md",
+    "Concepts/GPT-4.md",
+    "Code/ManagedIdentityCredential.md",
+    "unsorted/Azure Application Insights.md",
+    "Concepts/unit of scale.md",
     "Concepts/Azure Functions.md",
+    "Concepts/Azure Functions Automatic Scaling.md",
+    "Concepts/App Service Auto Scaling.md",
+    "Code/Markdown Dataflow mermaid example.md",
+    "Code/Markdown example sequence diagram.md",
+    "Code/MarkDown Mermaid Class Diagram example.md",
+    "Concepts/Apigee.md",
+    "Concepts/Canonical Data Model.md",
+    "Concepts/Application Interface Operations.md",
+    "Concepts/OpenAPI Best Practices.md",
+    "MOCs/Unsorted Notes.md",
+    "Social/Nick Chapsas.md",
+    "Concepts/binary large object.md",
     "tools/Treblle.md",
     "MOCs/Full Table Of Contents.md",
     "MOCs/Review.md",
-    "Study/Study guide AZ-204.md",
-    "MOCs/Missing Creation Date.md",
-    "MOCs/Acronyms Aliases.md",
-    "MOCs/Daily Gardening.md",
-    "tools/Example Filter on definitions in Obsidian.md",
-    "tools/Otter.ai.md",
-    "Code/Testing in .NET.md",
-    "MOCs/Software Engineering Patterns.md",
-    "MOCs/General Concepts.md",
-    "MOCs/Cloud Engineering Patterns.md",
-    "Concepts/Application Interface Operations.md",
-    "tools/API Insights.md",
-    "Concepts/OpenAPI.md",
-    "Concepts/OpenAPI Best Practices.md",
-    "daily/2024-05-23.md",
-    "Social/Kong.md",
-    "tools/Insomnia.md",
-    "Concepts/OpenAPI Specification.md",
-    "Study/AZ-204 Certification Bookmarks.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",
