@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/vertical slice architecture.md",
+                "file": "Concepts/OpenAPI Best Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/vertical slice architecture.md",
+                "file": "Concepts/OpenAPI Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/vertical slice architecture.md",
+                "file": "Concepts/OpenAPI Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/vertical slice architecture.md"
+                "file": "Concepts/OpenAPI Best Practices.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/vertical slice architecture.md"
+                "file": "Concepts/OpenAPI Best Practices.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/vertical slice architecture.md",
+                "file": "Concepts/OpenAPI Best Practices.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,9 +270,21 @@
   },
   "active": "eae81eeaf51d807e",
   "lastOpenFiles": [
+    "Concepts/API Best Practices.md",
+    "Concepts/OpenAPI Best Practices.md",
+    "MOCs/Task Management.md",
+    "templates/Youtube Summary.md",
+    "Study/KSS Open-Telemetry.md",
+    "Code/Elsa.Net.md",
+    "unsorted/Convert GLSL shader to HLSL shader.md",
+    "unsorted/Launch a Windows Store Program from scripting.md",
+    "daily/2024-05-24.md",
+    "Concepts/Architectural Decision Records.md",
+    "Concepts/ADR Example.md",
+    "Excalidraw/Drawing 2024-05-24 00.48.03.excalidraw.md",
+    "Concepts/vertical slice architecture.md",
     "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md",
     "Concepts/feature folders.md",
-    "Concepts/vertical slice architecture.md",
     "unsorted/Hexagonal Architecture.md",
     "unsorted/Data and Ports.md",
     "unsorted/Domain Driven Design.md",
@@ -284,18 +296,6 @@
     "Concepts/Azure Functions Automatic Scaling.md",
     "Concepts/App Service Auto Scaling.md",
     "Code/Markdown Dataflow mermaid example.md",
-    "Code/Markdown example sequence diagram.md",
-    "Code/MarkDown Mermaid Class Diagram example.md",
-    "Concepts/Apigee.md",
-    "Concepts/Canonical Data Model.md",
-    "Concepts/Application Interface Operations.md",
-    "Concepts/OpenAPI Best Practices.md",
-    "MOCs/Unsorted Notes.md",
-    "Social/Nick Chapsas.md",
-    "Concepts/binary large object.md",
-    "tools/Treblle.md",
-    "MOCs/Full Table Of Contents.md",
-    "MOCs/Review.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",

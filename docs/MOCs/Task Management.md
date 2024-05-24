@@ -18,3 +18,9 @@ task
 from "Study" and -"templates"
 WHERE !completed
 ```
+
+```dataview
+Task
+from -"templates" AND -"Study"
+where !completed
+```

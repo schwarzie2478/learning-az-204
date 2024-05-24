@@ -16,7 +16,7 @@ author: Scott Sauber
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
-- [ ] Review 10 Opinions For Creating More Maintainable .NET Apps
+- [x] Review 10 Opinions For Creating More Maintainable .NET Apps
 
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`

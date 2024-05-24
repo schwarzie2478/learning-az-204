@@ -17,7 +17,9 @@ aliases:
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-- [ ] Review OPENAPI Best Practices
+- [x] Review OPENAPI Best Practices ✅ 2024-05-24
+
+Part of [[API Best Practices]]
 ## **Best Practices**
 
 - Use a Design-First Approach. ...

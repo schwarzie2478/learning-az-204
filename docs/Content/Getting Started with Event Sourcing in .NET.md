@@ -16,7 +16,7 @@ author: Nick Chapas
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
-- [ ] Review Getting Started with Event Sourcing in .NET
+- [x] Review Getting Started with Event Sourcing in .NET
 
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`

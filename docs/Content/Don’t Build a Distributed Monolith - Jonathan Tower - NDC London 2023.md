@@ -16,7 +16,7 @@ author: Jonathan "J." Tower
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 
-- [ ] Review Don’t Build a Distributed Monolith - Jonathan Tower - NDC London 2023
+- [x] Review Don’t Build a Distributed Monolith - Jonathan Tower - NDC London 2023
 
 ## Video
 `$= "Made by [[" + dv.current().author+"]]"`
