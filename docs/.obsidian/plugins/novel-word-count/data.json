@@ -270,6 +270,24 @@
       "modifiedDate": 1716143778320,
       "sizeInBytes": 473
     },
+    "unsorted/Reference Data.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 340,
+      "nonWhitespaceCharacterCount": 243,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716576257644,
+      "modifiedDate": 1716576304547,
+      "sizeInBytes": 581
+    },
     "unsorted/pull-request.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -359,6 +377,42 @@
       "createdDate": 1716143278086,
       "modifiedDate": 1716143278394,
       "sizeInBytes": 473
+    },
+    "unsorted/Master Data.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 756,
+      "nonWhitespaceCharacterCount": 595,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716576305230,
+      "modifiedDate": 1716576937468,
+      "sizeInBytes": 1034
+    },
+    "unsorted/Launch a Windows Store Program from scripting.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 565,
+      "nonWhitespaceCharacterCount": 431,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716544723582,
+      "modifiedDate": 1716544923476,
+      "sizeInBytes": 727
     },
     "unsorted/HttpTrigger.md": {
       "isCountable": true,
@@ -468,6 +522,24 @@
       "modifiedDate": 1716143773485,
       "sizeInBytes": 473
     },
+    "unsorted/Copilot.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716143159817,
+      "modifiedDate": 1716143160129,
+      "sizeInBytes": 473
+    },
     "unsorted/Data and Ports.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -486,6 +558,24 @@
       "modifiedDate": 1716504169177,
       "sizeInBytes": 473
     },
+    "unsorted/Convert GLSL shader to HLSL shader.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 479,
+      "nonWhitespaceCharacterCount": 349,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716556704968,
+      "modifiedDate": 1716556746193,
+      "sizeInBytes": 641
+    },
     "unsorted/captive dependency problem.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -502,24 +592,6 @@
       "aliases": null,
       "createdDate": 1716143418871,
       "modifiedDate": 1716143419180,
-      "sizeInBytes": 473
-    },
-    "unsorted/Copilot.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 311,
-      "nonWhitespaceCharacterCount": 219,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716143159817,
-      "modifiedDate": 1716143160129,
       "sizeInBytes": 473
     },
     "unsorted/Azure Storage queue.md": {
@@ -558,24 +630,6 @@
       "modifiedDate": 1715881510073,
       "sizeInBytes": 473
     },
-    "unsorted/Azure Event Hubs File system.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 311,
-      "nonWhitespaceCharacterCount": 219,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715881510072,
-      "modifiedDate": 1715881510072,
-      "sizeInBytes": 473
-    },
     "unsorted/Azure Event Grid.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -591,6 +645,24 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715881510071,
+      "modifiedDate": 1715881510072,
+      "sizeInBytes": 473
+    },
+    "unsorted/Azure Event Hubs File system.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715881510072,
       "modifiedDate": 1715881510072,
       "sizeInBytes": 473
     },
@@ -611,6 +683,24 @@
       "createdDate": 1716143701840,
       "modifiedDate": 1716143702149,
       "sizeInBytes": 473
+    },
+    "unsorted/AI SDK from vercel.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716597219916,
+      "modifiedDate": 1716597245940,
+      "sizeInBytes": 474
     },
     "tools/VSCode.dev.md": {
       "isCountable": true,
@@ -864,24 +954,6 @@
       "modifiedDate": 1714979521802,
       "sizeInBytes": 591
     },
-    "tools/Obsidian.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714857606745,
-      "modifiedDate": 1715027725991,
-      "sizeInBytes": 467
-    },
     "tools/Opening links in iframe in Obsidian.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -899,6 +971,24 @@
       "createdDate": 1715965323201,
       "modifiedDate": 1715965323201,
       "sizeInBytes": 702
+    },
+    "tools/Obsidian.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714857606745,
+      "modifiedDate": 1715027725991,
+      "sizeInBytes": 467
     },
     "tools/Obsidian learning.md": {
       "isCountable": true,
@@ -1278,23 +1368,25 @@
       "modifiedDate": 1714836119443,
       "sizeInBytes": 274
     },
-    "tools/Azure login fails on redirect.md": {
+    "tools/Azure Developer CLI.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 99,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 675,
-      "nonWhitespaceCharacterCount": 564,
-      "readingTimeInMinutes": 0.37358490566037733,
-      "linkCount": 3,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 157,
+      "nonWhitespaceCharacterCount": 126,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714745917950,
-      "modifiedDate": 1714837151467,
-      "sizeInBytes": 801
+      "aliases": [
+        "azd"
+      ],
+      "createdDate": 1714680009273,
+      "modifiedDate": 1714836119447,
+      "sizeInBytes": 569
     },
     "tools/Azure Functions Core Tools.md": {
       "isCountable": true,
@@ -1316,43 +1408,23 @@
       "modifiedDate": 1715974107933,
       "sizeInBytes": 708
     },
-    "tools/Azure Developer CLI.md": {
+    "tools/Azure login fails on redirect.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 20,
+      "wordCount": 99,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 157,
-      "nonWhitespaceCharacterCount": 126,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "azd"
-      ],
-      "createdDate": 1714680009273,
-      "modifiedDate": 1714836119447,
-      "sizeInBytes": 569
-    },
-    "tools/AutoRest.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.33,
+      "characterCount": 675,
+      "nonWhitespaceCharacterCount": 564,
+      "readingTimeInMinutes": 0.37358490566037733,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1714668016842,
-      "modifiedDate": 1714836119452,
-      "sizeInBytes": 363
+      "createdDate": 1714745917950,
+      "modifiedDate": 1714837151467,
+      "sizeInBytes": 801
     },
     "tools/Azure Cloud Shell.md": {
       "isCountable": true,
@@ -1410,23 +1482,23 @@
       "modifiedDate": 1714836119449,
       "sizeInBytes": 367
     },
-    "tools/API Insights.md": {
+    "tools/AutoRest.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 11,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 331,
-      "nonWhitespaceCharacterCount": 236,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1716464781167,
-      "modifiedDate": 1716464955471,
-      "sizeInBytes": 555
+      "createdDate": 1714668016842,
+      "modifiedDate": 1714836119452,
+      "sizeInBytes": 363
     },
     "tools/Anaconda.md": {
       "isCountable": true,
@@ -1448,6 +1520,24 @@
       "modifiedDate": 1715404499132,
       "sizeInBytes": 609
     },
+    "tools/API Insights.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 331,
+      "nonWhitespaceCharacterCount": 236,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716464781167,
+      "modifiedDate": 1716464955471,
+      "sizeInBytes": 555
+    },
     "templates/Youtube Summary.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1456,15 +1546,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.15666666666666668,
-      "characterCount": 762,
+      "characterCount": 761,
       "nonWhitespaceCharacterCount": 592,
       "readingTimeInMinutes": 0.17735849056603772,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714856553340,
-      "modifiedDate": 1715337207129,
-      "sizeInBytes": 1107
+      "modifiedDate": 1716712951868,
+      "sizeInBytes": 1106
     },
     "templates/Plant Note.md": {
       "isCountable": true,
@@ -1520,24 +1610,6 @@
       "modifiedDate": 1715881510069,
       "sizeInBytes": 309
     },
-    "templates/Book Summary.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 38,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 652,
-      "nonWhitespaceCharacterCount": 502,
-      "readingTimeInMinutes": 0.14339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715188135171,
-      "modifiedDate": 1715188229856,
-      "sizeInBytes": 982
-    },
     "templates/Daily Note Template.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1555,6 +1627,24 @@
       "createdDate": 1714719411860,
       "modifiedDate": 1714841584877,
       "sizeInBytes": 421
+    },
+    "templates/Book Summary.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 652,
+      "nonWhitespaceCharacterCount": 502,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715188135171,
+      "modifiedDate": 1715188229856,
+      "sizeInBytes": 982
     },
     "templates/Add Creation Time and Modification time to file.md": {
       "isCountable": true,
@@ -2276,24 +2366,6 @@
       "modifiedDate": 1714887630443,
       "sizeInBytes": 1530
     },
-    "Study/AZ204.Samples.Functions.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 385,
-      "nonWhitespaceCharacterCount": 292,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715200254209,
-      "modifiedDate": 1715200443916,
-      "sizeInBytes": 550
-    },
     "Study/Azure APIs.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2329,6 +2401,24 @@
       "createdDate": 1714978592210,
       "modifiedDate": 1714992167729,
       "sizeInBytes": 532
+    },
+    "Study/AZ204.Samples.Functions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 385,
+      "nonWhitespaceCharacterCount": 292,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715200254209,
+      "modifiedDate": 1715200443916,
+      "sizeInBytes": 550
     },
     "Study/AZ-204 Scale apps in Azure App Service.md": {
       "isCountable": true,
@@ -2420,24 +2510,6 @@
       "modifiedDate": 1715881510064,
       "sizeInBytes": 5589
     },
-    "Study/AZ-204 Configure web app settings.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 77,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 855,
-      "nonWhitespaceCharacterCount": 685,
-      "readingTimeInMinutes": 0.29056603773584905,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714893585440,
-      "modifiedDate": 1715077381472,
-      "sizeInBytes": 1274
-    },
     "Study/AZ-204 Certification Bookmarks.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2455,6 +2527,24 @@
       "createdDate": 1714680009257,
       "modifiedDate": 1716461956886,
       "sizeInBytes": 2795
+    },
+    "Study/AZ-204 Configure web app settings.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 77,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 855,
+      "nonWhitespaceCharacterCount": 685,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714893585440,
+      "modifiedDate": 1715077381472,
+      "sizeInBytes": 1274
     },
     "Study/Application Request Routing.md": {
       "isCountable": true,
@@ -2476,23 +2566,23 @@
       "modifiedDate": 1714945382525,
       "sizeInBytes": 947
     },
-    "Study/Analyze images of rocks by using artificial intelligence.md": {
-      "isCountable": true,
+    "Study/03-real-world-data.ipynb": {
+      "isCountable": false,
       "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 678,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.26,
-      "characterCount": 4648,
-      "nonWhitespaceCharacterCount": 3803,
-      "readingTimeInMinutes": 2.5584905660377357,
-      "linkCount": 7,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715332276526,
-      "modifiedDate": 1715408555463,
-      "sizeInBytes": 4840
+      "aliases": [],
+      "createdDate": 1715344906411,
+      "modifiedDate": 1715346147875,
+      "sizeInBytes": 29746
     },
     "Study/A guide to artificial intelligence.md": {
       "isCountable": true,
@@ -2512,23 +2602,23 @@
       "modifiedDate": 1715332087876,
       "sizeInBytes": 1536
     },
-    "Study/03-real-world-data.ipynb": {
-      "isCountable": false,
+    "Study/Analyze images of rocks by using artificial intelligence.md": {
+      "isCountable": true,
       "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 678,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 2.26,
+      "characterCount": 4648,
+      "nonWhitespaceCharacterCount": 3803,
+      "readingTimeInMinutes": 2.5584905660377357,
+      "linkCount": 7,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1715344906411,
-      "modifiedDate": 1715346147875,
-      "sizeInBytes": 29746
+      "aliases": null,
+      "createdDate": 1715332276526,
+      "modifiedDate": 1715408555463,
+      "sizeInBytes": 4840
     },
     "Study/02-visualize-data.ipynb": {
       "isCountable": false,
@@ -2692,24 +2782,6 @@
       "modifiedDate": 1715186216908,
       "sizeInBytes": 614
     },
-    "Social/Kong.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 377,
-      "nonWhitespaceCharacterCount": 281,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715187615226,
-      "modifiedDate": 1716463517084,
-      "sizeInBytes": 559
-    },
     "Social/Mark Heath.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2727,6 +2799,24 @@
       "createdDate": 1714975880201,
       "modifiedDate": 1714976408318,
       "sizeInBytes": 455
+    },
+    "Social/Kong.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 377,
+      "nonWhitespaceCharacterCount": 281,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715187615226,
+      "modifiedDate": 1716463517084,
+      "sizeInBytes": 559
     },
     "Social/HAMY LABS.md": {
       "isCountable": true,
@@ -2799,6 +2889,24 @@
       "createdDate": 1715283766670,
       "modifiedDate": 1715283804559,
       "sizeInBytes": 488
+    },
+    "Social/D3Clarity.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716641864368,
+      "modifiedDate": 1716641899443,
+      "sizeInBytes": 545
     },
     "Social/Collaboration Betters The World.md": {
       "isCountable": true,
@@ -2894,24 +3002,6 @@
       "modifiedDate": 1715182517590,
       "sizeInBytes": 529
     },
-    "MOCs/Unsorted Notes.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 249,
-      "nonWhitespaceCharacterCount": 205,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714725519438,
-      "modifiedDate": 1716465356560,
-      "sizeInBytes": 354
-    },
     "MOCs/Test": {
       "isCountable": true,
       "isDirectory": false,
@@ -2929,6 +3019,24 @@
       "createdDate": 1715080238241,
       "modifiedDate": 1715083626157,
       "sizeInBytes": 151
+    },
+    "MOCs/Unsorted Notes.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 32,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 249,
+      "nonWhitespaceCharacterCount": 205,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714725519438,
+      "modifiedDate": 1716465356560,
+      "sizeInBytes": 354
     },
     "MOCs/Task Management.md": {
       "isCountable": true,
@@ -2948,24 +3056,6 @@
       "modifiedDate": 1716567520575,
       "sizeInBytes": 625
     },
-    "MOCs/Review.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 64,
-      "nonWhitespaceCharacterCount": 52,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714326857025,
-      "modifiedDate": 1714829320430,
-      "sizeInBytes": 120
-    },
     "MOCs/Software Engineering Patterns.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2983,6 +3073,24 @@
       "createdDate": 1714643452187,
       "modifiedDate": 1716465021105,
       "sizeInBytes": 256
+    },
+    "MOCs/Review.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 52,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714326857025,
+      "modifiedDate": 1714829320430,
+      "sizeInBytes": 120
     },
     "MOCs/Learn Reference.md": {
       "isCountable": true,
@@ -3109,6 +3217,42 @@
       "createdDate": 1714151354139,
       "modifiedDate": 1714829365411,
       "sizeInBytes": 200
+    },
+    "Excalidraw/Drawing 2024-05-24 00.48.03.excalidraw.md": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1716504483103,
+      "modifiedDate": 1716505020255,
+      "sizeInBytes": 4617
+    },
+    "daily/2024-05-26.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 273,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716718809150,
+      "modifiedDate": 1716718809822,
+      "sizeInBytes": 408
     },
     "daily/2024-05-24.md": {
       "isCountable": true,
@@ -3470,24 +3614,6 @@
       "modifiedDate": 1714841940295,
       "sizeInBytes": 408
     },
-    "daily/2024-05-03.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 35,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 318,
-      "nonWhitespaceCharacterCount": 273,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714717788624,
-      "modifiedDate": 1714841634291,
-      "sizeInBytes": 409
-    },
     "daily/2024-05-02.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3504,6 +3630,24 @@
       "aliases": null,
       "createdDate": 1714633005557,
       "modifiedDate": 1715077334470,
+      "sizeInBytes": 409
+    },
+    "daily/2024-05-03.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 318,
+      "nonWhitespaceCharacterCount": 273,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714717788624,
+      "modifiedDate": 1714841634291,
       "sizeInBytes": 409
     },
     "daily/2024-05-01.md": {
@@ -3524,24 +3668,6 @@
       "modifiedDate": 1714841693708,
       "sizeInBytes": 408
     },
-    "Excalidraw/Drawing 2024-05-24 00.48.03.excalidraw.md": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1716504483103,
-      "modifiedDate": 1716505020255,
-      "sizeInBytes": 4617
-    },
     "Content/Versioning in an Event Sourced System.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3560,24 +3686,6 @@
       "modifiedDate": 1715185269511,
       "sizeInBytes": 525
     },
-    "Content/What you can learn from an open source project with 300 million downloads.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 12286,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 40.95333333333333,
-      "characterCount": 73652,
-      "nonWhitespaceCharacterCount": 58687,
-      "readingTimeInMinutes": 46.362264150943396,
-      "linkCount": 33,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715965323194,
-      "modifiedDate": 1715965323195,
-      "sizeInBytes": 73937
-    },
     "Content/Use Artificial Intelligence to Classify Space Rocks Learn with Dr G.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3595,6 +3703,24 @@
       "createdDate": 1715340012993,
       "modifiedDate": 1715340063504,
       "sizeInBytes": 1129
+    },
+    "Content/What you can learn from an open source project with 300 million downloads.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12286,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 40.95333333333333,
+      "characterCount": 73652,
+      "nonWhitespaceCharacterCount": 58687,
+      "readingTimeInMinutes": 46.362264150943396,
+      "linkCount": 33,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715965323194,
+      "modifiedDate": 1715965323195,
+      "sizeInBytes": 73937
     },
     "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md": {
       "isCountable": true,
@@ -3632,24 +3758,6 @@
       "modifiedDate": 1715322078155,
       "sizeInBytes": 44487
     },
-    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8681,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 28.936666666666667,
-      "characterCount": 48197,
-      "nonWhitespaceCharacterCount": 39055,
-      "readingTimeInMinutes": 32.758490566037736,
-      "linkCount": 33,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1714849052508,
-      "modifiedDate": 1714983196398,
-      "sizeInBytes": 48552
-    },
     "Content/Getting Started with Event Sourcing in .NET.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3667,6 +3775,24 @@
       "createdDate": 1716215480933,
       "modifiedDate": 1716567540814,
       "sizeInBytes": 46214
+    },
+    "Content/Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Johnny Hooyberghs.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8681,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 28.936666666666667,
+      "characterCount": 48197,
+      "nonWhitespaceCharacterCount": 39055,
+      "readingTimeInMinutes": 32.758490566037736,
+      "linkCount": 33,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1714849052508,
+      "modifiedDate": 1714983196398,
+      "sizeInBytes": 48552
     },
     "Content/Generating Fullstack Project Ideas with FSharp.md": {
       "isCountable": true,
@@ -3686,24 +3812,6 @@
       "modifiedDate": 1715028081701,
       "sizeInBytes": 1035
     },
-    "Content/Event Storming in Practice.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715406054312,
-      "modifiedDate": 1715406110628,
-      "sizeInBytes": 533
-    },
     "Content/From IL Weaving to Source Generators, the Realm story.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3721,6 +3829,24 @@
       "createdDate": 1714993913187,
       "modifiedDate": 1715022323985,
       "sizeInBytes": 42858
+    },
+    "Content/Event Storming in Practice.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715406054312,
+      "modifiedDate": 1715406110628,
+      "sizeInBytes": 533
     },
     "Content/Easy, Database Agnostic NET Event Sourcing and CQRS with Akka.NET.md": {
       "isCountable": true,
@@ -3776,6 +3902,24 @@
       "modifiedDate": 1716567548975,
       "sizeInBytes": 81781
     },
+    "Content/Canonical Modeling - Best Practice Message Modeling for Data Integration.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7522,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 25.073333333333334,
+      "characterCount": 47118,
+      "nonWhitespaceCharacterCount": 38225,
+      "readingTimeInMinutes": 28.38490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716629904442,
+      "modifiedDate": 1716633582115,
+      "sizeInBytes": 47400
+    },
     "Content/Continuous improver.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3820,33 +3964,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 10.163333333333334,
-      "characterCount": 20929,
-      "nonWhitespaceCharacterCount": 17049,
+      "characterCount": 20937,
+      "nonWhitespaceCharacterCount": 17057,
       "readingTimeInMinutes": 11.50566037735849,
-      "linkCount": 5,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715266088839,
-      "modifiedDate": 1716448820698,
-      "sizeInBytes": 21206
-    },
-    "Content/AI Code Review Action.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 282,
-      "nonWhitespaceCharacterCount": 193,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715003030310,
-      "modifiedDate": 1715022609405,
-      "sizeInBytes": 639
+      "modifiedDate": 1716823782650,
+      "sizeInBytes": 21214
     },
     "Concepts/Zero Trust.md": {
       "isCountable": true,
@@ -3922,24 +4048,6 @@
       "modifiedDate": 1715265063724,
       "sizeInBytes": 490
     },
-    "Concepts/Web Account Manager.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 250,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8333333333333334,
-      "characterCount": 1742,
-      "nonWhitespaceCharacterCount": 1461,
-      "readingTimeInMinutes": 0.9433962264150944,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714668016988,
-      "modifiedDate": 1714836119169,
-      "sizeInBytes": 2102
-    },
     "Concepts/WebAssembly System Interface.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3959,6 +4067,24 @@
       "createdDate": 1715264972148,
       "modifiedDate": 1715265098766,
       "sizeInBytes": 648
+    },
+    "Concepts/Web Account Manager.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 250,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8333333333333334,
+      "characterCount": 1742,
+      "nonWhitespaceCharacterCount": 1461,
+      "readingTimeInMinutes": 0.9433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714668016988,
+      "modifiedDate": 1714836119169,
+      "sizeInBytes": 2102
     },
     "Concepts/virtual network integration.md": {
       "isCountable": true,
@@ -4288,24 +4414,6 @@
       "modifiedDate": 1715409183321,
       "sizeInBytes": 478
     },
-    "Concepts/Swagger.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 37,
-      "nonWhitespaceCharacterCount": 32,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714664005554,
-      "modifiedDate": 1714836119198,
-      "sizeInBytes": 173
-    },
     "Concepts/System Initiative.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4323,6 +4431,24 @@
       "createdDate": 1715105452583,
       "modifiedDate": 1715410692327,
       "sizeInBytes": 1313
+    },
+    "Concepts/Swagger.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 32,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714664005554,
+      "modifiedDate": 1714836119198,
+      "sizeInBytes": 173
     },
     "Concepts/supervised learning.md": {
       "isCountable": true,
@@ -4361,6 +4487,24 @@
       "createdDate": 1714658995855,
       "modifiedDate": 1714836119224,
       "sizeInBytes": 236
+    },
+    "Concepts/Start Schema.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716714507347,
+      "modifiedDate": 1716714644235,
+      "sizeInBytes": 698
     },
     "Concepts/SQL server.md": {
       "isCountable": true,
@@ -4438,24 +4582,6 @@
       "modifiedDate": 1714836119289,
       "sizeInBytes": 212
     },
-    "Concepts/snapshots.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715322231597,
-      "modifiedDate": 1715409209133,
-      "sizeInBytes": 475
-    },
     "Concepts/Software As A Service.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4476,6 +4602,42 @@
       "modifiedDate": 1714836119290,
       "sizeInBytes": 235
     },
+    "Concepts/SnowFlake.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716640326091,
+      "modifiedDate": 1716640447949,
+      "sizeInBytes": 782
+    },
+    "Concepts/snapshots.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715322231597,
+      "modifiedDate": 1715409209133,
+      "sizeInBytes": 475
+    },
     "Concepts/slot swapping.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4493,24 +4655,6 @@
       "createdDate": 1714888598271,
       "modifiedDate": 1714943187619,
       "sizeInBytes": 5264
-    },
-    "Concepts/Sidecar Container.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 250,
-      "nonWhitespaceCharacterCount": 169,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714863519232,
-      "modifiedDate": 1714944695717,
-      "sizeInBytes": 582
     },
     "Concepts/Shared Access Signature.md": {
       "isCountable": true,
@@ -4531,6 +4675,24 @@
       "createdDate": 1714680009302,
       "modifiedDate": 1714836119290,
       "sizeInBytes": 2035
+    },
+    "Concepts/Sidecar Container.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 250,
+      "nonWhitespaceCharacterCount": 169,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714863519232,
+      "modifiedDate": 1714944695717,
+      "sizeInBytes": 582
     },
     "Concepts/sharded databases.md": {
       "isCountable": true,
@@ -4588,26 +4750,6 @@
       "modifiedDate": 1715965323193,
       "sizeInBytes": 819
     },
-    "Concepts/Service level objectives.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 36,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "SLO"
-      ],
-      "createdDate": 1714668016974,
-      "modifiedDate": 1714836119290,
-      "sizeInBytes": 366
-    },
     "Concepts/Service Level Agreements.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4628,23 +4770,25 @@
       "modifiedDate": 1714836119290,
       "sizeInBytes": 628
     },
-    "Concepts/service endpoints.md": {
+    "Concepts/Service level objectives.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 45,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15,
-      "characterCount": 555,
-      "nonWhitespaceCharacterCount": 433,
-      "readingTimeInMinutes": 0.16981132075471697,
-      "linkCount": 2,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 36,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 1,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715881510060,
-      "modifiedDate": 1715881510061,
-      "sizeInBytes": 829
+      "aliases": [
+        "SLO"
+      ],
+      "createdDate": 1714668016974,
+      "modifiedDate": 1714836119290,
+      "sizeInBytes": 366
     },
     "Concepts/Service Discovery.md": {
       "isCountable": true,
@@ -4663,6 +4807,24 @@
       "createdDate": 1714983200441,
       "modifiedDate": 1714983247200,
       "sizeInBytes": 565
+    },
+    "Concepts/service endpoints.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 555,
+      "nonWhitespaceCharacterCount": 433,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715881510060,
+      "modifiedDate": 1715881510061,
+      "sizeInBytes": 829
     },
     "Concepts/Serverless.md": {
       "isCountable": true,
@@ -4864,6 +5026,24 @@
       "modifiedDate": 1715069575641,
       "sizeInBytes": 565
     },
+    "Concepts/rematerializing.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 345,
+      "nonWhitespaceCharacterCount": 251,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715155703666,
+      "modifiedDate": 1715186649396,
+      "sizeInBytes": 508
+    },
     "Concepts/Remote Procedure Call.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4884,23 +5064,23 @@
       "modifiedDate": 1714977383336,
       "sizeInBytes": 489
     },
-    "Concepts/rematerializing.md": {
+    "Concepts/Reliable web app pattern.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 12,
+      "wordCount": 76,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 345,
-      "nonWhitespaceCharacterCount": 251,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 1,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 1576,
+      "nonWhitespaceCharacterCount": 1046,
+      "readingTimeInMinutes": 0.28679245283018867,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715155703666,
-      "modifiedDate": 1715186649396,
-      "sizeInBytes": 508
+      "createdDate": 1714405627456,
+      "modifiedDate": 1714836119361,
+      "sizeInBytes": 1863
     },
     "Concepts/Reliability.md": {
       "isCountable": true,
@@ -4920,23 +5100,23 @@
       "modifiedDate": 1715069537470,
       "sizeInBytes": 635
     },
-    "Concepts/Reliable web app pattern.md": {
+    "Concepts/reinforcement learning.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 76,
+      "wordCount": 107,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 1576,
-      "nonWhitespaceCharacterCount": 1046,
-      "readingTimeInMinutes": 0.28679245283018867,
-      "linkCount": 4,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 1002,
+      "nonWhitespaceCharacterCount": 806,
+      "readingTimeInMinutes": 0.4037735849056604,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1714405627456,
-      "modifiedDate": 1714836119361,
-      "sizeInBytes": 1863
+      "createdDate": 1715330723707,
+      "modifiedDate": 1715409528806,
+      "sizeInBytes": 1173
     },
     "Concepts/Reliability design patterns.md": {
       "isCountable": true,
@@ -4955,24 +5135,6 @@
       "createdDate": 1714643217085,
       "modifiedDate": 1714836119361,
       "sizeInBytes": 2622
-    },
-    "Concepts/reinforcement learning.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 107,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3566666666666667,
-      "characterCount": 1002,
-      "nonWhitespaceCharacterCount": 806,
-      "readingTimeInMinutes": 0.4037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715330723707,
-      "modifiedDate": 1715409528806,
-      "sizeInBytes": 1173
     },
     "Concepts/Regular Expression.md": {
       "isCountable": true,
@@ -5012,24 +5174,6 @@
       "modifiedDate": 1715184355102,
       "sizeInBytes": 787
     },
-    "Concepts/Redis.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 41,
-      "nonWhitespaceCharacterCount": 34,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714666048078,
-      "modifiedDate": 1714836119361,
-      "sizeInBytes": 351
-    },
     "Concepts/reflection based serialization.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5047,6 +5191,24 @@
       "createdDate": 1715322176193,
       "modifiedDate": 1715407318867,
       "sizeInBytes": 475
+    },
+    "Concepts/Redis.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714666048078,
+      "modifiedDate": 1714836119361,
+      "sizeInBytes": 351
     },
     "Concepts/redis clustering.md": {
       "isCountable": true,
@@ -5120,24 +5282,6 @@
       "modifiedDate": 1715185660477,
       "sizeInBytes": 489
     },
-    "Concepts/Qodana.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715286762442,
-      "modifiedDate": 1715409516026,
-      "sizeInBytes": 630
-    },
     "Concepts/QRCode.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5155,6 +5299,24 @@
       "createdDate": 1715205184037,
       "modifiedDate": 1715205185374,
       "sizeInBytes": 475
+    },
+    "Concepts/Qodana.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715286762442,
+      "modifiedDate": 1715409516026,
+      "sizeInBytes": 630
     },
     "Concepts/Pull Requests.md": {
       "isCountable": true,
@@ -5214,24 +5376,6 @@
       "modifiedDate": 1714985415167,
       "sizeInBytes": 527
     },
-    "Concepts/Protobuf.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714977508668,
-      "modifiedDate": 1714977519771,
-      "sizeInBytes": 475
-    },
     "Concepts/public certificate.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5252,6 +5396,24 @@
       "createdDate": 1714896292911,
       "modifiedDate": 1714993065071,
       "sizeInBytes": 926
+    },
+    "Concepts/Protobuf.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714977508668,
+      "modifiedDate": 1714977519771,
+      "sizeInBytes": 475
     },
     "Concepts/Prompt Engineering.md": {
       "isCountable": true,
@@ -5417,6 +5579,24 @@
       "modifiedDate": 1714836119378,
       "sizeInBytes": 201
     },
+    "Concepts/Policy Definition.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714657042212,
+      "modifiedDate": 1714836119378,
+      "sizeInBytes": 346
+    },
     "Concepts/Policy Initiative.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5454,24 +5634,6 @@
       "createdDate": 1714668016960,
       "modifiedDate": 1714836119399,
       "sizeInBytes": 491
-    },
-    "Concepts/Policy Definition.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714657042212,
-      "modifiedDate": 1714836119378,
-      "sizeInBytes": 346
     },
     "Concepts/Platform As A Service.md": {
       "isCountable": true,
@@ -5661,24 +5823,6 @@
       "modifiedDate": 1714984816563,
       "sizeInBytes": 2418
     },
-    "Concepts/object-oriented database.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714994296759,
-      "modifiedDate": 1715022188844,
-      "sizeInBytes": 477
-    },
     "Concepts/Office 365.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5696,6 +5840,24 @@
       "createdDate": 1715091250004,
       "modifiedDate": 1715410327934,
       "sizeInBytes": 487
+    },
+    "Concepts/object-oriented database.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714994296759,
+      "modifiedDate": 1715022188844,
+      "sizeInBytes": 477
     },
     "Concepts/Object Identifiers.md": {
       "isCountable": true,
@@ -5863,24 +6025,6 @@
       "modifiedDate": 1716461556101,
       "sizeInBytes": 726
     },
-    "Concepts/Model View Viewmodel.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714994597613,
-      "modifiedDate": 1715410715402,
-      "sizeInBytes": 475
-    },
     "Concepts/Modular Monolith Architecture.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5898,6 +6042,24 @@
       "createdDate": 1715266347575,
       "modifiedDate": 1715266379089,
       "sizeInBytes": 477
+    },
+    "Concepts/Model View Viewmodel.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714994597613,
+      "modifiedDate": 1715410715402,
+      "sizeInBytes": 475
     },
     "Concepts/Mission-critical workloads.md": {
       "isCountable": true,
@@ -6155,6 +6317,45 @@
       "modifiedDate": 1715186711264,
       "sizeInBytes": 865
     },
+    "Concepts/master record.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "golden record",
+        "best version of the truth"
+      ],
+      "createdDate": 1716571077169,
+      "modifiedDate": 1716571145155,
+      "sizeInBytes": 595
+    },
+    "Concepts/Master data Management.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 1431,
+      "nonWhitespaceCharacterCount": 1214,
+      "readingTimeInMinutes": 0.4,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716570833281,
+      "modifiedDate": 1716578344343,
+      "sizeInBytes": 1899
+    },
     "Concepts/man page.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6227,24 +6428,6 @@
       "modifiedDate": 1716143951869,
       "sizeInBytes": 581
     },
-    "Concepts/Lead time for changes.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715183460725,
-      "modifiedDate": 1715185408974,
-      "sizeInBytes": 512
-    },
     "Concepts/Locality of Behaviour.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6283,6 +6466,24 @@
       "createdDate": 1714983121976,
       "modifiedDate": 1714984781872,
       "sizeInBytes": 946
+    },
+    "Concepts/Lead time for changes.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715183460725,
+      "modifiedDate": 1715185408974,
+      "sizeInBytes": 512
     },
     "Concepts/Large Language Models.md": {
       "isCountable": true,
@@ -6376,26 +6577,6 @@
       "modifiedDate": 1714836119407,
       "sizeInBytes": 665
     },
-    "Concepts/Key Usage Extensions.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "KUE"
-      ],
-      "createdDate": 1714896532713,
-      "modifiedDate": 1714943578093,
-      "sizeInBytes": 774
-    },
     "Concepts/Just In Time.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6416,7 +6597,7 @@
       "modifiedDate": 1715410524658,
       "sizeInBytes": 483
     },
-    "Concepts/Jupyter notebooks.md": {
+    "Concepts/Key Usage Extensions.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -6429,10 +6610,12 @@
       "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715343944586,
-      "modifiedDate": 1715407541019,
-      "sizeInBytes": 475
+      "aliases": [
+        "KUE"
+      ],
+      "createdDate": 1714896532713,
+      "modifiedDate": 1714943578093,
+      "sizeInBytes": 774
     },
     "Concepts/Internet Information Service.md": {
       "isCountable": true,
@@ -6472,6 +6655,24 @@
       "modifiedDate": 1715410745036,
       "sizeInBytes": 721
     },
+    "Concepts/Jupyter notebooks.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715343944586,
+      "modifiedDate": 1715407541019,
+      "sizeInBytes": 475
+    },
     "Concepts/inherently reversible architectural design.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6507,24 +6708,6 @@
       "createdDate": 1715322128445,
       "modifiedDate": 1715322141947,
       "sizeInBytes": 481
-    },
-    "Concepts/Ingress filtering.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714859557173,
-      "modifiedDate": 1714982252929,
-      "sizeInBytes": 662
     },
     "Concepts/Infrastructure As Code.md": {
       "isCountable": true,
@@ -6566,23 +6749,23 @@
       "modifiedDate": 1714836119407,
       "sizeInBytes": 311
     },
-    "Concepts/Immutable.md": {
+    "Concepts/Ingress filtering.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 43,
-      "nonWhitespaceCharacterCount": 37,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 1,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1714647613978,
-      "modifiedDate": 1714836119407,
-      "sizeInBytes": 267
+      "createdDate": 1714859557173,
+      "modifiedDate": 1714982252929,
+      "sizeInBytes": 662
     },
     "Concepts/inbound and outbound traffic to your web app.md": {
       "isCountable": true,
@@ -6601,6 +6784,24 @@
       "createdDate": 1714886911825,
       "modifiedDate": 1714943600178,
       "sizeInBytes": 474
+    },
+    "Concepts/Immutable.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 37,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714647613978,
+      "modifiedDate": 1714836119407,
+      "sizeInBytes": 267
     },
     "Concepts/Hypertext Transfer Protocol.md": {
       "isCountable": true,
@@ -6640,6 +6841,24 @@
       "modifiedDate": 1714836119417,
       "sizeInBytes": 312
     },
+    "Concepts/Hybrid Connections.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 354,
+      "nonWhitespaceCharacterCount": 259,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714890041063,
+      "modifiedDate": 1714978331145,
+      "sizeInBytes": 722
+    },
     "Concepts/Hyper Converged Infrastructure.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6659,24 +6878,6 @@
       "createdDate": 1714653646605,
       "modifiedDate": 1714836119417,
       "sizeInBytes": 288
-    },
-    "Concepts/Hybrid Connections.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 354,
-      "nonWhitespaceCharacterCount": 259,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714890041063,
-      "modifiedDate": 1714978331145,
-      "sizeInBytes": 722
     },
     "Concepts/HTTP Strict Transport Security.md": {
       "isCountable": true,
@@ -6958,24 +7159,6 @@
       "modifiedDate": 1714891087923,
       "sizeInBytes": 687
     },
-    "Concepts/flapping.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715075920397,
-      "modifiedDate": 1715076053265,
-      "sizeInBytes": 564
-    },
     "Concepts/Formal Language.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7011,6 +7194,24 @@
       "createdDate": 1714665627923,
       "modifiedDate": 1714836119420,
       "sizeInBytes": 315
+    },
+    "Concepts/flapping.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715075920397,
+      "modifiedDate": 1715076053265,
+      "sizeInBytes": 564
     },
     "Concepts/File Transfer Protocol.md": {
       "isCountable": true,
@@ -7364,24 +7565,6 @@
       "modifiedDate": 1715416538540,
       "sizeInBytes": 722
     },
-    "Concepts/Envoy.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 336,
-      "nonWhitespaceCharacterCount": 243,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714859186413,
-      "modifiedDate": 1714983121731,
-      "sizeInBytes": 587
-    },
     "Concepts/Ephemeral.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7400,6 +7583,24 @@
       "modifiedDate": 1714836119420,
       "sizeInBytes": 257
     },
+    "Concepts/Envoy.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 243,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714859186413,
+      "modifiedDate": 1714983121731,
+      "sizeInBytes": 587
+    },
     "Concepts/entity functions.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7417,6 +7618,24 @@
       "createdDate": 1715096056000,
       "modifiedDate": 1715098463663,
       "sizeInBytes": 702
+    },
+    "Concepts/Enterworks.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 247,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716640837440,
+      "modifiedDate": 1716640913721,
+      "sizeInBytes": 791
     },
     "Concepts/encrypted-at-rest.md": {
       "isCountable": true,
@@ -7490,6 +7709,24 @@
       "modifiedDate": 1715096199703,
       "sizeInBytes": 498
     },
+    "Concepts/durability.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715322198789,
+      "modifiedDate": 1715406525590,
+      "sizeInBytes": 484
+    },
     "Concepts/Duende.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7509,24 +7746,6 @@
       "createdDate": 1714842629264,
       "modifiedDate": 1714982574089,
       "sizeInBytes": 616
-    },
-    "Concepts/durability.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715322198789,
-      "modifiedDate": 1715406525590,
-      "sizeInBytes": 484
     },
     "Concepts/dovetailing.md": {
       "isCountable": true,
@@ -7824,6 +8043,26 @@
       "modifiedDate": 1715093390811,
       "sizeInBytes": 489
     },
+    "Concepts/Data collection rules.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 44,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 367,
+      "nonWhitespaceCharacterCount": 321,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "DCR"
+      ],
+      "createdDate": 1714680009292,
+      "modifiedDate": 1714836119425,
+      "sizeInBytes": 732
+    },
     "Concepts/data consistency over availability.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7880,26 +8119,6 @@
       "modifiedDate": 1714978087987,
       "sizeInBytes": 726
     },
-    "Concepts/Data collection rules.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 44,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 367,
-      "nonWhitespaceCharacterCount": 321,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "DCR"
-      ],
-      "createdDate": 1714680009292,
-      "modifiedDate": 1714836119425,
-      "sizeInBytes": 732
-    },
     "Concepts/cryptography.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -7937,24 +8156,6 @@
       "createdDate": 1714890192485,
       "modifiedDate": 1714976567144,
       "sizeInBytes": 490
-    },
-    "Concepts/Converged Infrastructure.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 50,
-      "nonWhitespaceCharacterCount": 43,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714653607017,
-      "modifiedDate": 1714836119425,
-      "sizeInBytes": 270
     },
     "Concepts/cqrs projections.md": {
       "isCountable": true,
@@ -8010,6 +8211,24 @@
       "modifiedDate": 1714977567401,
       "sizeInBytes": 475
     },
+    "Concepts/Converged Infrastructure.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 43,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714653607017,
+      "modifiedDate": 1714836119425,
+      "sizeInBytes": 270
+    },
     "Concepts/continuous refinement.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8028,6 +8247,24 @@
       "modifiedDate": 1715408736010,
       "sizeInBytes": 478
     },
+    "Concepts/Continuous Deployment.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 86,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714662868918,
+      "modifiedDate": 1714836119427,
+      "sizeInBytes": 195
+    },
     "Concepts/Continuous Integration.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8045,6 +8282,24 @@
       "createdDate": 1714662748793,
       "modifiedDate": 1714836119425,
       "sizeInBytes": 453
+    },
+    "Concepts/Containers.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 147,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49,
+      "characterCount": 1103,
+      "nonWhitespaceCharacterCount": 860,
+      "readingTimeInMinutes": 0.5547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714851945890,
+      "modifiedDate": 1714943741287,
+      "sizeInBytes": 1264
     },
     "Concepts/Context-Free Grammars.md": {
       "isCountable": true,
@@ -8066,42 +8321,6 @@
       "modifiedDate": 1714836119427,
       "sizeInBytes": 417
     },
-    "Concepts/Continuous Deployment.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 100,
-      "nonWhitespaceCharacterCount": 86,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714662868918,
-      "modifiedDate": 1714836119427,
-      "sizeInBytes": 195
-    },
-    "Concepts/Containers.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 147,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49,
-      "characterCount": 1103,
-      "nonWhitespaceCharacterCount": 860,
-      "readingTimeInMinutes": 0.5547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714851945890,
-      "modifiedDate": 1714943741287,
-      "sizeInBytes": 1264
-    },
     "Concepts/command query responsibility segregation.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8121,6 +8340,24 @@
       "createdDate": 1715155543214,
       "modifiedDate": 1715185358465,
       "sizeInBytes": 542
+    },
+    "Concepts/Columnar Database.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 1167,
+      "nonWhitespaceCharacterCount": 1003,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716714235901,
+      "modifiedDate": 1716714654147,
+      "sizeInBytes": 1538
     },
     "Concepts/cold start.md": {
       "isCountable": true,
@@ -8362,24 +8599,6 @@
       "modifiedDate": 1714977130038,
       "sizeInBytes": 481
     },
-    "Concepts/Carriage Return Line Feed.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714981584490,
-      "modifiedDate": 1714981598490,
-      "sizeInBytes": 475
-    },
     "Concepts/CAP theorem.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8399,6 +8618,24 @@
       "createdDate": 1715184622502,
       "modifiedDate": 1715184675075,
       "sizeInBytes": 608
+    },
+    "Concepts/Carriage Return Line Feed.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714981584490,
+      "modifiedDate": 1714981598490,
+      "sizeInBytes": 475
     },
     "Concepts/Canonical Data Model.md": {
       "isCountable": true,
@@ -8514,24 +8751,6 @@
       "modifiedDate": 1715285610974,
       "sizeInBytes": 483
     },
-    "Concepts/Azure.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715108291909,
-      "modifiedDate": 1715108304631,
-      "sizeInBytes": 486
-    },
     "Concepts/Backus–Naur Form Grammar.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8552,23 +8771,23 @@
       "modifiedDate": 1714836119438,
       "sizeInBytes": 343
     },
-    "Concepts/Azure Web App.md": {
+    "Concepts/Azure.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 27,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 174,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 5,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1714680009289,
-      "modifiedDate": 1715067634600,
-      "sizeInBytes": 398
+      "createdDate": 1715108291909,
+      "modifiedDate": 1715108304631,
+      "sizeInBytes": 486
     },
     "Concepts/Azure web apps on Linux.md": {
       "isCountable": true,
@@ -8587,6 +8806,24 @@
       "createdDate": 1714891883361,
       "modifiedDate": 1714990550185,
       "sizeInBytes": 570
+    },
+    "Concepts/Azure Web App.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 174,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714680009289,
+      "modifiedDate": 1715067634600,
+      "sizeInBytes": 398
     },
     "Concepts/Azure Web App for Containers.md": {
       "isCountable": true,
@@ -9166,6 +9403,24 @@
       "modifiedDate": 1714836119441,
       "sizeInBytes": 417
     },
+    "Concepts/Azure Monitor cost and usage.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714668016916,
+      "modifiedDate": 1714836119443,
+      "sizeInBytes": 303
+    },
     "Concepts/Azure Monitor agent.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -9185,24 +9440,6 @@
       "createdDate": 1714680009278,
       "modifiedDate": 1714836119443,
       "sizeInBytes": 539
-    },
-    "Concepts/Azure Monitor cost and usage.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714668016916,
-      "modifiedDate": 1714836119443,
-      "sizeInBytes": 303
     },
     "Concepts/Azure Management groups.md": {
       "isCountable": true,
@@ -9316,24 +9553,6 @@
       "modifiedDate": 1714990628251,
       "sizeInBytes": 544
     },
-    "Concepts/Azure Functions.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1178,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.9266666666666667,
-      "characterCount": 16356,
-      "nonWhitespaceCharacterCount": 9910,
-      "readingTimeInMinutes": 4.445283018867925,
-      "linkCount": 37,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1715881510057,
-      "modifiedDate": 1716503589121,
-      "sizeInBytes": 16769
-    },
     "Concepts/Azure Key Vault.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -9351,6 +9570,24 @@
       "createdDate": 1714680009275,
       "modifiedDate": 1714836119446,
       "sizeInBytes": 1248
+    },
+    "Concepts/Azure Functions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1178,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9266666666666667,
+      "characterCount": 16356,
+      "nonWhitespaceCharacterCount": 9910,
+      "readingTimeInMinutes": 4.445283018867925,
+      "linkCount": 37,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1715881510057,
+      "modifiedDate": 1716503589121,
+      "sizeInBytes": 16769
     },
     "Concepts/Azure Functions Premium plan.md": {
       "isCountable": true,
@@ -9408,24 +9645,6 @@
       "modifiedDate": 1715881510056,
       "sizeInBytes": 1674
     },
-    "Concepts/Azure Functions Deployement.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 130,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 3108,
-      "nonWhitespaceCharacterCount": 2890,
-      "readingTimeInMinutes": 0.49056603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714773948468,
-      "modifiedDate": 1714836119446,
-      "sizeInBytes": 3552
-    },
     "Concepts/Azure Functions Durable orchestrations.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -9443,6 +9662,24 @@
       "createdDate": 1715095852340,
       "modifiedDate": 1715095998192,
       "sizeInBytes": 1384
+    },
+    "Concepts/Azure Functions Deployement.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 130,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 3108,
+      "nonWhitespaceCharacterCount": 2890,
+      "readingTimeInMinutes": 0.49056603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714773948468,
+      "modifiedDate": 1714836119446,
+      "sizeInBytes": 3552
     },
     "Concepts/Azure Functions Consumption plan hosting.md": {
       "isCountable": true,
@@ -9516,24 +9753,6 @@
       "modifiedDate": 1715438761707,
       "sizeInBytes": 6397
     },
-    "Concepts/Azure FrontDoor.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 102,
-      "nonWhitespaceCharacterCount": 101,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714668016904,
-      "modifiedDate": 1715437662941,
-      "sizeInBytes": 524
-    },
     "Concepts/Azure Function App.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -9551,6 +9770,24 @@
       "createdDate": 1715108915971,
       "modifiedDate": 1715186352257,
       "sizeInBytes": 1671
+    },
+    "Concepts/Azure FrontDoor.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 102,
+      "nonWhitespaceCharacterCount": 101,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714668016904,
+      "modifiedDate": 1715437662941,
+      "sizeInBytes": 524
     },
     "Concepts/Azure Front Door Point of Presence locations.md": {
       "isCountable": true,
@@ -9828,24 +10065,6 @@
       "modifiedDate": 1714896064726,
       "sizeInBytes": 197
     },
-    "Concepts/Azure CLI Extentions.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 22,
-      "nonWhitespaceCharacterCount": 18,
-      "readingTimeInMinutes": 0.01509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714668016878,
-      "modifiedDate": 1714836119447,
-      "sizeInBytes": 213
-    },
     "Concepts/Azure Chaos Studio.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -9863,6 +10082,24 @@
       "createdDate": 1714668016895,
       "modifiedDate": 1714836119447,
       "sizeInBytes": 392
+    },
+    "Concepts/Azure CLI Extentions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 18,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714668016878,
+      "modifiedDate": 1714836119447,
+      "sizeInBytes": 213
     },
     "Concepts/Azure Cache for Redis.md": {
       "isCountable": true,
@@ -10138,24 +10375,6 @@
       "modifiedDate": 1714943953884,
       "sizeInBytes": 2308
     },
-    "Concepts/Azure App Service Environment.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 93,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.31,
-      "characterCount": 767,
-      "nonWhitespaceCharacterCount": 615,
-      "readingTimeInMinutes": 0.35094339622641507,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714680009260,
-      "modifiedDate": 1715072271853,
-      "sizeInBytes": 1145
-    },
     "Concepts/Azure App Service Certificates.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -10173,6 +10392,24 @@
       "createdDate": 1714896056698,
       "modifiedDate": 1714990677310,
       "sizeInBytes": 4132
+    },
+    "Concepts/Azure App Service Environment.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 93,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31,
+      "characterCount": 767,
+      "nonWhitespaceCharacterCount": 615,
+      "readingTimeInMinutes": 0.35094339622641507,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714680009260,
+      "modifiedDate": 1715072271853,
+      "sizeInBytes": 1145
     },
     "Concepts/Azure App Service Auto swap.md": {
       "isCountable": true,
@@ -10494,24 +10731,6 @@
       "modifiedDate": 1714992267486,
       "sizeInBytes": 492
     },
-    "Concepts/App Service Auto Scaling.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1518,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.06,
-      "characterCount": 10415,
-      "nonWhitespaceCharacterCount": 8644,
-      "readingTimeInMinutes": 5.728301886792453,
-      "linkCount": 25,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714753810638,
-      "modifiedDate": 1715076766563,
-      "sizeInBytes": 10830
-    },
     "Concepts/App Service certificate.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -10529,6 +10748,24 @@
       "createdDate": 1714990679464,
       "modifiedDate": 1714992247029,
       "sizeInBytes": 492
+    },
+    "Concepts/App Service Auto Scaling.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1518,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.06,
+      "characterCount": 10415,
+      "nonWhitespaceCharacterCount": 8644,
+      "readingTimeInMinutes": 5.728301886792453,
+      "linkCount": 25,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714753810638,
+      "modifiedDate": 1715076766563,
+      "sizeInBytes": 10830
     },
     "Concepts/API Portal.md": {
       "isCountable": true,
@@ -10602,6 +10839,24 @@
       "modifiedDate": 1715187690416,
       "sizeInBytes": 197
     },
+    "Concepts/API Best Practices.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 124,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 1528,
+      "nonWhitespaceCharacterCount": 1249,
+      "readingTimeInMinutes": 0.4679245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716567838140,
+      "modifiedDate": 1716568575808,
+      "sizeInBytes": 1711
+    },
     "Concepts/allocation free code.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -10619,6 +10874,24 @@
       "createdDate": 1715322103011,
       "modifiedDate": 1715322115079,
       "sizeInBytes": 475
+    },
+    "Concepts/AI Code Review Action.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 282,
+      "nonWhitespaceCharacterCount": 193,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715003030310,
+      "modifiedDate": 1716712811357,
+      "sizeInBytes": 632
     },
     "Concepts/ahead of time.md": {
       "isCountable": true,
@@ -11180,24 +11453,6 @@
       "modifiedDate": 1715406441355,
       "sizeInBytes": 475
     },
-    "Code/Roslynator.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 242,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715285102262,
-      "modifiedDate": 1715406398066,
-      "sizeInBytes": 585
-    },
     "Code/Roslyn.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11215,6 +11470,24 @@
       "createdDate": 1715965323183,
       "modifiedDate": 1715965323183,
       "sizeInBytes": 498
+    },
+    "Code/Roslynator.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 242,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715285102262,
+      "modifiedDate": 1715406398066,
+      "sizeInBytes": 585
     },
     "Code/Realm.md": {
       "isCountable": true,
@@ -11378,24 +11651,6 @@
       "modifiedDate": 1715322057064,
       "sizeInBytes": 475
     },
-    "Code/Pandas.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715343881093,
-      "modifiedDate": 1715344014408,
-      "sizeInBytes": 654
-    },
     "Code/pattern matching in csharp.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11414,7 +11669,7 @@
       "modifiedDate": 1715965323186,
       "sizeInBytes": 987
     },
-    "Code/NumPy.md": {
+    "Code/Pandas.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -11428,9 +11683,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715343733466,
-      "modifiedDate": 1715343989297,
-      "sizeInBytes": 686
+      "createdDate": 1715343881093,
+      "modifiedDate": 1715344014408,
+      "sizeInBytes": 654
     },
     "Code/NunJucks.md": {
       "isCountable": true,
@@ -11449,6 +11704,24 @@
       "createdDate": 1714767751782,
       "modifiedDate": 1714945662714,
       "sizeInBytes": 511
+    },
+    "Code/NumPy.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715343733466,
+      "modifiedDate": 1715343989297,
+      "sizeInBytes": 686
     },
     "Code/nuke.md": {
       "isCountable": true,
@@ -11504,24 +11777,6 @@
       "modifiedDate": 1714976088076,
       "sizeInBytes": 729
     },
-    "Code/Newtonsoft.Json.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715322179212,
-      "modifiedDate": 1715406478609,
-      "sizeInBytes": 475
-    },
     "Code/Next.JS.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11540,6 +11795,24 @@
       "modifiedDate": 1715330420475,
       "sizeInBytes": 577
     },
+    "Code/Newtonsoft.Json.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715322179212,
+      "modifiedDate": 1715406478609,
+      "sizeInBytes": 475
+    },
     "Code/naudio.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11557,6 +11830,24 @@
       "createdDate": 1714974376086,
       "modifiedDate": 1714993466878,
       "sizeInBytes": 583
+    },
+    "Code/MultiResponse.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 564,
+      "nonWhitespaceCharacterCount": 427,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715965323182,
+      "modifiedDate": 1715975031092,
+      "sizeInBytes": 885
     },
     "Code/momentjs.md": {
       "isCountable": true,
@@ -11577,24 +11868,6 @@
       "createdDate": 1714759967062,
       "modifiedDate": 1714977113492,
       "sizeInBytes": 380
-    },
-    "Code/MultiResponse.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 564,
-      "nonWhitespaceCharacterCount": 427,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715965323182,
-      "modifiedDate": 1715975031092,
-      "sizeInBytes": 885
     },
     "Code/MongoDB.md": {
       "isCountable": true,
@@ -11724,24 +11997,6 @@
       "modifiedDate": 1714991715238,
       "sizeInBytes": 462
     },
-    "Code/Maui.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 223,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714994600417,
-      "modifiedDate": 1715022301631,
-      "sizeInBytes": 477
-    },
     "Code/Meziantou.Analyzer.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11760,7 +12015,7 @@
       "modifiedDate": 1715407660505,
       "sizeInBytes": 513
     },
-    "Code/Matplotlib.md": {
+    "Code/Maui.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
@@ -11774,9 +12029,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715343730165,
-      "modifiedDate": 1715406494273,
-      "sizeInBytes": 475
+      "createdDate": 1714994600417,
+      "modifiedDate": 1715022301631,
+      "sizeInBytes": 477
     },
     "Code/MarkDown Mermaid Class Diagram example.md": {
       "isCountable": true,
@@ -11796,6 +12051,24 @@
       "modifiedDate": 1714886342676,
       "sizeInBytes": 640
     },
+    "Code/Matplotlib.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 223,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715343730165,
+      "modifiedDate": 1715406494273,
+      "sizeInBytes": 475
+    },
     "Code/Markdown example sequence diagram.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11813,24 +12086,6 @@
       "createdDate": 1716502792220,
       "modifiedDate": 1716502857017,
       "sizeInBytes": 812
-    },
-    "Code/MakeCode.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 38,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 534,
-      "nonWhitespaceCharacterCount": 413,
-      "readingTimeInMinutes": 0.14339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715348801992,
-      "modifiedDate": 1716055367339,
-      "sizeInBytes": 793
     },
     "Code/Markdown Dataflow mermaid example.md": {
       "isCountable": true,
@@ -11867,6 +12122,24 @@
       "createdDate": 1715965323202,
       "modifiedDate": 1716503867417,
       "sizeInBytes": 656
+    },
+    "Code/MakeCode.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 38,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 534,
+      "nonWhitespaceCharacterCount": 413,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715348801992,
+      "modifiedDate": 1716055367339,
+      "sizeInBytes": 793
     },
     "Code/keyword unsafe.md": {
       "isCountable": true,
@@ -11922,24 +12195,6 @@
       "modifiedDate": 1714976537023,
       "sizeInBytes": 475
     },
-    "Code/Json polymorphism.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 137,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 1777,
-      "nonWhitespaceCharacterCount": 1524,
-      "readingTimeInMinutes": 0.5169811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716280977192,
-      "modifiedDate": 1716281192535,
-      "sizeInBytes": 2048
-    },
     "Code/keyword fixed.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -11957,6 +12212,24 @@
       "createdDate": 1714974576585,
       "modifiedDate": 1714976524409,
       "sizeInBytes": 475
+    },
+    "Code/Json polymorphism.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 1777,
+      "nonWhitespaceCharacterCount": 1524,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716280977192,
+      "modifiedDate": 1716281192535,
+      "sizeInBytes": 2048
     },
     "Code/Jinja.md": {
       "isCountable": true,
@@ -12030,24 +12303,6 @@
       "modifiedDate": 1715022341798,
       "sizeInBytes": 677
     },
-    "Code/Install Package Dependency loop detected for package XXX.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 467,
-      "nonWhitespaceCharacterCount": 354,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715205184035,
-      "modifiedDate": 1715974988888,
-      "sizeInBytes": 632
-    },
     "Code/install-package.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12065,6 +12320,24 @@
       "createdDate": 1715205184036,
       "modifiedDate": 1715205185371,
       "sizeInBytes": 560
+    },
+    "Code/Install Package Dependency loop detected for package XXX.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 467,
+      "nonWhitespaceCharacterCount": 354,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715205184035,
+      "modifiedDate": 1715974988888,
+      "sizeInBytes": 632
     },
     "Code/ILSpy.md": {
       "isCountable": true,
@@ -12299,6 +12572,24 @@
       "createdDate": 1714996811559,
       "modifiedDate": 1715974158739,
       "sizeInBytes": 475
+    },
+    "Code/Elsa.Net.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 338,
+      "nonWhitespaceCharacterCount": 240,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716567134540,
+      "modifiedDate": 1716567277793,
+      "sizeInBytes": 746
     },
     "Code/Eleventy.md": {
       "isCountable": true,
@@ -12538,24 +12829,6 @@
       "modifiedDate": 1715284176475,
       "sizeInBytes": 519
     },
-    "Code/Create a Csharp function in Azure using Visual Studio Code.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 416,
-      "nonWhitespaceCharacterCount": 322,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715110677344,
-      "modifiedDate": 1715974528555,
-      "sizeInBytes": 759
-    },
     "Code/CSharp Coding Guidelines.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12591,6 +12864,24 @@
       "createdDate": 1714760030567,
       "modifiedDate": 1714976581361,
       "sizeInBytes": 175
+    },
+    "Code/Create a Csharp function in Azure using Visual Studio Code.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 416,
+      "nonWhitespaceCharacterCount": 322,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715110677344,
+      "modifiedDate": 1715974528555,
+      "sizeInBytes": 759
     },
     "Code/CodeQL.md": {
       "isCountable": true,
@@ -12862,24 +13153,6 @@
       "modifiedDate": 1715200473196,
       "sizeInBytes": 512
     },
-    "Code/ASP.NET Core.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 311,
-      "nonWhitespaceCharacterCount": 219,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716143201099,
-      "modifiedDate": 1716143223871,
-      "sizeInBytes": 476
-    },
     "Code/avalonia.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12897,6 +13170,24 @@
       "createdDate": 1715965323184,
       "modifiedDate": 1715965323184,
       "sizeInBytes": 475
+    },
+    "Code/ASP.NET Core.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716143201099,
+      "modifiedDate": 1716143223871,
+      "sizeInBytes": 476
     },
     "Code/ASP.NET 8.md": {
       "isCountable": true,
@@ -12934,24 +13225,6 @@
       "modifiedDate": 1715404720002,
       "sizeInBytes": 595
     },
-    "Code/Akka.Persistence.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 241,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715155432109,
-      "modifiedDate": 1715182799669,
-      "sizeInBytes": 497
-    },
     "Code/Akka.Persistence.Query.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -12969,6 +13242,24 @@
       "createdDate": 1715155641487,
       "modifiedDate": 1715184023710,
       "sizeInBytes": 496
+    },
+    "Code/Akka.Persistence.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 241,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715155432109,
+      "modifiedDate": 1715182799669,
+      "sizeInBytes": 497
     },
     "Code/Akka.NET.md": {
       "isCountable": true,
@@ -12988,77 +13279,95 @@
       "modifiedDate": 1715182731889,
       "sizeInBytes": 715
     },
-    "unsorted/Launch a Windows Store Program from scripting.md": {
+    "daily/2024-05-27.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 43,
+      "wordCount": 35,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 565,
-      "nonWhitespaceCharacterCount": 431,
-      "readingTimeInMinutes": 0.16226415094339622,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 273,
+      "readingTimeInMinutes": 0.1320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1716544723582,
-      "modifiedDate": 1716544923476,
-      "sizeInBytes": 727
+      "createdDate": 1716819718182,
+      "modifiedDate": 1716819719736,
+      "sizeInBytes": 408
     },
-    "unsorted/Convert GLSL shader to HLSL shader.md": {
+    "Study/Microsoft Graph API study.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 33,
+      "wordCount": 433,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11,
-      "characterCount": 479,
-      "nonWhitespaceCharacterCount": 349,
-      "readingTimeInMinutes": 0.12452830188679245,
+      "pageCount": 1.4433333333333334,
+      "characterCount": 3998,
+      "nonWhitespaceCharacterCount": 3418,
+      "readingTimeInMinutes": 1.6339622641509435,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1716556704968,
-      "modifiedDate": 1716556746193,
-      "sizeInBytes": 641
+      "createdDate": 1716819718150,
+      "modifiedDate": 1716823683034,
+      "sizeInBytes": 4317
     },
-    "Code/Elsa.Net.md": {
-      "isCountable": true,
+    "pdfs/ApigeeEdgeCloud_user_SpecSheet.pdf": {
+      "isCountable": false,
       "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 338,
-      "nonWhitespaceCharacterCount": 240,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716567134540,
-      "modifiedDate": 1716567277793,
-      "sizeInBytes": 746
+      "aliases": [],
+      "createdDate": 1716822589030,
+      "modifiedDate": 1716822594631,
+      "sizeInBytes": 136952
     },
-    "Concepts/API Best Practices.md": {
+    "unsorted/bounded context.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 124,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 1528,
-      "nonWhitespaceCharacterCount": 1249,
-      "readingTimeInMinutes": 0.4679245283018868,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1716567838140,
-      "modifiedDate": 1716568575808,
-      "sizeInBytes": 1711
+      "createdDate": 1716823784067,
+      "modifiedDate": 1716824043785,
+      "sizeInBytes": 596
+    },
+    "unsorted/Aggregates.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 219,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716823787637,
+      "modifiedDate": 1716823787946,
+      "sizeInBytes": 473
     }
   }
 }

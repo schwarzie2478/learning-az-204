@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md",
+                "file": "unsorted/bounded context.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dedicated plan",
+                "query": "bounded context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "42bac6edc8c1cc80",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md",
+                "file": "unsorted/bounded context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md",
+                "file": "unsorted/bounded context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md"
+                "file": "unsorted/bounded context.md"
               }
             }
           },
@@ -175,15 +177,14 @@
             }
           },
           {
-            "id": "2a3717564bf2b0e3",
+            "id": "1579d385f252df85",
             "type": "leaf",
             "state": {
               "type": "video-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -196,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md"
+                "file": "unsorted/bounded context.md"
               }
             }
           },
@@ -206,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Concepts/OpenAPI Best Practices.md",
+                "file": "unsorted/bounded context.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 671.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,32 +272,34 @@
   },
   "active": "eae81eeaf51d807e",
   "lastOpenFiles": [
-    "Concepts/API Best Practices.md",
-    "Concepts/OpenAPI Best Practices.md",
-    "MOCs/Task Management.md",
+    "Content/ASP.NET 8 REST API Tutorial  The Sweet Spot Architecture.md",
+    "unsorted/Aggregates.md",
+    "unsorted/bounded context.md",
+    "Study/Microsoft Graph API study.md",
+    "pdfs/ApigeeEdgeCloud_user_SpecSheet.pdf",
+    "pdfs/ApigeeEdgeCloud_user_SpecSheet.pdf.crdownload",
+    "daily/2024-05-27.md",
+    "Concepts/Application Interface Operations.md",
+    "unsorted/Test Calibre Notes.md",
+    "daily/2024-05-26.md",
+    "Concepts/Columnar Database.md",
+    "Concepts/Start Schema.md",
+    "Concepts/Converged Infrastructure.md",
+    "Concepts/Azure Stack.md",
     "templates/Youtube Summary.md",
-    "Study/KSS Open-Telemetry.md",
-    "Code/Elsa.Net.md",
-    "unsorted/Convert GLSL shader to HLSL shader.md",
-    "unsorted/Launch a Windows Store Program from scripting.md",
-    "daily/2024-05-24.md",
-    "Concepts/Architectural Decision Records.md",
-    "Concepts/ADR Example.md",
-    "Excalidraw/Drawing 2024-05-24 00.48.03.excalidraw.md",
-    "Concepts/vertical slice architecture.md",
-    "Content/Review 10 Opinions For Creating More Maintainable .NET Apps.md",
-    "Concepts/feature folders.md",
-    "unsorted/Hexagonal Architecture.md",
-    "unsorted/Data and Ports.md",
-    "unsorted/Domain Driven Design.md",
-    "Concepts/GPT-4.md",
-    "Code/ManagedIdentityCredential.md",
-    "unsorted/Azure Application Insights.md",
-    "Concepts/unit of scale.md",
-    "Concepts/Azure Functions.md",
-    "Concepts/Azure Functions Automatic Scaling.md",
-    "Concepts/App Service Auto Scaling.md",
-    "Code/Markdown Dataflow mermaid example.md",
+    "Content/Don’t Build a Distributed Monolith - Jonathan Tower - NDC London 2023.md",
+    "Content/Books about high-performance software delivery.md",
+    "Concepts/AI Code Review Action.md",
+    "Concepts/Enterworks.md",
+    "Social/D3Clarity.md",
+    "Concepts/SnowFlake.md",
+    "Content/Canonical Modeling - Best Practice Message Modeling for Data Integration.md",
+    "unsorted/AI SDK from vercel.md",
+    "Concepts/Master data Management.md",
+    "unsorted/Master Data.md",
+    "Concepts/ADKAR.md",
+    "unsorted/Reference Data.md",
+    "Concepts/master record.md",
     "pdfs/AZ-204_StudyGuide_ENU_FY23Q3_v2.pdf",
     "Untitled",
     "pdfs/PatternsOfSoftware.pdf",
@@ -305,9 +309,7 @@
     "Study/01-numpy-and-pandas.ipynb",
     "images/VARK-Graphic.webp",
     "images/VARK-Graphic.webp.crdownload",
-    "unsorted",
     "images/central-listener.png",
-    "images/central-listener.png.crdownload",
     "images/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif",
     "images/cbtw-banneremployee-7.png",
     "images/azure-sdk-for-dotnet-overview.png",

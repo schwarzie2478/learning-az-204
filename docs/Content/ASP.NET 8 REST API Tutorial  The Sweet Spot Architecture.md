@@ -610,11 +610,11 @@ driven design into subdomains and
 ```timestamp
  5:13
 ```
-defining the bounded context and finally
+defining the [[bounded context]] and finally
 ```timestamp
  5:15
 ```
-designing the underlying Aggregates
+designing the underlying [[Aggregates]]
 ```timestamp
  5:17
 ```

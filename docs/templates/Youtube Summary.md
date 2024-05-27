@@ -15,19 +15,18 @@ author: <% tp.system.prompt("Paste the youtube creator here") %>
 | ---------- | -------------------------------------------- |
 | Author   | `VIEW[{author}][text(renderMarkdown)]`          |
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
+## Video
 
 - [ ] Review <% title %>
-
-## Video
 `$= "Made by [[" + dv.current().author+"]]"`
+
+## Callouts View
 Open player in Obsidian:
 ```timestamp-url 
  <% url %>
  ```
 
 `$= "![video](" + dv.current().url + ")"`
-
-## Callouts View
 
 ```dataviewjs
 const regex = new RegExp(">\\s\\[\\![a-z]*\\]\\s(.+?)(\\n>\\s.*?)*\\n", "gi")
