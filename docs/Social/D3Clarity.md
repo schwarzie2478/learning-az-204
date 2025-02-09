@@ -18,4 +18,3 @@ aliases:
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
 
-
