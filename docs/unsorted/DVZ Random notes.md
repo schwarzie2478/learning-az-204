@@ -19,11 +19,17 @@ aliases:
 > `VIEW[{definition}][text(renderMarkdown)]`
 
 
-codelijsten, masterdata database
+[[FIGMA]] is used by designers and analysts
+Screenshots in Azure Devops  
+--> mismatched documentatione
 
-figma login ok?
+figma login ok? or force sign off on screenshots
 
-enterprise architect
+enterprise architect /camunda/bpmn
+
+
+codelijsten, masterdata database or take from excell
+
 
 File upload / different from download service? encryption over gateway
 bulk download not with actual attachments,> provide urls of each document already waiting somewhere
@@ -82,6 +88,7 @@ Inkomend : request,  na validatie demand
 
 Activities developer:
 
+support devbox: sam de wolf 
 ref lz: gertjan vanthienen, gerry hendrickx
 data team: olivier lammens? wim cruysberghs
 devops board? ask them
@@ -109,7 +116,7 @@ deploy database
 dacpac ( [guide](https://developer.platform.ibz.be/docs/default/component/guides/guides/dacpac/))  -->OK
 -> what about roll-back?
 
--> what is b in USE [stay.singlepermit.b]
+-> what is b in USE [stay.singlepermit.b]  probably database
 -> Identity_insert allow ( --> OK)
 -> Attachment Table : position of varchar columns (-->not relevant, only for high volume data retrieval could this matter: solved)
 -> Attachment Table : choice varchar nvarchar: FA/TA/ developer
@@ -145,9 +152,31 @@ redeploy -> gertjan help
 how does the deployment work from ACC to PROD
 
 
+# Introduction
+video: https://ibzfgovbe-my.sharepoint.com/personal/franky_gabriels_ibz_be/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffranky%5Fgabriels%5Fibz%5Fbe%2FDocuments%2FRecordings%2FIntroduction%20Business%20contexte%20DVZ%2D20240419%5F141348%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed753aa00%2D0796%2D4bfd%2D966d%2Dd21abdb95f88
+
+# Handy links
+
+Dienst Vreemdelingenzaken.url		link naar de publieke website van de Dienst Vreemdelingenzaken, zeer nuttig om eens door te wandelen, of informatie over de werking op te zoeken.
+
+ 
+
+https://prometis.crm4.dynamics.com	link naar Prometis, om je uren te registreren
+
+SAD Release 2 New.pptx
+ 
+https://ibzfgovbe.sharepoint.com/:p:/r/sites/dvzoe-single.permit/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4fa98c0e-a249-45a2-9486-ca94dd3570c3%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738583699467&web=1
+
+TA Single Permit.docx
+ https://ibzfgovbe.sharepoint.com/:w:/r/sites/dvzoe-single.permit/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B0c8913b3-2241-484e-9dab-0770ea7c4826%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738584056713&web=1
 
 
+Assist installations:  Sam De Wolf
+winget install -e --id MuhammedKalkan.OpenLens
+
+via azure portal -> perform connect actions to make kubectl config on local machine for each cluster
 
 
+winget install -e --id mcmilk.7zip-zstd
 
 

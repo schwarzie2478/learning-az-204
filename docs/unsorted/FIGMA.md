@@ -2,8 +2,8 @@
 status: seedling
 dg-publish: true
 tags:
-  - concept/SRE/database
-creation_date: 2024-05-27 17:29
+  - unsorted
+creation_date: 2025-02-10 15:06
 definition: undefined
 ms-learn-url: undefined
 url: undefined
@@ -19,4 +19,4 @@ aliases:
 > `VIEW[{definition}][text(renderMarkdown)]`
 
 
-[[Domain Driven Design]]
+Design tool online
