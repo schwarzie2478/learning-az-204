@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unsorted/Use Case 16692.md",
+                "file": "unsorted/Azure Event Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case 16692"
+              "title": "Azure Event Grid"
             }
           }
         ],
@@ -220,8 +220,8 @@
             "state": {
               "type": "video-view",
               "state": {},
-              "icon": "video",
-              "title": "Timestamp Video"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -233,9 +233,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "bf5233e17e626f98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -248,10 +258,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "unsorted/Use Case 16692.md"
+                "file": "unsorted/Azure Event Grid.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Use Case 16692"
+              "title": "File properties for Azure Event Grid"
             }
           },
           {
@@ -260,6 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "unsorted/Azure Event Grid.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Azure Event Grid"
             }
           }
         ]
@@ -306,6 +317,7 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "broken-links:View broken links": false,
@@ -320,15 +332,16 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "omnisearch:Omnisearch": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "modalforms:Edit forms": false,
-      "obsidian-kanban:Create new board": false
+      "modalforms:Edit forms": false
     }
   },
   "active": "deffa65697676c53",
   "lastOpenFiles": [
-    "Code/Single Permit Application.md",
-    "unsorted/Use Case 16692.md",
+    "unsorted/Aggregates.md",
     "unsorted/DVZ Random notes.md",
+    "unsorted/FIGMA.md",
+    "unsorted/Use Case 16692.md",
+    "Code/Single Permit Application.md",
     "unsorted/HttpTrigger.md",
     "unsorted/Untitled 1.md",
     "Social/D3Clarity.md",
@@ -350,8 +363,6 @@
     "Content/ASP.NET 8 REST API Tutorial  The Sweet Spot Architecture.md",
     "Concepts/OpenAPI Descriptions.md",
     "Concepts/Application Interface Operations.md",
-    "Concepts/API Guidelines.md",
-    "unsorted/Mockbin.io.md",
     "pdfs/vlc-help.txt",
     "pdfs/PatternsOfSoftware_page1.pdf",
     "pdfs/apigee-web-api-design-the-missing-link-ebook.pdf",
