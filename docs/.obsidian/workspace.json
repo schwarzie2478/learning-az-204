@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0168af9b8785c2d",
+        "id": "f28551daaad65210",
         "type": "tabs",
         "children": [
           {
-            "id": "87e6b4a18525d5a5",
+            "id": "e656633ce51b06f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Single Permit Application"
             }
-          },
-          {
-            "id": "deffa65697676c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unsorted/Azure Event Grid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azure Event Grid"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#entity/organisation",
+                "query": "tag:#code/dotnet/dvz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "7323bbbd2111e9b0",
@@ -258,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "unsorted/Azure Event Grid.md"
+                "file": "Code/Use Case 19401.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Azure Event Grid"
+              "title": "File properties for Use Case 19401"
             }
           },
           {
@@ -270,13 +256,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "unsorted/Azure Event Grid.md",
+                "file": "Code/Single Permit Application.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
-                  "localForelinks": false,
+                  "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": true,
                   "showAttachments": false,
@@ -293,15 +279,16 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3745404962408029,
+                  "scale": 0.7361803367293609,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Azure Event Grid"
+              "title": "Graph of Single Permit Application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -335,17 +322,20 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "deffa65697676c53",
+  "active": "e656633ce51b06f7",
   "lastOpenFiles": [
-    "unsorted/Aggregates.md",
-    "unsorted/DVZ Random notes.md",
-    "unsorted/FIGMA.md",
-    "unsorted/Use Case 16692.md",
+    "Code/Use Case 19401.md",
     "Code/Single Permit Application.md",
-    "unsorted/HttpTrigger.md",
+    "unsorted/Use Case 16692.md",
+    "unsorted/DVZ Random notes.md",
+    "Workflow presention demo.canvas",
     "unsorted/Untitled 1.md",
-    "Social/D3Clarity.md",
     "unsorted/Untitled.md",
+    "unsorted/Azure Event Grid.md",
+    "unsorted/Aggregates.md",
+    "unsorted/FIGMA.md",
+    "unsorted/HttpTrigger.md",
+    "Social/D3Clarity.md",
     "MOCs/Acronyms Aliases.md",
     "MOCs/Glossary.md",
     "Start.md",
@@ -361,8 +351,6 @@
     "Concepts/RESTful web API design.md",
     "Concepts/REST API.md",
     "Content/ASP.NET 8 REST API Tutorial  The Sweet Spot Architecture.md",
-    "Concepts/OpenAPI Descriptions.md",
-    "Concepts/Application Interface Operations.md",
     "pdfs/vlc-help.txt",
     "pdfs/PatternsOfSoftware_page1.pdf",
     "pdfs/apigee-web-api-design-the-missing-link-ebook.pdf",
@@ -383,7 +371,6 @@
     "images/ApiOps-flow.webp",
     "images/ADKAR-with-Image_web.png",
     "images/ADKAR-with-Image_web.webp",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

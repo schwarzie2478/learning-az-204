@@ -18,6 +18,12 @@ aliases:
 > [!NOTE] Definition
 > `VIEW[{definition}][text(renderMarkdown)]`
 
+Use devbox to develop:
+- Visual Studio Code ( no VS2022?)
+- additional software : go to 'Company Portal' app on devbox
+
+No access to databases outside devbox and clusters
+
 
 [[FIGMA]] is used by designers and analysts
 Screenshots in Azure Devops  
@@ -116,7 +122,7 @@ deploy database
 dacpac ( [guide](https://developer.platform.ibz.be/docs/default/component/guides/guides/dacpac/))  -->OK
 -> what about roll-back?
 
--> what is b in USE [stay.singlepermit.b]  probably database
+-> what is b in USE [stay.singlepermit.b]  probably database (fullyqualified servername?)
 -> Identity_insert allow ( --> OK)
 -> Attachment Table : position of varchar columns (-->not relevant, only for high volume data retrieval could this matter: solved)
 -> Attachment Table : choice varchar nvarchar: FA/TA/ developer

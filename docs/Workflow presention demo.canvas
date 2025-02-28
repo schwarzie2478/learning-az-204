@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b6f0c7a0656586ef","x":-360,"y":-720,"width":400,"height":149,"type":"file","file":"Code/Single Permit Application.md"},
+		{"id":"3d1156345ea02a18","x":120,"y":-571,"width":400,"height":400,"type":"file","file":"unsorted/Use Case 16692.md"},
+		{"id":"484c9d76f11b8d26","x":600,"y":-171,"width":600,"height":91,"type":"text","text":"## Done and commited dev branch"},
+		{"id":"be6107ee45c01e19","x":814,"y":-954,"width":546,"height":114,"type":"text","text":"# Triggers AzurePipelines in my repo\n"}
+	],
+	"edges":[
+		{"id":"88f7037724399dfc","fromNode":"b6f0c7a0656586ef","fromSide":"right","toNode":"3d1156345ea02a18","toSide":"left"},
+		{"id":"adcccd57a7022d6f","fromNode":"3d1156345ea02a18","fromSide":"right","toNode":"484c9d76f11b8d26","toSide":"left"},
+		{"id":"c5359ec9f544477c","fromNode":"484c9d76f11b8d26","fromSide":"right","toNode":"be6107ee45c01e19","toSide":"left"}
+	]
+}
